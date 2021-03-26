@@ -75,7 +75,7 @@ sections:
           - Other
       - input_type: textarea
         name: message
-        label: Message
+        label: MESSAGE
         default_value: Your message
     submit_label: Send Message
     align_vert: top
