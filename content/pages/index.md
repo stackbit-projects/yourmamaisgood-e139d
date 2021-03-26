@@ -60,6 +60,12 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/fGxFeF_2hYk" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
     feature_padding_vert: large
     align: center
     background_color: primary
