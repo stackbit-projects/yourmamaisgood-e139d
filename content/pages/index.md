@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: VOTRE NÉGOCIANT DE MATIÈRE
+    title: 'VOTRE NÉGOCIANT DE MATIÈRES '
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
