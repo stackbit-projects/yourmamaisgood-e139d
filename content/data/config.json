@@ -123,15 +123,6 @@
                 "new_window": true
             },
             {
-                "label": "Li",
-                "url": "https://github.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "github",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/",
                 "style": "link",
@@ -155,6 +146,15 @@
                 "style": "link",
                 "has_icon": true,
                 "icon": "vimeo",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "Li",
+                "url": "https://github.com/",
+                "style": "link",
+                "has_icon": true,
+                "icon": "github",
                 "icon_position": "center",
                 "new_window": true
             }
