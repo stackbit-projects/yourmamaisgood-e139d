@@ -24,7 +24,7 @@ sections:
   - type: features_section
     features:
       - title: PRODUITS
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: BLA BLA BLA
         image_alt: Brandon Guidelines
         media_position: left
         media_width: fifty
