@@ -73,7 +73,7 @@ sections:
   - type: blog_feed_section
     title: Actualités
     actions:
-      - label: View All
+      - label: VOIR PLUS D'ACTUALITES
         url: /blog
         style: primary
     blog_feed_cols: three
