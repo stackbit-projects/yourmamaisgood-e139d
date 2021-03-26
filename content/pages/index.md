@@ -24,7 +24,7 @@ sections:
   - type: features_section
     features:
       - title: PRODUITS
-        subtitle: BLA BLA BLA
+        subtitle: 'NOTRE MISSION : BLA BLA BLA'
         image_alt: Brandon Guidelines
         media_position: left
         media_width: fifty
