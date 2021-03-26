@@ -66,10 +66,6 @@ sections:
           - Error on the site
           - Sponsorship
           - Other
-      - input_type: textarea
-        name: message
-        label: Message
-        default_value: Your message
       - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
@@ -77,6 +73,10 @@ sections:
         options: []
         is_required: false
         type: form_field
+      - input_type: textarea
+        name: message
+        label: Message
+        default_value: Your message
     submit_label: Send Message
     align_vert: top
     padding_top: none
