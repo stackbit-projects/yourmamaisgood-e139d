@@ -49,7 +49,7 @@ sections:
   - type: features_section
     features:
       - title: SERVICES
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: 'NOTRE MISSION : BLA BLA'
         actions:
           - label: DECOUVRIR NOS SERVICES
             url: /style-guide
