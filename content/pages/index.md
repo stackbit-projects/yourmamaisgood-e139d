@@ -30,7 +30,7 @@ sections:
         media_position: left
         media_width: fifty
         actions:
-          - label: 'DECOUVREZ '
+          - label: DECOUVREZ NOS PRO
             url: '#'
             style: link
             has_icon: false
