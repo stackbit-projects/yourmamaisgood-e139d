@@ -50,7 +50,8 @@
                 "url": "/pricing",
                 "style": "primary",
                 "has_icon": true,
-                "icon": "globe"
+                "icon": "globe",
+                "icon_position": "right"
             }
         ],
         "has_anncmnt": false,
