@@ -58,6 +58,13 @@ sections:
         options: []
         is_required: false
         type: form_field
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
       - input_type: select
         name: subject
         label: Subject
@@ -66,13 +73,6 @@ sections:
           - Error on the site
           - Sponsorship
           - Other
-      - input_type: text
-        name: lorem-ipsum
-        label: lorem-ipsum
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
-        type: form_field
       - input_type: textarea
         name: message
         label: Message
