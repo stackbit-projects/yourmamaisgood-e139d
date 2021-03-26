@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: GROUPE X
-    subtitle: Optional hero section subtitle
+    subtitle: 'VOTRE NÉGOCIANT DE MATIÈRES PREMIÈRES & INGRÉDIENTS ALIMENTAIRES '
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
