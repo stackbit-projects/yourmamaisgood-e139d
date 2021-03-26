@@ -1,5 +1,5 @@
 ---
-title: DESCRIPTION DE L'ARTICLE
+title: DESCRIPTION DE L'ARTICLE DE PRESSE
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
