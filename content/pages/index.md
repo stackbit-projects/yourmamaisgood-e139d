@@ -25,7 +25,6 @@ sections:
     features:
       - title: PRODUITS
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
-        image: images/classic/feature-1.png
         image_alt: Brandon Guidelines
         media_position: left
         media_width: fifty
