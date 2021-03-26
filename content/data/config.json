@@ -49,7 +49,8 @@
                 "label": "Get Started",
                 "url": "/pricing",
                 "style": "primary",
-                "has_icon": true
+                "has_icon": true,
+                "icon": "globe"
             }
         ],
         "has_anncmnt": false,
