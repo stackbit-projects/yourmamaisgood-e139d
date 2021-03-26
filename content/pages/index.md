@@ -20,7 +20,7 @@ sections:
     media_width: fifty
     align: left
     padding_top: small
-    padding_bottom: small
+    padding_bottom: medium
     background_color: none
   - type: features_section
     features:
