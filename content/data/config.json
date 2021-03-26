@@ -51,7 +51,7 @@
                 "style": "primary",
                 "has_icon": true,
                 "icon": "globe",
-                "icon_position": "right"
+                "icon_position": "left"
             }
         ],
         "has_anncmnt": false,
