@@ -35,7 +35,6 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: features_section
-    title: Features Section
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
