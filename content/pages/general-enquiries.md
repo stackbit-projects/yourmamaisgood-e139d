@@ -44,6 +44,13 @@ sections:
         options: []
         is_required: false
         type: form_field
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
       - input_type: select
         name: subject
         label: Subject
@@ -56,13 +63,6 @@ sections:
         name: message
         label: Message
         default_value: Your message
-      - input_type: text
-        name: lorem-ipsum
-        label: lorem-ipsum
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
-        type: form_field
       - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
