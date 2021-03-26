@@ -58,7 +58,7 @@ sections:
     submit_label: Send Message
     align_vert: top
     padding_top: none
-    padding_bottom: medium
+    padding_bottom: none
     background_color: none
 seo:
   title: General Enquiries
