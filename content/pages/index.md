@@ -30,7 +30,7 @@ sections:
         media_position: left
         media_width: fifty
         actions:
-          - label: lorem-ipsum
+          - label: 'DECOUVREZ '
             url: '#'
             style: link
             has_icon: false
