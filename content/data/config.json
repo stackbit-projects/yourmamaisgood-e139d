@@ -110,7 +110,7 @@
             },
             {
                 "label": "lorem-ipsum",
-                "url": "#",
+                "url": "/blog/category/news",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
