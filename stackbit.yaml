@@ -1619,6 +1619,7 @@ models:
           - twitter
           - vimeo
           - youtube
+          - globe
       - type: enum
         name: icon_position
         label: Icon position
