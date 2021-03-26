@@ -30,7 +30,7 @@ sections:
         media_position: left
         media_width: fifty
         actions:
-          - label: DECOUVREZ NOS PRODUITS
+          - label: DECOUVRIR NOS PRODUITS
             url: '#'
             style: link
             has_icon: false
