@@ -71,7 +71,7 @@ sections:
     background_color: primary
     background_image: images/2.svg
   - type: blog_feed_section
-    title: What's New
+    title: Actualités
     actions:
       - label: View All
         url: /blog
