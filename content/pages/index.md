@@ -30,7 +30,7 @@ sections:
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/classic/feature-1.png
         image_alt: Brandon Guidelines
-        media_position: right
+        media_position: left
         media_width: fifty
     feature_padding_vert: small
     background_color: primary
