@@ -53,7 +53,7 @@ sections:
         type: form_field
       - input_type: select
         name: country
-        label: lorem-ipsum
+        label: COUNTRY
         default_value: lorem-ipsum
         options: []
         is_required: false
