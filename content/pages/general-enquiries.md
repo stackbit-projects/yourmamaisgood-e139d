@@ -21,7 +21,7 @@ sections:
       fringilla, fringilla.
     content_align: left
     form_position: right
-    form_width: fifty
+    form_width: sixty
     form_layout: inline
     enable_card: true
     form_id: contact-form
