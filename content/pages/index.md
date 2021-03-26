@@ -38,6 +38,12 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/fGxFeF_2hYk" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
     feature_padding_vert: small
     background_color: primary
   - type: features_section
