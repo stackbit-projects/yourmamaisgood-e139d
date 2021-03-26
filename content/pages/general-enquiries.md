@@ -2,7 +2,6 @@
 title: General enquiries
 sections:
   - type: hero_section
-    title: This is the Hero
     align: center
     padding_top: medium
     padding_bottom: medium
