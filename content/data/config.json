@@ -131,7 +131,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Tutorials",
                 "url": "/blog/category/tutorials",
                 "style": "link",
                 "has_icon": false,
