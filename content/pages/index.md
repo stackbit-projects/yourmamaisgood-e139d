@@ -46,7 +46,7 @@ sections:
       - title: SERVICES
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         actions:
-          - label: Learn More
+          - label: DECOUVRIR NOS SERVICES
             url: /style-guide
             style: primary
             has_icon: true
