@@ -120,7 +120,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "General",
                 "url": "/blog/category/general",
                 "style": "link",
                 "has_icon": false,
