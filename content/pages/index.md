@@ -55,7 +55,7 @@ sections:
         media_width: fifty
     feature_padding_vert: large
     align: center
-    background_color: secondary
+    background_color: primary
     background_image: images/2.svg
   - type: blog_feed_section
     title: What's New
