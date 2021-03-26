@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: GROUPE X
     subtitle: >-
-      NÉGOCE  DE MATIÈRES PREMIÈRES & INGRÉDIENTS POUR L'INDUSTRIE
+      NÉGOCE DE MATIÈRES PREMIÈRES & INGRÉDIENTS POUR L'INDUSTRIE
       AGROALIMENTAIRE 
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
