@@ -109,7 +109,7 @@
                 "style": "link"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "News",
                 "url": "/blog/category/news",
                 "style": "link",
                 "has_icon": false,
