@@ -1,5 +1,5 @@
 ---
-title: DESC
+title: DESCRIPTION DE L'ARTICLE
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
