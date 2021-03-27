@@ -49,7 +49,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: S
+      - title: Se
         subtitle: 'NOTRE MISSION : BLA BLA'
         actions:
           - label: DECOUVRIR NOS SERVICES
