@@ -30,7 +30,7 @@ sections:
 
           + [Guinée](https://www.apple.com/gn/)
 
-          [Guinée Equatoriale](https://www.apple.com/gq/)
+          + [Guinée Equatoriale](https://www.apple.com/gq/)
 
           [India](https://www.apple.com/in/)
 
