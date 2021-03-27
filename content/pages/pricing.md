@@ -50,7 +50,6 @@ sections:
         actions_width: full-width
       - title_align: left
         content: |
-
           ***
 
           + [Oman](https://www.a.com/om/)
