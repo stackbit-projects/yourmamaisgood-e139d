@@ -91,7 +91,7 @@ sections:
          + [中国大陆](https://www.a.com.cn/)
          + [Hong Kong](https://www.a.com/hk/en/)
          + [香港](https://www.a.com/hk/)
-         + [Indonesia](https://www.apple.com/id/)
+         + [Indonesia](https://www.a.com/id/)
         content_align: left
         actions: []
         actions_align: left
@@ -105,7 +105,7 @@ sections:
       - title_align: left
         content: |+
           ***
-          + [日本](https://www.apple.com/jp/)
+          + [日本](https://www.a.com/jp/)
           + [대한민국](https://www.apple.com/kr/)
           + [澳門](https://www.apple.com/mo/)
           + [Malaysia](https://www.apple.com/my/)
