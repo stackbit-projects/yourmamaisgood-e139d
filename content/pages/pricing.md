@@ -90,8 +90,7 @@ sections:
          + [Australia](https://www.apple.com/au/)
          + [中国大陆](https://www.apple.com.cn/)
          + [Hong Kong](https://www.apple.com/hk/en/)
-
-          + [香港](https://www.apple.com/hk/)
+         + [香港](https://www.apple.com/hk/)
 
           + [Indonesia](https://www.apple.com/id/)
         content_align: left
