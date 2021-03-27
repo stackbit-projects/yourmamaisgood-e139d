@@ -30,10 +30,7 @@ sections:
           *   Fringilla diam magnis libero lacinia
           *   Litora primis facilisis ullamcorper per
         content_align: left
-        actions:
-          - label: Start with Premium
-            url: /features
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
         title: ASIA PACIFIC
@@ -55,11 +52,9 @@ sections:
         actions_width: full-width
         title: EUROPE
       - title_align: left
-        content: >-
+        content: |-
           ***
-          
           - Lorem ipsum
-
           - dolor sit ame
         content_align: left
         actions: []
