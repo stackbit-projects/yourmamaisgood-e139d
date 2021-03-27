@@ -393,8 +393,8 @@ sections:
         type: grid_item
       - title_align: left
         content: |
-          + [Puerto Rico (English)](https://www.apple.com/lae/)
-          + [Puerto Rico (Español)](https://www.apple.com/la/)
+          + [Puerto Rico (English)](https://www.a.com/lae/)
+          + [Puerto Rico (Español)](https://www.a.com/la/)
         content_align: left
         actions: []
         actions_align: left
