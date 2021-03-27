@@ -324,18 +324,18 @@ sections:
         type: grid_item
       - title_align: left
         content: |
-         + [Perú](https://www.a.com/la/) 
-         + [St. Kitts & Nevis](https://www.a.com/lae/)
-         + [St. Lucia](https://www.a.com/lae/)
-         + [St. Vincent & The\_Grenadines](https://www.a.com/lae/)
-         + [Suriname](https://www.a.com/lae/)
-         + [The Bahamas](https://www.a.com/lae/)
-         + [Trinidad & Tobago](https://www.a.com/lae/)
-         + [Turks & Caicos](https://www.a.com/lae/)
-         + [Uruguay](https://www.a.com/la/)
-         + [Venezuela](https://www.a.com/la/)
-         + [América Latina y\_el Caribe (Español)](https://www.a.com/la/)
-         + [Latin America and the Caribbean (English)](https://www.a.com/lae/)
+          + [Perú](https://www.a.com/la/) 
+          + [St. Kitts & Nevis](https://www.a.com/lae/)
+          + [St. Lucia](https://www.a.com/lae/)
+          + [St. Vincent & The\_Grenadines](https://www.a.com/lae/)
+          + [Suriname](https://www.a.com/lae/)
+          + [The Bahamas](https://www.a.com/lae/)
+          + [Trinidad & Tobago](https://www.a.com/lae/)
+          + [Turks & Caicos](https://www.a.com/lae/)
+          + [Uruguay](https://www.a.com/la/)
+          + [Venezuela](https://www.a.com/la/)
+          + [América Latina y\_el Caribe (Español)](https://www.a.com/la/)
+          + [Latin America and the Caribbean (English)](https://www.a.com/lae/)
         content_align: left
         actions: []
         actions_align: left
@@ -399,6 +399,36 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    image_alt: lorem-ipsum
+    video_embed_html: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+    media_position: top
+    media_width: fifty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
 seo:
   title: Pricing
   description: This is the pricing page
