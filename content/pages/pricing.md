@@ -73,7 +73,6 @@ sections:
     background_color: none
     title: 'Africa, Middle East, and India'
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
