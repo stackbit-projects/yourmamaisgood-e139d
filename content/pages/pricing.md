@@ -99,6 +99,7 @@ sections:
     has_border: false
     background_color: none
     subtitle: Très
+    title: Gggg
   - type: grid_section
     title: 'You asked, we answered!'
     grid_items:
