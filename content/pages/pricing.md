@@ -324,8 +324,6 @@ sections:
         type: grid_item
       - title_align: left
         content: |
-        + [Perú](https://www.apple.com/la/) 
-        [St. Kitts & Nevis](https://www.apple.com/lae/)
          + [Perú](https://www.apple.com/la/) 
          + [St. Kitts & Nevis](https://www.apple.com/lae/)
          + [St. Lucia](https://www.apple.com/lae/)\n\n*   
