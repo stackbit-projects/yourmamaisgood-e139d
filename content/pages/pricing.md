@@ -226,10 +226,8 @@ sections:
           + [Sverige](https://www.apple.com/se/)
           + [Tajikistan](https://www.apple.com/tj/)
           + [Türkiye](https://www.apple.com/tr/)
-
-          *   [Turkmenistan](https://www.apple.com/tm/)
-
-          *   [United Kingdom](https://www.apple.com/uk/)
+          + [Turkmenistan](https://www.apple.com/tm/)
+          + [United Kingdom](https://www.apple.com/uk/)
 
           *   [Україна](https://www.apple.com/ua/)
 
