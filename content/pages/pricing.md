@@ -56,7 +56,7 @@ sections:
         title: EUROPE
       - title_align: left
         content: >-
-          
+          ***
           - Lorem ipsum
 
           - dolor sit ame
