@@ -377,8 +377,7 @@ sections:
   - title: 'The United States, Canada, and Puerto Rico'
     actions: []
     grid_items:
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
