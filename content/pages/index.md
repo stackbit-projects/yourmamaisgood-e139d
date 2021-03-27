@@ -24,7 +24,7 @@ sections:
       that build successful businesses and communities.
   - type: features_section
     features:
-      - title: PRODUITS
+      - title: PRoducts
         subtitle: 'NOTRE MISSION : BLA BLA BLA'
         image_alt: Brandon Guidelines
         media_position: left
