@@ -280,12 +280,9 @@ sections:
           + [Belize](https://www.apple.com/lae/)
           + [Bermuda](https://www.apple.com/lae/)
           + [Bolivia](https://www.apple.com/la/)
-
-          *   [Brasil](https://www.apple.com/br/)
-
-          *   [British Virgin Islands](https://www.apple.com/lae/)
-
-          *   [Cayman Islands](https://www.apple.com/lae/)
+          + [Brasil](https://www.apple.com/br/)
+          + [British Virgin Islands](https://www.apple.com/lae/)
+          + [Cayman Islands](https://www.apple.com/lae/)
 
           *   [Chile](https://www.apple.com/cl/)
 
