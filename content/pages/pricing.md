@@ -326,7 +326,7 @@ sections:
         content: |
          + [Perú](https://www.a.com/la/) 
          + [St. Kitts & Nevis](https://www.a.com/lae/)
-         + [St. Lucia](https://www.a.com/lae/)\n\n*   
+         + [St. Lucia](https://www.a.com/lae/)
          + [St. Vincent & The\_Grenadines](https://www.a.com/lae/)
          + [Suriname](https://www.a.com/lae/)
          + [The Bahamas](https://www.a.com/lae/)
