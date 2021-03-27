@@ -20,15 +20,10 @@ sections:
           + [Côte d'Ivoire](https://www.apple.com/ci/)
           + [Egypt](https://www.apple.com/eg/)
           + [مصر](https://www.apple.com/eg-ar/)
-
           + [Guinea-Bissau](https://www.apple.com/gw/)
-
           + [Guinée](https://www.apple.com/gn/)
-
           + [Guinée Equatoriale](https://www.apple.com/gq/)
-
           + [India](https://www.apple.com/in/)
-
           + [Israel](https://www.apple.com/il/)
 
         content_align: left
