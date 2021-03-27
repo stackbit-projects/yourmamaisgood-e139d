@@ -275,7 +275,7 @@ sections:
         content: |
           + [Anguilla](https://www.apple.com/lae/)
           + [Antigua & Barbuda](https://www.apple.com/lae/)
-[Argentina](https://www.apple.com/la/)
+          + [Argentina](https://www.apple.com/la/)
 
           *   [Barbados](https://www.apple.com/lae/)
 
