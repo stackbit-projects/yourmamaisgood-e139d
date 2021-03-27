@@ -31,7 +31,6 @@ sections:
       - title_align: left
         content: |
           ***
-
           + [Jordan](https://www.a.com/jo/)
           + [الأردن](https://www.a.com/jo-ar/)
           + [Kenya](https://www.a.com/ke/)
