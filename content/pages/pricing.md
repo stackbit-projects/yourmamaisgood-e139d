@@ -44,7 +44,7 @@ sections:
         actions_width: full-width
       - title_align: left
         content: |
-        
+        ***
           [Jordan](https://www.apple.com/jo/)
 
           [الأردن](https://www.apple.com/jo-ar/)
