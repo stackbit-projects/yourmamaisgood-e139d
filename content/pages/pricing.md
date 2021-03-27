@@ -56,7 +56,7 @@ sections:
     
           ***
           
-          [Oman](https://www.apple.com/om/)
+          + [Oman](https://www.apple.com/om/)
 
           [عُمان](https://www.apple.com/om-ar/)
 
