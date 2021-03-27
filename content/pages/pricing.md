@@ -229,8 +229,7 @@ sections:
           + [Turkmenistan](https://www.apple.com/tm/)
           + [United Kingdom](https://www.apple.com/uk/)
           + [Україна](https://www.apple.com/ua/)
-
-          *   [Uzbekistan](https://www.apple.com/uz/)
+          + [Uzbekistan](https://www.apple.com/uz/)
         content_align: left
         actions: []
         actions_align: left
