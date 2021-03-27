@@ -75,7 +75,8 @@ sections:
         actions_align: left
         actions_width: full-width
       - title_align: left
-        content: |
+        content: |+
+        
           [Oman](https://www.apple.com/om/)
 
           *   [عُمان](https://www.apple.com/om-ar/)
