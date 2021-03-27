@@ -35,7 +35,7 @@ sections:
 
           ***
 
-          [Jordan](https://www.apple.com/jo/)
+          + [Jordan](https://www.apple.com/jo/)
 
           [الأردن](https://www.apple.com/jo-ar/)
 
