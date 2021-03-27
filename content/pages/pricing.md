@@ -188,28 +188,18 @@ sections:
       - title_align: left
         content: |
           + [Italia](https://www.apple.com/it/)
-          +[Kazakhstan](https://www.apple.com/kz/)
+          + [Kazakhstan](https://www.apple.com/kz/)
           + [Kyrgyzstan](https://www.apple.com/kg/)
-
-          *   [Latvija](https://www.apple.com/lv/)
-
-          *   [Liechtenstein](https://www.apple.com/li/)
-
-          *   [Lietuva](https://www.apple.com/lt/)
-
-          *   [Luxembourg](https://www.apple.com/lu/)
-
-          *   [Magyarország](https://www.apple.com/hu/)
-
-          *   [Malta](https://www.apple.com/mt/)
-
-          *   [Moldova](https://www.apple.com/md/)
-
-          *   [Montenegro](https://www.apple.com/me/)
-
-          *   [Nederland](https://www.apple.com/nl/)
-
-          *   [North Macedonia](https://www.apple.com/mk/)
+          + [Latvija](https://www.apple.com/lv/)
+          + [Liechtenstein](https://www.apple.com/li/)
+          + [Lietuva](https://www.apple.com/lt/)
+          + [Luxembourg](https://www.apple.com/lu/)
+          + [Magyarország](https://www.apple.com/hu/)
+          + [Malta](https://www.apple.com/mt/)
+          + [Moldova](https://www.apple.com/md/)
+          + [Montenegro](https://www.apple.com/me/)
+          + [Nederland](https://www.apple.com/nl/)
+          + [North Macedonia](https://www.apple.com/mk/)
 
           *   [Norge](https://www.apple.com/no/)
 
