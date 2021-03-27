@@ -65,7 +65,7 @@ sections:
           + [Sénégal](https://www.a.com/sn/)
           + [South Africa](https://www.a.com/za/)
           + [Tunisie](https://www.a.com/tn/)
-          + [Uganda](https://www.apple.com/ug/)
+          + [Uganda](https://www.a.com/ug/)
           + [United Arab Emirates](https://www.apple.com/ae/)
           + [الإمارات العربية المتحدة](https://www.apple.com/ae-ar/)
         content_align: left
