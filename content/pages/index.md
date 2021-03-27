@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    title: GROUPE X
     actions:
       - label: Try Free
         url: /pricing
