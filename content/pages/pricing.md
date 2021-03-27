@@ -37,7 +37,7 @@ sections:
 
           + [Jordan](https://www.apple.com/jo/)
 
-          [الأردن](https://www.apple.com/jo-ar/)
+          + [الأردن](https://www.apple.com/jo-ar/)
 
           [Kenya](https://www.apple.com/ke/)
 
