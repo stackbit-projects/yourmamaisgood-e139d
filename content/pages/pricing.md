@@ -13,7 +13,7 @@ sections:
         title_align: left
         content: |
           ***
-          [Algeria](www.test)
+          [Algeria](www.test.com)
         content_align: left
         actions: []
         actions_align: left
