@@ -127,17 +127,16 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          [Philippines](https://www.apple.com/ph/)
 
+          *   [Singapore](https://www.apple.com/sg/)
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   [台灣](https://www.apple.com/tw/)
 
+          *   [ไทย](https://www.apple.com/th/)
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   [Vietnam](https://www.apple.com/vn/)
         content_align: left
         actions: []
         actions_align: left
