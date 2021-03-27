@@ -78,7 +78,7 @@ sections:
 
           + [United Arab Emirates](https://www.apple.com/ae/)
 
-          [الإمارات العربية المتحدة](https://www.apple.com/ae-ar/)
+          + [الإمارات العربية المتحدة](https://www.apple.com/ae-ar/)
         content_align: left
         actions: []
         actions_align: left
