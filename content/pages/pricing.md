@@ -9,7 +9,7 @@ sections:
   - type: grid_section
     grid_items:
       - title_align: left
-        content: |
+        content: |+
           ***
 
           + [Bahrain](https://www.apple.com/bh/)
