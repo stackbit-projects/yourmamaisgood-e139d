@@ -305,18 +305,12 @@ sections:
           + [Grenada](https://www.apple.com/lae/)
           + [Guatemala](https://www.apple.com/la/)
           + [Guyana](https://www.apple.com/lae/)
-
-          *   [Honduras](https://www.apple.com/la/)
-
-          *   [Jamaica](https://www.apple.com/lae/)
-
-          *   [México](https://www.apple.com/mx/)
-
-          *   [Montserrat](https://www.apple.com/lae/)
-
-          *   [Nicaragua](https://www.apple.com/la/)
-
-          *   [Panamá](https://www.apple.com/la/)
+          + [Honduras](https://www.apple.com/la/)
+          + [Jamaica](https://www.apple.com/lae/)
+          + [México](https://www.apple.com/mx/)
+          + [Montserrat](https://www.apple.com/lae/)
+          + [Nicaragua](https://www.apple.com/la/)
+          + [Panamá](https://www.apple.com/la/)
 
           *   [Paraguay](https://www.apple.com/la/)
         content_align: left
