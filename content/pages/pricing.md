@@ -5,7 +5,7 @@ sections:
     title: Aure Worldwide
     subtitle: Optional hero section subtitle
     align: center
-    padding_top: none
+    padding_top: large
     padding_bottom: none
   - type: grid_section
     grid_items:
