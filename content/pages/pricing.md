@@ -311,17 +311,32 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          [República Dominicana](https://www.apple.com/la/)
 
+          *   [Ecuador](https://www.apple.com/la/)
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   [El Salvador](https://www.apple.com/la/)
 
+          *   [Grenada](https://www.apple.com/lae/)
 
-          - Lorem ipsum
+          *   [Guatemala](https://www.apple.com/la/)
 
-          - dolor sit amet
+          *   [Guyana](https://www.apple.com/lae/)
+
+          *   [Honduras](https://www.apple.com/la/)
+
+          *   [Jamaica](https://www.apple.com/lae/)
+
+          *   [México](https://www.apple.com/mx/)
+
+          *   [Montserrat](https://www.apple.com/lae/)
+
+          *   [Nicaragua](https://www.apple.com/la/)
+
+          *   [Panamá](https://www.apple.com/la/)
+
+          *   [Paraguay](https://www.apple.com/la/)
         content_align: left
         actions: []
         actions_align: left
