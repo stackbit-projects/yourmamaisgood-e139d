@@ -14,7 +14,7 @@ sections:
 
           [Bahrain](https://www.apple.com/bh/)
 
-          [البحرين](https://www.apple.com/bh-ar/)
+        [البحرين](https://www.apple.com/bh-ar/)
 
           *   [Botswana](https://www.apple.com/bw/)
 
