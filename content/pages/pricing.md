@@ -43,7 +43,7 @@ sections:
 
           + [Kuwait](https://www.apple.com/kw/)
 
-          [الكويت](https://www.apple.com/kw-ar/)
+          + [الكويت](https://www.apple.com/kw-ar/)
 
           [Madagascar](https://www.apple.com/mg/)
 
