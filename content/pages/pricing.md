@@ -2,7 +2,6 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: Aure Worldwide
     align: center
     padding_top: large
     padding_bottom: none
