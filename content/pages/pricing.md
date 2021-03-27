@@ -109,8 +109,7 @@ sections:
           + [대한민국](https://www.apple.com/kr/)
           + [澳門](https://www.apple.com/mo/)
           + [Malaysia](https://www.apple.com/my/)
-
-          *   [New Zealand](https://www.apple.com/nz/)
+          + [New Zealand](https://www.apple.com/nz/)
         content_align: left
         actions: []
         actions_align: left
