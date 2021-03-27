@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     align: center
     padding_top: medium
-    padding_bottom: small
+    padding_bottom: medium
     background_color: secondary
     title: Demo Worldwide
     subtitle: 'Located globally, impacting locally'
