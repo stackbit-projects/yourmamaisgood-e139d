@@ -11,7 +11,6 @@ sections:
       - title_align: left
         content: |
           ####
-
           *   [Bahrain](https://www.a.com/bh/)
           *   [البحرين](https://www.a.com/bh-ar/)
           *   [Botswana](https://www.a.com/bw/)
