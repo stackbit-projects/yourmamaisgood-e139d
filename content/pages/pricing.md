@@ -6,6 +6,7 @@ sections:
     padding_top: small
     padding_bottom: none
     background_color: secondary
+    title: Demo Worldwide
   - type: grid_section
     grid_items:
       - title_align: left
