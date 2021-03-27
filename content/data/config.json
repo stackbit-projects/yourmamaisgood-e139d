@@ -29,7 +29,8 @@
             },
             {
                 "url": "/style-guide",
-                "style": "link"
+                "style": "link",
+                "label": "NEWS"
             }
         ],
         "has_secondary_nav": true,
