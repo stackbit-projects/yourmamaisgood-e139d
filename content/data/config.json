@@ -67,7 +67,7 @@
         "tertiary_nav_title": "Informations et documentation",
         "tertiary_nav_links": [
             {
-                "label": "Terms & Conditions",
+                "label": "Privacy",
                 "url": "/terms-conditions",
                 "style": "link"
             },
