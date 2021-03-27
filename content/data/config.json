@@ -45,7 +45,8 @@
                 "style": "primary",
                 "has_icon": true,
                 "icon": "globe",
-                "icon_position": "left"
+                "icon_position": "left",
+                "label": "WOR"
             }
         ],
         "has_anncmnt": false,
