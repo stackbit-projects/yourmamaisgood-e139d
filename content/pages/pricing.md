@@ -76,6 +76,7 @@ sections:
     background_color: primary
     background_image: images/2.svg
     subtitle: 'Africa, Middle East, and India'
+    title: 'Africa, Middle East, and India'
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
