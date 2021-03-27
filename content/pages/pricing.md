@@ -30,7 +30,7 @@ sections:
 
           [Guinea-Bissau](https://www.apple.com/gw/)
 
-          *   [Guinée](https://www.apple.com/gn/)
+          [Guinée](https://www.apple.com/gn/)
 
           *   [Guinée Equatoriale](https://www.apple.com/gq/)
 
