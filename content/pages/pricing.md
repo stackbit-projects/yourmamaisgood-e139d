@@ -41,7 +41,7 @@ sections:
 
           + [Kenya](https://www.apple.com/ke/)
 
-          [Kuwait](https://www.apple.com/kw/)
+          + [Kuwait](https://www.apple.com/kw/)
 
           [الكويت](https://www.apple.com/kw-ar/)
 
