@@ -30,9 +30,8 @@ sections:
         actions: []
         actions_align: left
         actions_width: full-width
-        title: 'Africa, Middle East, and India'
       - title_align: left
-        content: |+
+        content: |
           ***
 
           + [Jordan](https://www.a.com/jo/)
