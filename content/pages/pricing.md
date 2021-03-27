@@ -164,8 +164,7 @@ sections:
           + [Belarus](https://www.apple.com/by/)
           + [België](https://www.apple.com/benl/)
           + [Belgique](https://www.apple.com/befr/)
-
-          *   [България](https://www.apple.com/bg/)
+          + [България](https://www.apple.com/bg/)
 
           *   [Česko](https://www.apple.com/cz/)
 
