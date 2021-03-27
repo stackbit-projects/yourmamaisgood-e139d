@@ -451,6 +451,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+    background_image: images/2.svg
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
