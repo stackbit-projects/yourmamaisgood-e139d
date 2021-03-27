@@ -87,7 +87,7 @@ sections:
       - title_align: left
         content: |+
          ***
-         + [Australia](https://www.apple.com/au/)
+         + [Australia](https://www.a.com/au/)
          + [中国大陆](https://www.apple.com.cn/)
          + [Hong Kong](https://www.apple.com/hk/en/)
          + [香港](https://www.apple.com/hk/)
