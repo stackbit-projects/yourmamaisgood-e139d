@@ -60,7 +60,7 @@ sections:
 
           + [عُمان](https://www.apple.com/om-ar/)
 
-          [Qatar](https://www.apple.com/qa/)
+          + [Qatar](https://www.apple.com/qa/)
 
           [قطر](https://www.apple.com/qa-ar/)
 
