@@ -81,7 +81,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-    title: 'Africa, Middle East, and India'
   - title: Asia Pacific
     actions: []
     grid_items:
