@@ -299,11 +299,10 @@ sections:
         type: grid_item
       - title_align: left
         content: |
-          + [República Dominicana](https://www.apple.com/la/[Ecuador](https://www.apple.com/la/)
-
-          *   [El Salvador](https://www.apple.com/la/)
-
-          *   [Grenada](https://www.apple.com/lae/)
+          + [República Dominicana](https://www.apple.com/la/)
+          + [Ecuador](https://www.apple.com/la/)
+          + [El Salvador](https://www.apple.com/la/)
+          + [Grenada](https://www.apple.com/lae/)
 
           *   [Guatemala](https://www.apple.com/la/)
 
