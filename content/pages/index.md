@@ -18,6 +18,10 @@ sections:
     padding_top: medium
     padding_bottom: large
     background_color: none
+    subtitle: >-
+      Cargill is working to nourish the world. We're bringing together people,
+      ideas, and resources to deliver products, technology and ways of operating
+      that build successful businesses and communities.
   - type: features_section
     features:
       - title: PRODUITS
