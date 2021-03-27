@@ -41,7 +41,6 @@
                 "style": "link"
             },
             {
-                "label": "FRANCE",
                 "url": "/pricing",
                 "style": "primary",
                 "has_icon": true,
