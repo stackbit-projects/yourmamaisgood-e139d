@@ -244,17 +244,36 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          [Portugal](https://www.apple.com/pt/)
 
+          *   [România](https://www.apple.com/ro/)
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   [Россия](https://www.apple.com/ru/)
 
+          *   [Slovensko](https://www.apple.com/sk/)
 
-          - Lorem ipsum
+          *   [Slovenia](https://www.apple.com/si/)
 
-          - dolor sit amet
+          *   [Schweiz](https://www.apple.com/chde/)
+
+          *   [Suisse](https://www.apple.com/chfr/)
+
+          *   [Suomi](https://www.apple.com/fi/)
+
+          *   [Sverige](https://www.apple.com/se/)
+
+          *   [Tajikistan](https://www.apple.com/tj/)
+
+          *   [Türkiye](https://www.apple.com/tr/)
+
+          *   [Turkmenistan](https://www.apple.com/tm/)
+
+          *   [United Kingdom](https://www.apple.com/uk/)
+
+          *   [Україна](https://www.apple.com/ua/)
+
+          *   [Uzbekistan](https://www.apple.com/uz/)
         content_align: left
         actions: []
         actions_align: left
