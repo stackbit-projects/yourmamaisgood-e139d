@@ -14,10 +14,6 @@ sections:
         content: |
           ***
 
-          ***
-
-          ***
-
           test
         content_align: left
         actions: []
