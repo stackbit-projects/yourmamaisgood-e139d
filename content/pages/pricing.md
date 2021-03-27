@@ -394,8 +394,7 @@ sections:
       - title_align: left
         content: |
           + [Puerto Rico (English)](https://www.apple.com/lae/)
-
-          *   [Puerto Rico (Español)](https://www.apple.com/la/)
+          + [Puerto Rico (Español)](https://www.apple.com/la/)
         content_align: left
         actions: []
         actions_align: left
