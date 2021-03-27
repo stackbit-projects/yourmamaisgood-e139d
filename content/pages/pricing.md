@@ -32,7 +32,7 @@ sections:
         actions_width: full-width
         title: 'Africa, Middle East, and India'
       - title_align: left
-        content: |
+        content: |+
 
           ***
 
