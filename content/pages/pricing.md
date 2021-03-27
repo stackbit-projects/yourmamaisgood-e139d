@@ -57,7 +57,7 @@ sections:
 
           + [Niger](https://www.apple.com/ne/)
 
-          [Nigeria](https://www.apple.com/ng/)
+          + [Nigeria](https://www.apple.com/ng/)
         content_align: left
         actions: []
         actions_align: left
