@@ -44,11 +44,8 @@ sections:
           + [Mali](https://www.apple.com/ml/)
           + [Maroc](https://www.apple.com/ma/)
           + [Maurice](https://www.apple.com/mu/)
-
           + [Mozambique](https://www.apple.com/mz/)
-
           + [Niger](https://www.apple.com/ne/)
-
           + [Nigeria](https://www.apple.com/ng/)
         content_align: left
         actions: []
