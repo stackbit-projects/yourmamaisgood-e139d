@@ -22,7 +22,7 @@ sections:
           + [مصر](https://www.a.com/eg-ar/)
           + [Guinea-Bissau](https://www.a.com/gw/)
           + [Guinée](https://www.a.com/gn/)
-          + [Guinée Equatoriale](https://www.apple.com/gq/)
+          + [Guinée Equatoriale](https://www.a.com/gq/)
           + [India](https://www.apple.com/in/)
           + [Israel](https://www.apple.com/il/)
 
