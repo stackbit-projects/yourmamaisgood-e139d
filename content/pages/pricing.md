@@ -215,15 +215,11 @@ sections:
         type: grid_item
       - title_align: left
         content: |
-          [Portugal](https://www.apple.com/pt/)
-
-          *   [România](https://www.apple.com/ro/)
-
-          *   [Россия](https://www.apple.com/ru/)
-
-          *   [Slovensko](https://www.apple.com/sk/)
-
-          *   [Slovenia](https://www.apple.com/si/)
+          + [Portugal](https://www.apple.com/pt/)
+          + [România](https://www.apple.com/ro/)
+          + [Россия](https://www.apple.com/ru/)
+          + [Slovensko](https://www.apple.com/sk/)
+          + [Slovenia](https://www.apple.com/si/)
 
           *   [Schweiz](https://www.apple.com/chde/)
 
