@@ -72,8 +72,7 @@ sections:
     background_image: images/2.svg
   - type: blog_feed_section
     actions:
-      - label: VOIR PLUS D'ACTUALITES
-        url: /blog
+      - url: /blog
         style: primary
     blog_feed_cols: three
     enable_cards: true
