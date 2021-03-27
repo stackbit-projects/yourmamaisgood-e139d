@@ -124,7 +124,7 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Mail",
+                "label": "Linked",
                 "url": "#",
                 "style": "link",
                 "has_icon": true,
