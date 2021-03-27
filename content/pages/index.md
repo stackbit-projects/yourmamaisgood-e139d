@@ -44,6 +44,7 @@ sections:
           player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
+        title: P
     feature_padding_vert: small
     background_color: primary
   - type: features_section
