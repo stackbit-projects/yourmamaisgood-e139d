@@ -51,7 +51,7 @@ sections:
 
           + [Maroc](https://www.apple.com/ma/)
 
-          [Maurice](https://www.apple.com/mu/)
+          + [Maurice](https://www.apple.com/mu/)
 
           [Mozambique](https://www.apple.com/mz/)
 
