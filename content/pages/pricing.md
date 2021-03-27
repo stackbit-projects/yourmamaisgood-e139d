@@ -30,6 +30,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: full-width
+        title: 'Africa, Middle East, and India'
       - title_align: left
         content: |
 
@@ -85,13 +86,13 @@ sections:
     actions: []
     grid_items:
       - title_align: left
-        content: |+
-         ***
-         + [Australia](https://www.a.com/au/)
-         + [中国大陆](https://www.a.com.cn/)
-         + [Hong Kong](https://www.a.com/hk/en/)
-         + [香港](https://www.a.com/hk/)
-         + [Indonesia](https://www.a.com/id/)
+        content: |
+          ***
+          + [Australia](https://www.a.com/au/)
+          + [中国大陆](https://www.a.com.cn/)
+          + [Hong Kong](https://www.a.com/hk/en/)
+          + [香港](https://www.a.com/hk/)
+          + [Indonesia](https://www.a.com/id/)
         content_align: left
         actions: []
         actions_align: left
@@ -103,7 +104,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: |+
+        content: |
           ***
           + [日本](https://www.a.com/jp/)
           + [대한민국](https://www.a.com/kr/)
@@ -121,7 +122,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: |+
+        content: |
           ***
           + [Philippines](https://www.a.com/ph/)
           + [Singapore](https://www.a.com/sg/)
