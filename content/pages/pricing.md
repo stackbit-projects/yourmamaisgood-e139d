@@ -88,9 +88,8 @@ sections:
         content: |+
          ***
          + [Australia](https://www.apple.com/au/)
-          + [中国大陆](https://www.apple.com.cn/)
-
-          + [Hong Kong](https://www.apple.com/hk/en/)
+         + [中国大陆](https://www.apple.com.cn/)
+         + [Hong Kong](https://www.apple.com/hk/en/)
 
           + [香港](https://www.apple.com/hk/)
 
