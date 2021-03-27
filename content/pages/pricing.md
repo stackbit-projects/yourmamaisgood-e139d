@@ -12,7 +12,7 @@ sections:
         content: |+
           ***
 
-          +[Bahrain](https://www.apple.com/bh/)
+          + [Bahrain](https://www.apple.com/bh/)
 
           [البحرين](https://www.apple.com/bh-ar/)
 
