@@ -53,7 +53,7 @@ sections:
 
           + [Maurice](https://www.apple.com/mu/)
 
-          [Mozambique](https://www.apple.com/mz/)
+          + [Mozambique](https://www.apple.com/mz/)
 
           [Niger](https://www.apple.com/ne/)
 
