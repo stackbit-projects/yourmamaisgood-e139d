@@ -45,9 +45,9 @@ sections:
           allowfullscreen></iframe>
         title: 'Products '
         subtitle: >-
-          Cargill is working to nourish the world. We're bringing together
-          people, ideas, and resources to deliver products, technology and ways
-          of operating that build successful businesses and communities.
+          Aure is working to nourish the world. We're bringing together people,
+          ideas, and resources to deliver products, technology and ways of
+          operating that build successful businesses and communities.
     feature_padding_vert: small
     background_color: primary
   - type: features_section
