@@ -8,8 +8,7 @@ sections:
     padding_bottom: none
   - type: grid_section
     grid_items:
-      - title: AFRICA & MIDDLE EAST
-        title_align: left
+      - title_align: left
         content: |+
           ***
 
