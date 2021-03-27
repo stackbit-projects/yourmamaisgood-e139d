@@ -378,17 +378,10 @@ sections:
     actions: []
     grid_items:
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          [Canada (English)](https://www.apple.com/ca/)
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   [Canada (Français)](https://www.apple.com/ca/fr/)
         content_align: left
         actions: []
         actions_align: left
