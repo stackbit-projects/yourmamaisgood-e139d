@@ -62,7 +62,7 @@ sections:
           + [قطر](https://www.a.com/qa-ar/)
           + [Saudi Arabia](https://www.a.com/sa/)
           + [المملكة العربية السعودية](https://www.a.com/sa-ar/)
-          + [Sénégal](https://www.apple.com/sn/)
+          + [Sénégal](https://www.a.com/sn/)
           + [South Africa](https://www.apple.com/za/)
           + [Tunisie](https://www.apple.com/tn/)
           + [Uganda](https://www.apple.com/ug/)
