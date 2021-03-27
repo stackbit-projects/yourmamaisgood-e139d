@@ -85,7 +85,7 @@ sections:
     actions: []
     grid_items:
       - title_align: left
-        content: |
+        content: |+
           [Australia](https://www.apple.com/au/)
 
           *   [中国大陆](https://www.apple.com.cn/)
