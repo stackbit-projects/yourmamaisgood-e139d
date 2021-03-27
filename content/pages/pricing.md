@@ -122,7 +122,8 @@ sections:
         type: grid_item
       - title_align: left
         content: |+
-          [Philippines](https://www.apple.com/ph/)
+          ***
+          + [Philippines](https://www.apple.com/ph/)
 
           *   [Singapore](https://www.apple.com/sg/)
 
