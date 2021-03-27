@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: Pick Your Plan
+    title: 'Aurel '
     subtitle: Optional hero section subtitle
     align: center
     padding_top: large
