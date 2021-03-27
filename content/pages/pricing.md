@@ -49,7 +49,7 @@ sections:
 
           + [Mali](https://www.apple.com/ml/)
 
-          [Maroc](https://www.apple.com/ma/)
+          + [Maroc](https://www.apple.com/ma/)
 
           [Maurice](https://www.apple.com/mu/)
 
