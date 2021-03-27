@@ -200,9 +200,9 @@ sections:
           + [Montenegro](https://www.a.com/me/)
           + [Nederland](https://www.a.com/nl/)
           + [North Macedonia](https://www.a.com/mk/)
-          + [Norge](https://www.apple.com/no/)
-          + [Österreich](https://www.apple.com/at/)
-          + [Polska](https://www.apple.com/pl/)
+          + [Norge](https://www.a.com/no/)
+          + [Österreich](https://www.a.com/at/)
+          + [Polska](https://www.a.com/pl/)
         content_align: left
         actions: []
         actions_align: left
