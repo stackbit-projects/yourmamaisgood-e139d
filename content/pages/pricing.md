@@ -13,7 +13,6 @@ sections:
         title_align: left
         content: |
           ***
-
           test
         content_align: left
         actions: []
