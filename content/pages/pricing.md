@@ -43,10 +43,10 @@ sections:
         actions_align: left
         actions_width: full-width
       - title_align: left
-        content: |+
-        
+        content: |
+
           ***
-          
+
           [Jordan](https://www.apple.com/jo/)
 
           [الأردن](https://www.apple.com/jo-ar/)
@@ -75,14 +75,30 @@ sections:
         actions_align: left
         actions_width: full-width
       - title_align: left
-        content: |-
-          ---
+        content: |
+          [Oman](https://www.apple.com/om/)
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+          *   [عُمان](https://www.apple.com/om-ar/)
+
+          *   [Qatar](https://www.apple.com/qa/)
+
+          *   [قطر](https://www.apple.com/qa-ar/)
+
+          *   [Saudi Arabia](https://www.apple.com/sa/)
+
+          *   [المملكة العربية السعودية](https://www.apple.com/sa-ar/)
+
+          *   [Sénégal](https://www.apple.com/sn/)
+
+          *   [South Africa](https://www.apple.com/za/)
+
+          *   [Tunisie](https://www.apple.com/tn/)
+
+          *   [Uganda](https://www.apple.com/ug/)
+
+          *   [United Arab Emirates](https://www.apple.com/ae/)
+
+          *   [الإمارات العربية المتحدة](https://www.apple.com/ae-ar/)
         content_align: left
         actions: []
         actions_align: left
