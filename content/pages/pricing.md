@@ -42,7 +42,7 @@ sections:
           + [الكويت](https://www.a.com/kw-ar/)
           + [Madagascar](https://www.a.com/mg/)
           + [Mali](https://www.a.com/ml/)
-          + [Maroc](https://www.apple.com/ma/)
+          + [Maroc](https://www.a.com/ma/)
           + [Maurice](https://www.apple.com/mu/)
           + [Mozambique](https://www.apple.com/mz/)
           + [Niger](https://www.apple.com/ne/)
