@@ -89,6 +89,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
+    title: NEWS
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
