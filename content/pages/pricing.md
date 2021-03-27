@@ -276,10 +276,8 @@ sections:
           + [Anguilla](https://www.apple.com/lae/)
           + [Antigua & Barbuda](https://www.apple.com/lae/)
           + [Argentina](https://www.apple.com/la/)
-
-          *   [Barbados](https://www.apple.com/lae/)
-
-          *   [Belize](https://www.apple.com/lae/)
+          + [Barbados](https://www.apple.com/lae/)
+          + [Belize](https://www.apple.com/lae/)
 
           *   [Bermuda](https://www.apple.com/lae/)
 
