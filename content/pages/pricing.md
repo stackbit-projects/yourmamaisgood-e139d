@@ -81,7 +81,7 @@ sections:
     has_border: false
     background_color: none
     title: 'Africa, Middle East, and India'
-  - title: lorem-ipsum
+  - title: Asia Pacific
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
