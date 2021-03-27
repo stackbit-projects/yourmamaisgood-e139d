@@ -50,8 +50,7 @@ sections:
         actions_align: left
         actions_width: full-width
         title: ASIA PACIFIC
-      - subtitle: Optional subtitle
-        title_align: left
+      - title_align: left
         content: |-
           ---
 
