@@ -34,7 +34,7 @@ sections:
 
           [Guinée Equatoriale](https://www.apple.com/gq/)
 
-          *   [India](https://www.apple.com/in/)
+          [India](https://www.apple.com/in/)
 
           *   [Israel](https://www.apple.com/il/)
 
