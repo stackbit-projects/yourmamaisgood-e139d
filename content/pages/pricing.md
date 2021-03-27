@@ -13,7 +13,7 @@ sections:
           ***
 
           [Bahrain](https://www.apple.com/bh/)
-          
+
           [البحرين](https://www.apple.com/bh-ar/)
 
           [Botswana](https://www.apple.com/bw/)
@@ -44,12 +44,31 @@ sections:
         actions_width: full-width
       - title_align: left
         content: |
-          ***
-          *   Et semper leo mattis orci conubia congue
-          *   Quisque eleifend imperdiet tortor
-          *   Elementum eu rhoncus, volutpat
-          *   Fringilla diam magnis libero lacinia
-          *   Litora primis facilisis ullamcorper per
+          [Jordan](https://www.apple.com/jo/)
+
+          *   [الأردن](https://www.apple.com/jo-ar/)
+
+          *
+
+          *   [Kenya](https://www.apple.com/ke/)
+
+          *   [Kuwait](https://www.apple.com/kw/)
+
+          *   [الكويت](https://www.apple.com/kw-ar/)
+
+          *   [Madagascar](https://www.apple.com/mg/)
+
+          *   [Mali](https://www.apple.com/ml/)
+
+          *   [Maroc](https://www.apple.com/ma/)
+
+          *   [Maurice](https://www.apple.com/mu/)
+
+          *   [Mozambique](https://www.apple.com/mz/)
+
+          *   [Niger](https://www.apple.com/ne/)
+
+          *   [Nigeria](https://www.apple.com/ng/)
         content_align: left
         actions: []
         actions_align: left
