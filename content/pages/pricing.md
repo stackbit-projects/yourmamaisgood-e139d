@@ -24,7 +24,7 @@ sections:
           + [Guinée](https://www.a.com/gn/)
           + [Guinée Equatoriale](https://www.a.com/gq/)
           + [India](https://www.a.com/in/)
-          + [Israel](https://www.apple.com/il/)
+          + [Israel](https://www.a.com/il/)
 
         content_align: left
         actions: []
