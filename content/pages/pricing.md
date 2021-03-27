@@ -13,7 +13,7 @@ sections:
         title_align: left
         content: |
           ***
-          test
+          Algeriatest
         content_align: left
         actions: []
         actions_align: left
