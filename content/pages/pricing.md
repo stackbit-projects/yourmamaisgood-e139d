@@ -19,10 +19,7 @@ sections:
           *   Elementum eu rhoncus, volutpat
           *   Nisi cubilia interdum ultricies
         content_align: left
-        actions:
-          - label: Start with Personal
-            url: /features
-            style: primary
+        actions: []
         actions_align: left
         actions_width: full-width
       - title_align: left
