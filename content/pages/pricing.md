@@ -12,8 +12,6 @@ sections:
         content: |+
           ***
 
-          [Algeria](www.test.com)
-          
           [Bahrain](https://www.apple.com/bh/)
 
           *   [البحرين](https://www.apple.com/bh-ar/)
