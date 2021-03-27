@@ -35,7 +35,7 @@ sections:
 
           ***
 
-          + [Jordan](https://www..com/jo/)
+          + [Jordan](https://www.a.com/jo/)
           + [الأردن](https://www.a.com/jo-ar/)
           + [Kenya](https://www.a.com/ke/)
           + [Kuwait](https://www.a.com/kw/)
