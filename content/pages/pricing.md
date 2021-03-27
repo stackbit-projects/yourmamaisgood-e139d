@@ -445,7 +445,7 @@ sections:
     enable_cards: false
     align: center
     padding_top: medium
-    padding_bottom: small
+    padding_bottom: medium
     has_border: false
     background_color: primary
     background_image_opacity: 0
