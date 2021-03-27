@@ -307,11 +307,11 @@ sections:
           + [Guyana](https://www.a.com/lae/)
           + [Honduras](https://www.a.com/la/)
           + [Jamaica](https://www.a.com/lae/)
-          + [México](https://www.apple.com/mx/)
-          + [Montserrat](https://www.apple.com/lae/)
-          + [Nicaragua](https://www.apple.com/la/)
-          + [Panamá](https://www.apple.com/la/)
-          + [Paraguay](https://www.apple.com/la/)
+          + [México](https://www.a.com/mx/)
+          + [Montserrat](https://www.a.com/lae/)
+          + [Nicaragua](https://www.a.com/la/)
+          + [Panamá](https://www.a.com/la/)
+          + [Paraguay](https://www.a.com/la/)
         content_align: left
         actions: []
         actions_align: left
