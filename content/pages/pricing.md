@@ -159,7 +159,7 @@ sections:
     grid_items:
       - title_align: left
         content: |
-          [Armenia](https://www.apple.com/am/)
+          + [Armenia](https://www.apple.com/am/)
 
           *   [Azerbaijan](https://www.apple.com/az/)
 
