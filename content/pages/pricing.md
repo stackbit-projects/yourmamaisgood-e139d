@@ -47,7 +47,7 @@ sections:
 
           + [Madagascar](https://www.apple.com/mg/)
 
-          [Mali](https://www.apple.com/ml/)
+          + [Mali](https://www.apple.com/ml/)
 
           [Maroc](https://www.apple.com/ma/)
 
