@@ -407,7 +407,7 @@ sections:
         type: grid_item
       - title_align: left
         content: |
-          + [United States](https://www.apple.com/)
+          + [United States](https://www.a.com/)
         content_align: left
         actions: []
         actions_align: left
