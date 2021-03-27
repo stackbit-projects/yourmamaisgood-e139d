@@ -85,7 +85,7 @@ sections:
 
           [Qatar](https://www.apple.com/qa/)
 
-          *   [قطر](https://www.apple.com/qa-ar/)
+          [قطر](https://www.apple.com/qa-ar/)
 
           *   [Saudi Arabia](https://www.apple.com/sa/)
 
