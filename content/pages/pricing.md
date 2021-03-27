@@ -126,8 +126,8 @@ sections:
           + [Philippines](https://www.a.com/ph/)
           + [Singapore](https://www.a.com/sg/)
           + [台灣](https://www.a.com/tw/)
-          + [ไทย](https://www.apple.com/th/)
-          + [Vietnam](https://www.apple.com/vn/)
+          + [ไทย](https://www.a.com/th/)
+          + [Vietnam](https://www.a.com/vn/)
         content_align: left
         actions: []
         actions_align: left
