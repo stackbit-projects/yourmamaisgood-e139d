@@ -58,11 +58,8 @@ sections:
           
           + [Oman](https://www.apple.com/om/)
           + [عُمان](https://www.apple.com/om-ar/)
-
           + [Qatar](https://www.apple.com/qa/)
-
           + [قطر](https://www.apple.com/qa-ar/)
-
           + [Saudi Arabia](https://www.apple.com/sa/)
 
           + [المملكة العربية السعودية](https://www.apple.com/sa-ar/)
