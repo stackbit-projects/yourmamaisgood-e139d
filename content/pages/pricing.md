@@ -54,7 +54,7 @@ sections:
 
           [الكويت](https://www.apple.com/kw-ar/)
 
-          *   [Madagascar](https://www.apple.com/mg/)
+          [Madagascar](https://www.apple.com/mg/)
 
           *   [Mali](https://www.apple.com/ml/)
 
