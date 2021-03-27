@@ -10,7 +10,6 @@ sections:
     grid_items:
       - title_align: left
         content: |+
-
           ***
           #### Africa, Middle East, and India
 
