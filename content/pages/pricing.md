@@ -273,7 +273,7 @@ sections:
     grid_items:
       - title_align: left
         content: |
-          [Anguilla](https://www.apple.com/lae/)
+          + [Anguilla](https://www.apple.com/lae/)
 
           *   [Antigua & Barbuda](https://www.apple.com/lae/)
 
