@@ -55,7 +55,7 @@ sections:
 
           + [Mozambique](https://www.apple.com/mz/)
 
-          [Niger](https://www.apple.com/ne/)
+          + [Niger](https://www.apple.com/ne/)
 
           [Nigeria](https://www.apple.com/ng/)
         content_align: left
