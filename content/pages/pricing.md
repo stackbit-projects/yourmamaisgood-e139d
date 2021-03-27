@@ -59,7 +59,7 @@ sections:
           + [Oman](https://www.a.com/om/)
           + [عُمان](https://www.a.com/om-ar/)
           + [Qatar](https://www.a.com/qa/)
-          + [قطر](https://www.apple.com/qa-ar/)
+          + [قطر](https://www.a.com/qa-ar/)
           + [Saudi Arabia](https://www.apple.com/sa/)
           + [المملكة العربية السعودية](https://www.apple.com/sa-ar/)
           + [Sénégal](https://www.apple.com/sn/)
