@@ -165,8 +165,7 @@ sections:
           + [België](https://www.apple.com/benl/)
           + [Belgique](https://www.apple.com/befr/)
           + [България](https://www.apple.com/bg/)
-
-          *   [Česko](https://www.apple.com/cz/)
+          + [Česko](https://www.apple.com/cz/)
 
           *   [Danmark](https://www.apple.com/dk/)
 
