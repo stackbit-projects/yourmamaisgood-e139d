@@ -20,7 +20,7 @@ sections:
           + [Côte d'Ivoire](https://www.a.com/ci/)
           + [Egypt](https://www.a.com/eg/)
           + [مصر](https://www.a.com/eg-ar/)
-          + [Guinea-Bissau](https://www.apple.com/gw/)
+          + [Guinea-Bissau](https://www.a.com/gw/)
           + [Guinée](https://www.apple.com/gn/)
           + [Guinée Equatoriale](https://www.apple.com/gq/)
           + [India](https://www.apple.com/in/)
