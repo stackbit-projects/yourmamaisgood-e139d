@@ -187,7 +187,7 @@ sections:
         type: grid_item
       - title_align: left
         content: |
-          [Italia](https://www.apple.com/it/)
+          + [Italia](https://www.apple.com/it/)
 
           *   [Kazakhstan](https://www.apple.com/kz/)
 
