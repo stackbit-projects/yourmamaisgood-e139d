@@ -220,8 +220,7 @@ sections:
           + [Россия](https://www.apple.com/ru/)
           + [Slovensko](https://www.apple.com/sk/)
           + [Slovenia](https://www.apple.com/si/)
-
-          *   [Schweiz](https://www.apple.com/chde/)
+          + [Schweiz](https://www.apple.com/chde/)
 
           *   [Suisse](https://www.apple.com/chfr/)
 
