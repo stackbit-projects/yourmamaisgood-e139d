@@ -335,7 +335,7 @@ sections:
          + [Uruguay](https://www.a.com/la/)
          + [Venezuela](https://www.a.com/la/)
          + [América Latina y\_el Caribe (Español)](https://www.a.com/la/)
-         + [Latin America and the Caribbean (English)](https://www.apple.com/lae/)
+         + [Latin America and the Caribbean (English)](https://www.a.com/lae/)
         content_align: left
         actions: []
         actions_align: left
