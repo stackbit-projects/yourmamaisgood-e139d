@@ -74,9 +74,6 @@ sections:
     title: 'Africa, Middle East, and India'
   - actions: []
     image_alt: lorem-ipsum
-    video_embed_html: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
     media_position: top
     media_width: fifty
     align: left
