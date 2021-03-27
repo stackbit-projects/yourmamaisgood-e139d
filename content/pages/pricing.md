@@ -163,8 +163,7 @@ sections:
           + [Azerbaijan](https://www.apple.com/az/)
           + [Belarus](https://www.apple.com/by/)
           + [België](https://www.apple.com/benl/)
-
-          *   [Belgique](https://www.apple.com/befr/)
+          + [Belgique](https://www.apple.com/befr/)
 
           *   [България](https://www.apple.com/bg/)
 
