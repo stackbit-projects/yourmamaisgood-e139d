@@ -11,17 +11,13 @@ sections:
     grid_items:
       - title: AFRICA
         title_align: left
-        content: |-
-          ---
+        content: |
+          ######
 
-          ### $9
-
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+          *   Et semper leo mattis orci conubia congue
+          *   Quisque eleifend imperdiet tortor
+          *   Elementum eu rhoncus, volutpat
+          *   Nisi cubilia interdum ultricies
         content_align: left
         actions:
           - label: Start with Personal
