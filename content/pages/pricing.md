@@ -285,9 +285,8 @@ sections:
           + [Cayman Islands](https://www.apple.com/lae/)
           + [Chile](https://www.apple.com/cl/)
           + [Colombia](https://www.apple.com/co/)
-          +[Costa Rica](https://www.apple.com/la/)
-
-          *   [Dominica](https://www.apple.com/lae/)
+          + [Costa Rica](https://www.apple.com/la/)
+          + [Dominica](https://www.apple.com/lae/)
         content_align: left
         actions: []
         actions_align: left
