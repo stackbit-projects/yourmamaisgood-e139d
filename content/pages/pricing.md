@@ -223,7 +223,7 @@ sections:
           + [Schweiz](https://www.a.com/chde/)
           + [Suisse](https://www.a.com/chfr/)
           + [Suomi](https://www.a.com/fi/)
-          + [Sverige](https://www.apple.com/se/)
+          + [Sverige](https://www.a.com/se/)
           + [Tajikistan](https://www.apple.com/tj/)
           + [Türkiye](https://www.apple.com/tr/)
           + [Turkmenistan](https://www.apple.com/tm/)
