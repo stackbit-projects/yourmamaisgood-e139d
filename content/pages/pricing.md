@@ -5,7 +5,7 @@ sections:
     align: center
     padding_top: small
     padding_bottom: none
-    background_color: primary
+    background_color: secondary
   - type: grid_section
     grid_items:
       - title_align: left
