@@ -94,6 +94,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        title: LATIN AMERICA
     grid_cols: four
     grid_gap_horiz: small
     grid_gap_vert: small
