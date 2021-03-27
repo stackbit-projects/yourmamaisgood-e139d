@@ -3,9 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: GROUPE X
-    subtitle: >-
-      NÉGOCE DE MATIÈRES PREMIÈRES & INGRÉDIENTS POUR L'INDUSTRIE
-      AGROALIMENTAIRE 
     actions:
       - label: Try Free
         url: /pricing
