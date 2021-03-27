@@ -6,7 +6,6 @@ sections:
     align: center
     padding_top: large
     padding_bottom: none
-    subtitle: ' Located globally, impacting locally'
   - type: grid_section
     grid_items:
       - title: AFRICA & MIDDLE EAST
