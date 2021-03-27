@@ -63,7 +63,7 @@ sections:
 
           - Lorem ipsum
 
-          - dolor sit amet
+          - dolor sit ame
         content_align: left
         actions: []
         actions_align: left
