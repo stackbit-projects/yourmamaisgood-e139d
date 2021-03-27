@@ -71,7 +71,6 @@ sections:
     background_color: primary
     background_image: images/2.svg
   - type: blog_feed_section
-    title: Actualités
     actions:
       - label: VOIR PLUS D'ACTUALITES
         url: /blog
