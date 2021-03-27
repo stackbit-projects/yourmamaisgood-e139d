@@ -123,9 +123,9 @@ sections:
       - title_align: left
         content: |+
           ***
-          + [Philippines](https://www.apple.com/ph/)
-          + [Singapore](https://www.apple.com/sg/)
-          + [台灣](https://www.apple.com/tw/)
+          + [Philippines](https://www.a.com/ph/)
+          + [Singapore](https://www.a.com/sg/)
+          + [台灣](https://www.a.com/tw/)
           + [ไทย](https://www.apple.com/th/)
           + [Vietnam](https://www.apple.com/vn/)
         content_align: left
