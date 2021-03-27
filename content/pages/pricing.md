@@ -76,7 +76,7 @@ sections:
     background_color: primary
     background_image: images/2.svg
     title: 'Africa, Middle East, and India'
-    subtitle: '* Comming '
+    subtitle: '* Comming soon'
   - actions: []
     image_alt: lorem-ipsum
     media_position: top
