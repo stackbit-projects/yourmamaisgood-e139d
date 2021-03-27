@@ -172,8 +172,7 @@ sections:
           + [España](https://www.apple.com/es/)
           + [France](https://www.apple.com/fr/)
           + [Georgia](https://www.apple.com/ge/)
-
-          *   [Ελλάδα](https://www.apple.com/gr/)
+          + [Ελλάδα](https://www.apple.com/gr/)
 
           *   [Hrvatska](https://www.apple.com/hr/)
 
