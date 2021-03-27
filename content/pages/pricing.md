@@ -228,8 +228,8 @@ sections:
           + [Türkiye](https://www.a.com/tr/)
           + [Turkmenistan](https://www.a.com/tm/)
           + [United Kingdom](https://www.a.com/uk/)
-          + [Україна](https://www.apple.com/ua/)
-          + [Uzbekistan](https://www.apple.com/uz/)
+          + [Україна](https://www.a.com/ua/)
+          + [Uzbekistan](https://www.a.com/uz/)
         content_align: left
         actions: []
         actions_align: left
