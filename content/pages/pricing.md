@@ -20,7 +20,7 @@ sections:
 
           + [République Centrafricaine](https://www.apple.com/cf/)
 
-          [Côte d'Ivoire](https://www.apple.com/ci/)
+          + [Côte d'Ivoire](https://www.apple.com/ci/)
 
           [Egypt](https://www.apple.com/eg/)
 
