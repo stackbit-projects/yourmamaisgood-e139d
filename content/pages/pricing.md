@@ -11,9 +11,38 @@ sections:
     grid_items:
       - title: AFRICA
         title_align: left
-        content: |
+        content: |+
           ***
+
           [Algeria](www.test.com)
+
+
+          [Bahrain](https://www.apple.com/bh/)
+
+          *   [البحرين](https://www.apple.com/bh-ar/)
+
+          *   [Botswana](https://www.apple.com/bw/)
+
+          *   [Cameroun](https://www.apple.com/cm/)
+
+          *   [République Centrafricaine](https://www.apple.com/cf/)
+
+          *   [Côte d'Ivoire](https://www.apple.com/ci/)
+
+          *   [Egypt](https://www.apple.com/eg/)
+
+          *   [مصر](https://www.apple.com/eg-ar/)
+
+          *   [Guinea-Bissau](https://www.apple.com/gw/)
+
+          *   [Guinée](https://www.apple.com/gn/)
+
+          *   [Guinée Equatoriale](https://www.apple.com/gq/)
+
+          *   [India](https://www.apple.com/in/)
+
+          *   [Israel](https://www.apple.com/il/)
+
         content_align: left
         actions: []
         actions_align: left
