@@ -329,7 +329,7 @@ sections:
          
          
          + [St. Lucia](https://www.apple.com/lae/)\n\n*   
-         + [St. Vincent & The\_Grenadines](https://www.apple.com/lae/)\n\n*   
+         + [St. Vincent & The\_Grenadines](https://www.apple.com/lae/)
          + [Suriname](https://www.apple.com/lae/)
          + [The Bahamas](https://www.apple.com/lae/)
          + [Trinidad & Tobago](https://www.apple.com/lae/)
