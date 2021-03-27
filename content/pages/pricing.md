@@ -158,17 +158,38 @@ sections:
     actions: []
     grid_items:
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          [Armenia](https://www.apple.com/am/)
 
+          *   [Azerbaijan](https://www.apple.com/az/)
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   [Belarus](https://www.apple.com/by/)
 
+          *   [België](https://www.apple.com/benl/)
 
-          - Lorem ipsum
+          *   [Belgique](https://www.apple.com/befr/)
 
-          - dolor sit amet
+          *   [България](https://www.apple.com/bg/)
+
+          *   [Česko](https://www.apple.com/cz/)
+
+          *   [Danmark](https://www.apple.com/dk/)
+
+          *   [Deutschland](https://www.apple.com/de/)
+
+          *   [Eesti](https://www.apple.com/ee/)
+
+          *   [España](https://www.apple.com/es/)
+
+          *   [France](https://www.apple.com/fr/)
+
+          *   [Georgia](https://www.apple.com/ge/)
+
+          *   [Ελλάδα](https://www.apple.com/gr/)
+
+          *   [Hrvatska](https://www.apple.com/hr/)
+
+          *   [Ireland](https://www.apple.com/ie/)
         content_align: left
         actions: []
         actions_align: left
