@@ -17,7 +17,7 @@ sections:
           + [Botswana](https://www.a.com/bw/)
           + [Cameroun](https://www.a.com/cm/)
           + [République Centrafricaine](https://www.a.com/cf/)
-          + [Côte d'Ivoire](https://www.apple.com/ci/)
+          + [Côte d'Ivoire](https://www.a.com/ci/)
           + [Egypt](https://www.apple.com/eg/)
           + [مصر](https://www.apple.com/eg-ar/)
           + [Guinea-Bissau](https://www.apple.com/gw/)
