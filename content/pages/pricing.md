@@ -57,7 +57,6 @@ sections:
         actions: []
         actions_align: left
         actions_width: full-width
-        title: ASIA PACIFIC
       - title_align: left
         content: |-
           ---
