@@ -106,17 +106,16 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          [日本](https://www.apple.com/jp/)
 
+          *   [대한민국](https://www.apple.com/kr/)
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   [澳門](https://www.apple.com/mo/)
 
+          *   [Malaysia](https://www.apple.com/my/)
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   [New Zealand](https://www.apple.com/nz/)
         content_align: left
         actions: []
         actions_align: left
