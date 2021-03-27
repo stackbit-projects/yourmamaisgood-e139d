@@ -221,12 +221,9 @@ sections:
           + [Slovensko](https://www.apple.com/sk/)
           + [Slovenia](https://www.apple.com/si/)
           + [Schweiz](https://www.apple.com/chde/)
-
-          *   [Suisse](https://www.apple.com/chfr/)
-
-          *   [Suomi](https://www.apple.com/fi/)
-
-          *   [Sverige](https://www.apple.com/se/)
+          + [Suisse](https://www.apple.com/chfr/)
+          + [Suomi](https://www.apple.com/fi/)
+          + [Sverige](https://www.apple.com/se/)
 
           *   [Tajikistan](https://www.apple.com/tj/)
 
