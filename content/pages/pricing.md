@@ -43,7 +43,7 @@ sections:
           + [Madagascar](https://www.a.com/mg/)
           + [Mali](https://www.a.com/ml/)
           + [Maroc](https://www.a.com/ma/)
-          + [Maurice](https://www.apple.com/mu/)
+          + [Maurice](https://www.a.com/mu/)
           + [Mozambique](https://www.apple.com/mz/)
           + [Niger](https://www.apple.com/ne/)
           + [Nigeria](https://www.apple.com/ng/)
