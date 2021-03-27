@@ -311,8 +311,7 @@ sections:
           + [Montserrat](https://www.apple.com/lae/)
           + [Nicaragua](https://www.apple.com/la/)
           + [Panamá](https://www.apple.com/la/)
-
-          *   [Paraguay](https://www.apple.com/la/)
+          + [Paraguay](https://www.apple.com/la/)
         content_align: left
         actions: []
         actions_align: left
