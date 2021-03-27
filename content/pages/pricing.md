@@ -278,8 +278,7 @@ sections:
           + [Argentina](https://www.apple.com/la/)
           + [Barbados](https://www.apple.com/lae/)
           + [Belize](https://www.apple.com/lae/)
-
-          *   [Bermuda](https://www.apple.com/lae/)
+          + [Bermuda](https://www.apple.com/lae/)
 
           *   [Bolivia](https://www.apple.com/la/)
 
