@@ -73,7 +73,7 @@ sections:
     padding_top: small
     padding_bottom: medium
     has_border: false
-    background_color: none
+    background_color: secondary
     title: 'Africa, Middle East, and India'
   - actions: []
     image_alt: lorem-ipsum
