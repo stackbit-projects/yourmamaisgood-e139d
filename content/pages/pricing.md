@@ -61,15 +61,10 @@ sections:
           + [Qatar](https://www.apple.com/qa/)
           + [قطر](https://www.apple.com/qa-ar/)
           + [Saudi Arabia](https://www.apple.com/sa/)
-
           + [المملكة العربية السعودية](https://www.apple.com/sa-ar/)
-
           + [Sénégal](https://www.apple.com/sn/)
-
           + [South Africa](https://www.apple.com/za/)
-
           + [Tunisie](https://www.apple.com/tn/)
-
           + [Uganda](https://www.apple.com/ug/)
 
           + [United Arab Emirates](https://www.apple.com/ae/)
