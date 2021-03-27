@@ -99,7 +99,7 @@ sections:
 
           [Uganda](https://www.apple.com/ug/)
 
-          *   [United Arab Emirates](https://www.apple.com/ae/)
+          [United Arab Emirates](https://www.apple.com/ae/)
 
           *   [الإمارات العربية المتحدة](https://www.apple.com/ae-ar/)
         content_align: left
