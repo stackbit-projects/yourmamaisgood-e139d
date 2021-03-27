@@ -12,13 +12,13 @@ sections:
         content: |+
           ***
 
-          + [Bahrain](https://www.a.com)
-          + [البحرين](https://www.a.com)
-          + [Botswana](https://www.a.com)
-          + [Cameroun](https://www.a.com)
-          + [République Centrafricaine]((https://www.a.com)
-          + [Côte d'Ivoire](https://www.a.com)
-          + [Egypt](https://www.a.com)
+          + [Bahrain](https://www.a.com/bh/)
+          + [البحرين](https://www.apple.com/bh-ar/)
+          + [Botswana](https://www.apple.com/bw/)
+          + [Cameroun](https://www.apple.com/cm/)
+          + [République Centrafricaine](https://www.apple.com/cf/)
+          + [Côte d'Ivoire](https://www.apple.com/ci/)
+          + [Egypt](https://www.apple.com/eg/)
           + [مصر](https://www.apple.com/eg-ar/)
           + [Guinea-Bissau](https://www.apple.com/gw/)
           + [Guinée](https://www.apple.com/gn/)
