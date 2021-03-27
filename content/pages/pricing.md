@@ -33,7 +33,7 @@ sections:
         title: 'Africa, Middle East, and India'
       - title_align: left
         content: |+
-          /
+        
           ***
 
           + [Jordan](https://www.a.com/jo/)
