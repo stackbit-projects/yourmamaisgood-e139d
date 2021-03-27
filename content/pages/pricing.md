@@ -335,8 +335,8 @@ sections:
          + [Trinidad & Tobago](https://www.apple.com/lae/)\n\n*   + [Turks & Caicos](https://www.apple.com/lae/)\n\n*   
          + [Uruguay](https://www.apple.com/la/)\n\n*   
          + [Venezuela](https://www.apple.com/la/)\n\n*   
-         + [América Latina y\_el Caribe (Español)](https://www.apple.com/la/)\n\n*   
-         + [Latin America and the Caribbean (English)](https://www.apple.com/lae/)\n"
+         + [América Latina y\_el Caribe (Español)](https://www.apple.com/la/)
+         + [Latin America and the Caribbean (English)](https://www.apple.com/lae/)
         content_align: left
         actions: []
         actions_align: left
