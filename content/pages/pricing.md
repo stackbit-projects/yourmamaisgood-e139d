@@ -127,8 +127,7 @@ sections:
           + [Singapore](https://www.apple.com/sg/)
           + [台灣](https://www.apple.com/tw/)
           + [ไทย](https://www.apple.com/th/)
-
-          *   [Vietnam](https://www.apple.com/vn/)
+          + [Vietnam](https://www.apple.com/vn/)
         content_align: left
         actions: []
         actions_align: left
