@@ -105,11 +105,9 @@ sections:
       - title_align: left
         content: |+
           ***
-          [日本](https://www.apple.com/jp/)
-
-          *   [대한민국](https://www.apple.com/kr/)
-
-          *   [澳門](https://www.apple.com/mo/)
+          +[日本](https://www.apple.com/jp/)
+          + [대한민국](https://www.apple.com/kr/)
+          + [澳門](https://www.apple.com/mo/)
 
           *   [Malaysia](https://www.apple.com/my/)
 
