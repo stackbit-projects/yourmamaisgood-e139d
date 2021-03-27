@@ -66,7 +66,6 @@ sections:
           + [South Africa](https://www.apple.com/za/)
           + [Tunisie](https://www.apple.com/tn/)
           + [Uganda](https://www.apple.com/ug/)
-
           + [United Arab Emirates](https://www.apple.com/ae/)
 
           + [الإمارات العربية المتحدة](https://www.apple.com/ae-ar/)
