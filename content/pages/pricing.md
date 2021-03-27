@@ -74,7 +74,7 @@ sections:
 
           + [Tunisie](https://www.apple.com/tn/)
 
-          [Uganda](https://www.apple.com/ug/)
+          + [Uganda](https://www.apple.com/ug/)
 
           [United Arab Emirates](https://www.apple.com/ae/)
 
