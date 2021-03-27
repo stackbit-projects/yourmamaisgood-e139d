@@ -159,12 +159,12 @@ sections:
     grid_items:
       - title_align: left
         content: |
-          + [Armenia](https://www.apple.com/am/)
-          + [Azerbaijan](https://www.apple.com/az/)
-          + [Belarus](https://www.apple.com/by/)
-          + [België](https://www.apple.com/benl/)
-          + [Belgique](https://www.apple.com/befr/)
-          + [България](https://www.apple.com/bg/)
+          + [Armenia](https://www.a.com/am/)
+          + [Azerbaijan](https://www.a.com/az/)
+          + [Belarus](https://www.a.com/by/)
+          + [België](https://www.a.com/benl/)
+          + [Belgique](https://www.a.com/befr/)
+          + [България](https://www.a.com/bg/)
           + [Česko](https://www.apple.com/cz/)
           + [Danmark](https://www.apple.com/dk/)
           + [Deutschland](https://www.apple.com/de/)
