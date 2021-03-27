@@ -24,7 +24,7 @@ sections:
 
           + [Egypt](https://www.apple.com/eg/)
 
-          [مصر](https://www.apple.com/eg-ar/)
+          + [مصر](https://www.apple.com/eg-ar/)
 
           [Guinea-Bissau](https://www.apple.com/gw/)
 
