@@ -31,7 +31,7 @@ sections:
           *   Et semper leo mattis orci conubia congue
           *   Quisque eleifend imperdiet tortor
           *   Elementum eu rhoncus, volutpat
-          *   Nisi cubilia interdum ultricies
+          *   Nisi cubilia interdum ultricie
         content_align: left
         actions: []
         actions_align: left
