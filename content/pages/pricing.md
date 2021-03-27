@@ -70,7 +70,7 @@ sections:
 
           + [Sénégal](https://www.apple.com/sn/)
 
-          [South Africa](https://www.apple.com/za/)
+          + [South Africa](https://www.apple.com/za/)
 
           [Tunisie](https://www.apple.com/tn/)
 
