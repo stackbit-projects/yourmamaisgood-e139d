@@ -19,7 +19,7 @@ sections:
           + [République Centrafricaine](https://www.a.com/cf/)
           + [Côte d'Ivoire](https://www.a.com/ci/)
           + [Egypt](https://www.a.com/eg/)
-          + [مصر](https://www.ap.com/eg-ar/)
+          + [مصر](https://www.a.com/eg-ar/)
           + [Guinea-Bissau](https://www.apple.com/gw/)
           + [Guinée](https://www.apple.com/gn/)
           + [Guinée Equatoriale](https://www.apple.com/gq/)
