@@ -34,7 +34,7 @@ sections:
 
           + [India](https://www.apple.com/in/)
 
-          [Israel](https://www.apple.com/il/)
+          + [Israel](https://www.apple.com/il/)
 
         content_align: left
         actions: []
