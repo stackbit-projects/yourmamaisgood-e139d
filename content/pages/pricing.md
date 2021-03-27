@@ -188,10 +188,8 @@ sections:
       - title_align: left
         content: |
           + [Italia](https://www.apple.com/it/)
-
-          *   [Kazakhstan](https://www.apple.com/kz/)
-
-          *   [Kyrgyzstan](https://www.apple.com/kg/)
+          +[Kazakhstan](https://www.apple.com/kz/)
+          + [Kyrgyzstan](https://www.apple.com/kg/)
 
           *   [Latvija](https://www.apple.com/lv/)
 
