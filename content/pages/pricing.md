@@ -16,7 +16,7 @@ sections:
           
           [البحرين](https://www.apple.com/bh-ar/)
 
-          *   [Botswana](https://www.apple.com/bw/)
+          [Botswana](https://www.apple.com/bw/)
 
           *   [Cameroun](https://www.apple.com/cm/)
 
