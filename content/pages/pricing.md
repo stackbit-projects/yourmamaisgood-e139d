@@ -94,7 +94,6 @@ sections:
         type: grid_item
       - title_align: left
         content: |
-          ***
           + [日本](https://www.a.com/jp/)
           + [대한민국](https://www.a.com/kr/)
           + [澳門](https://www.a.com/mo/)
