@@ -160,12 +160,9 @@ sections:
       - title_align: left
         content: |
           + [Armenia](https://www.apple.com/am/)
-
-          *   [Azerbaijan](https://www.apple.com/az/)
-
-          *   [Belarus](https://www.apple.com/by/)
-
-          *   [België](https://www.apple.com/benl/)
+          + [Azerbaijan](https://www.apple.com/az/)
+          + [Belarus](https://www.apple.com/by/)
+          + [België](https://www.apple.com/benl/)
 
           *   [Belgique](https://www.apple.com/befr/)
 
