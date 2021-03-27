@@ -273,14 +273,14 @@ sections:
     grid_items:
       - title_align: left
         content: |
-          + [Anguilla](https://www.apple.com/lae/)
-          + [Antigua & Barbuda](https://www.apple.com/lae/)
-          + [Argentina](https://www.apple.com/la/)
-          + [Barbados](https://www.apple.com/lae/)
-          + [Belize](https://www.apple.com/lae/)
-          + [Bermuda](https://www.apple.com/lae/)
-          + [Bolivia](https://www.apple.com/la/)
-          + [Brasil](https://www.apple.com/br/)
+          + [Anguilla](https://www.a.com/lae/)
+          + [Antigua & Barbuda](https://www.a.com/lae/)
+          + [Argentina](https://www.a.com/la/)
+          + [Barbados](https://www.a.com/lae/)
+          + [Belize](https://www.a.com/lae/)
+          + [Bermuda](https://www.a.com/lae/)
+          + [Bolivia](https://www.a.com/la/)
+          + [Brasil](https://www.a.com/br/)
           + [British Virgin Islands](https://www.apple.com/lae/)
           + [Cayman Islands](https://www.apple.com/lae/)
           + [Chile](https://www.apple.com/cl/)
