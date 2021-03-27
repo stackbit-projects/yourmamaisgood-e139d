@@ -110,7 +110,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Feauture",
                 "url": "/features",
                 "style": "link",
                 "has_icon": false,
