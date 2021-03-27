@@ -18,7 +18,7 @@ sections:
 
           [Botswana](https://www.apple.com/bw/)
 
-          *   [Cameroun](https://www.apple.com/cm/)
+          [Cameroun](https://www.apple.com/cm/)
 
           *   [République Centrafricaine](https://www.apple.com/cf/)
 
