@@ -71,7 +71,7 @@ sections:
         actions_align: left
         actions_width: full-width
         title: EUROPE
-    grid_cols: three
+    grid_cols: four
     grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: true
