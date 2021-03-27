@@ -51,7 +51,6 @@ sections:
       - title_align: left
         content: |
           ***
-
           + [Oman](https://www.a.com/om/)
           + [عُمان](https://www.a.com/om-ar/)
           + [Qatar](https://www.a.com/qa/)
