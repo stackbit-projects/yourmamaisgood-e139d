@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     align: center
-    padding_top: medium
+    padding_top: small
     padding_bottom: small
     background_color: secondary
     title: Demo Worldwide
