@@ -9,9 +9,8 @@ sections:
   - type: grid_section
     grid_items:
       - title_align: left
-        content: |+
-          ***
-          #### Africa, Middle East, and India
+        content: |
+          ####
 
           *   [Bahrain](https://www.a.com/bh/)
           *   [البحرين](https://www.a.com/bh-ar/)
