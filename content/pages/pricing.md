@@ -40,7 +40,7 @@ sections:
           + [Kenya](https://www.a.com/ke/)
           + [Kuwait](https://www.a.com/kw/)
           + [الكويت](https://www.a.com/kw-ar/)
-          + [Madagascar](https://www.apple.com/mg/)
+          + [Madagascar](https://www.a.com/mg/)
           + [Mali](https://www.apple.com/ml/)
           + [Maroc](https://www.apple.com/ma/)
           + [Maurice](https://www.apple.com/mu/)
