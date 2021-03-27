@@ -14,7 +14,8 @@
         "primary_nav_links": [
             {
                 "url": "/pricing",
-                "style": "link"
+                "style": "link",
+                "label": "GROUP"
             },
             {
                 "label": "PRODUCTS & SERVICES",
