@@ -24,7 +24,8 @@
             },
             {
                 "url": "/blog",
-                "style": "link"
+                "style": "link",
+                "label": "COMMITMENTS"
             },
             {
                 "url": "/style-guide",
