@@ -304,8 +304,7 @@ sections:
           + [El Salvador](https://www.apple.com/la/)
           + [Grenada](https://www.apple.com/lae/)
           + [Guatemala](https://www.apple.com/la/)
-
-          *   [Guyana](https://www.apple.com/lae/)
+          + [Guyana](https://www.apple.com/lae/)
 
           *   [Honduras](https://www.apple.com/la/)
 
