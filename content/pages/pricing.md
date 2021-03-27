@@ -171,8 +171,7 @@ sections:
           + [Eesti](https://www.apple.com/ee/)
           + [España](https://www.apple.com/es/)
           + [France](https://www.apple.com/fr/)
-
-          *   [Georgia](https://www.apple.com/ge/)
+          + [Georgia](https://www.apple.com/ge/)
 
           *   [Ελλάδα](https://www.apple.com/gr/)
 
