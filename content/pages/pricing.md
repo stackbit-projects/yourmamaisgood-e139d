@@ -7,6 +7,7 @@ sections:
     padding_bottom: large
     background_color: secondary
     title: Demo Worldwide
+    subtitle: 'Located globally, impacting locally'
   - type: grid_section
     grid_items:
       - title_align: left
