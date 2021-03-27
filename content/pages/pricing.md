@@ -173,10 +173,8 @@ sections:
           + [France](https://www.apple.com/fr/)
           + [Georgia](https://www.apple.com/ge/)
           + [Ελλάδα](https://www.apple.com/gr/)
-
-          *   [Hrvatska](https://www.apple.com/hr/)
-
-          *   [Ireland](https://www.apple.com/ie/)
+          + [Hrvatska](https://www.apple.com/hr/)
+          + [Ireland](https://www.apple.com/ie/)
         content_align: left
         actions: []
         actions_align: left
