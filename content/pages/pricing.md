@@ -77,7 +77,7 @@ sections:
       - title_align: left
         content: |+
         ***
-          
+          *
           
           [Oman](https://www.apple.com/om/)
 
