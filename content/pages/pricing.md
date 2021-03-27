@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: Aurel World
+    title: Aurel WORLDWIDE
     subtitle: Optional hero section subtitle
     align: center
     padding_top: large
