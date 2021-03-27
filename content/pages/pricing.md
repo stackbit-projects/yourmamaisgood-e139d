@@ -71,8 +71,7 @@ sections:
         actions_align: left
         actions_width: full-width
         title: EUROPE
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
