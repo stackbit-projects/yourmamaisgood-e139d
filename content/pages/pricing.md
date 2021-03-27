@@ -281,12 +281,12 @@ sections:
           + [Bermuda](https://www.a.com/lae/)
           + [Bolivia](https://www.a.com/la/)
           + [Brasil](https://www.a.com/br/)
-          + [British Virgin Islands](https://www.apple.com/lae/)
-          + [Cayman Islands](https://www.apple.com/lae/)
-          + [Chile](https://www.apple.com/cl/)
-          + [Colombia](https://www.apple.com/co/)
-          + [Costa Rica](https://www.apple.com/la/)
-          + [Dominica](https://www.apple.com/lae/)
+          + [British Virgin Islands](https://www.a.com/lae/)
+          + [Cayman Islands](https://www.a.com/lae/)
+          + [Chile](https://www.a.com/cl/)
+          + [Colombia](https://www.a.com/co/)
+          + [Costa Rica](https://www.a.com/la/)
+          + [Dominica](https://www.a.com/lae/)
         content_align: left
         actions: []
         actions_align: left
