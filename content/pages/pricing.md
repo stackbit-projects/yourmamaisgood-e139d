@@ -14,7 +14,7 @@ sections:
 
           + [Bahrain](https://www.a.com)
           + [البحرين](https://www.a.com)
-          + [Botswana](https://www.apple.com/bw/)
+          + [Botswana](https://www.a.com)
           + [Cameroun](https://www.apple.com/cm/)
           + [République Centrafricaine](https://www.apple.com/cf/)
           + [Côte d'Ivoire](https://www.apple.com/ci/)
