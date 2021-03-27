@@ -111,7 +111,6 @@ sections:
         type: grid_item
       - title_align: left
         content: |
-          ***
           + [Philippines](https://www.a.com/ph/)
           + [Singapore](https://www.a.com/sg/)
           + [台灣](https://www.a.com/tw/)
