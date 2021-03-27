@@ -44,9 +44,9 @@ sections:
           + [Mali](https://www.a.com/ml/)
           + [Maroc](https://www.a.com/ma/)
           + [Maurice](https://www.a.com/mu/)
-          + [Mozambique](https://www.apple.com/mz/)
-          + [Niger](https://www.apple.com/ne/)
-          + [Nigeria](https://www.apple.com/ng/)
+          + [Mozambique](https://www.a.com/mz/)
+          + [Niger](https://www.a.com/ne/)
+          + [Nigeria](https://www.a.com/ng/)
         content_align: left
         actions: []
         actions_align: left
