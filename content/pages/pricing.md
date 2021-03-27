@@ -215,13 +215,13 @@ sections:
         type: grid_item
       - title_align: left
         content: |
-          + [Portugal](https://www.apple.com/pt/)
-          + [România](https://www.apple.com/ro/)
-          + [Россия](https://www.apple.com/ru/)
-          + [Slovensko](https://www.apple.com/sk/)
-          + [Slovenia](https://www.apple.com/si/)
-          + [Schweiz](https://www.apple.com/chde/)
-          + [Suisse](https://www.apple.com/chfr/)
+          + [Portugal](https://www.a.com/pt/)
+          + [România](https://www.a.com/ro/)
+          + [Россия](https://www.a.com/ru/)
+          + [Slovensko](https://www.a.com/sk/)
+          + [Slovenia](https://www.a.com/si/)
+          + [Schweiz](https://www.a.com/chde/)
+          + [Suisse](https://www.a.com/chfr/)
           + [Suomi](https://www.apple.com/fi/)
           + [Sverige](https://www.apple.com/se/)
           + [Tajikistan](https://www.apple.com/tj/)
