@@ -85,17 +85,16 @@ sections:
     actions: []
     grid_items:
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          [Australia](https://www.apple.com/au/)
 
+          *   [中国大陆](https://www.apple.com.cn/)
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   [Hong Kong](https://www.apple.com/hk/en/)
 
+          *   [香港](https://www.apple.com/hk/)
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   [Indonesia](https://www.apple.com/id/)
         content_align: left
         actions: []
         actions_align: left
