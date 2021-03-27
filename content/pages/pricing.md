@@ -224,8 +224,7 @@ sections:
           + [Suisse](https://www.apple.com/chfr/)
           + [Suomi](https://www.apple.com/fi/)
           + [Sverige](https://www.apple.com/se/)
-
-          *   [Tajikistan](https://www.apple.com/tj/)
+          + [Tajikistan](https://www.apple.com/tj/)
 
           *   [Türkiye](https://www.apple.com/tr/)
 
