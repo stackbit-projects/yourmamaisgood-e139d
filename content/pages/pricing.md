@@ -41,7 +41,7 @@ sections:
           + [Kuwait](https://www.a.com/kw/)
           + [الكويت](https://www.a.com/kw-ar/)
           + [Madagascar](https://www.a.com/mg/)
-          + [Mali](https://www.apple.com/ml/)
+          + [Mali](https://www.a.com/ml/)
           + [Maroc](https://www.apple.com/ma/)
           + [Maurice](https://www.apple.com/mu/)
           + [Mozambique](https://www.apple.com/mz/)
