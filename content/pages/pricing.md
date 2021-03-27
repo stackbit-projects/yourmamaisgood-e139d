@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     align: center
     padding_top: small
-    padding_bottom: none
+    padding_bottom: large
     background_color: secondary
     title: Demo Worldwide
   - type: grid_section
