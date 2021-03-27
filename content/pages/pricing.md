@@ -121,7 +121,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: |
+        content: |+
           [Philippines](https://www.apple.com/ph/)
 
           *   [Singapore](https://www.apple.com/sg/)
