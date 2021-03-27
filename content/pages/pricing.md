@@ -72,7 +72,7 @@ sections:
 
           + [South Africa](https://www.apple.com/za/)
 
-          [Tunisie](https://www.apple.com/tn/)
+          + [Tunisie](https://www.apple.com/tn/)
 
           [Uganda](https://www.apple.com/ug/)
 
