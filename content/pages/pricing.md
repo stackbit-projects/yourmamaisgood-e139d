@@ -9,7 +9,7 @@ sections:
     subtitle: ' Located globally, impacting locally'
   - type: grid_section
     grid_items:
-      - title: 'AFRICA '
+      - title: AFRICA & MIDDLE E
         title_align: left
         content: |+
           ***
