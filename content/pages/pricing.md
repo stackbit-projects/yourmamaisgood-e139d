@@ -29,8 +29,7 @@ sections:
           ***
 
           *   Et semper leo mattis orci conubia congue
-          *   Quisque eleifend imperdiet tortor
-          *
+          *   Quisque eleifend imperdiet t
         content_align: left
         actions: []
         actions_align: left
