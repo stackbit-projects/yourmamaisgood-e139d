@@ -333,7 +333,7 @@ sections:
          + [Suriname](https://www.apple.com/lae/)\n\n*   
          + [The Bahamas](https://www.apple.com/lae/)\n\n*   
          + [Trinidad & Tobago](https://www.apple.com/lae/)
-           + [Turks & Caicos](https://www.apple.com/lae/)
+         + [Turks & Caicos](https://www.apple.com/lae/)
          + [Uruguay](https://www.apple.com/la/)
          + [Venezuela](https://www.apple.com/la/)
          + [América Latina y\_el Caribe (Español)](https://www.apple.com/la/)
