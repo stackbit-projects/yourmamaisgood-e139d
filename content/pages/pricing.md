@@ -222,7 +222,7 @@ sections:
           + [Slovenia](https://www.a.com/si/)
           + [Schweiz](https://www.a.com/chde/)
           + [Suisse](https://www.a.com/chfr/)
-          + [Suomi](https://www.apple.com/fi/)
+          + [Suomi](https://www.a.com/fi/)
           + [Sverige](https://www.apple.com/se/)
           + [Tajikistan](https://www.apple.com/tj/)
           + [Türkiye](https://www.apple.com/tr/)
