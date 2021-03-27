@@ -13,7 +13,7 @@ sections:
           ***
 
           + [Bahrain](https://www.a.com/bh/)
-          + [البحرين](https://www.apple.com/bh-ar/)
+          + [البحرين](https://www.a.com/bh-ar/)
           + [Botswana](https://www.apple.com/bw/)
           + [Cameroun](https://www.apple.com/cm/)
           + [République Centrafricaine](https://www.apple.com/cf/)
