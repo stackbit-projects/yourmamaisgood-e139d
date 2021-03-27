@@ -103,7 +103,8 @@ sections:
         image_has_padding: false
         type: grid_item
       - title_align: left
-        content: |
+        content: |+
+          ***
           [日本](https://www.apple.com/jp/)
 
           *   [대한민국](https://www.apple.com/kr/)
