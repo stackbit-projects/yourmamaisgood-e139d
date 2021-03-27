@@ -34,7 +34,8 @@
             },
             {
                 "url": "/style-guide",
-                "style": "link"
+                "style": "link",
+                "label": "MEDIABOX"
             }
         ],
         "has_secondary_nav": true,
