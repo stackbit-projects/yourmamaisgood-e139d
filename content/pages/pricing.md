@@ -68,7 +68,7 @@ sections:
 
           + [المملكة العربية السعودية](https://www.apple.com/sa-ar/)
 
-          [Sénégal](https://www.apple.com/sn/)
+          + [Sénégal](https://www.apple.com/sn/)
 
           [South Africa](https://www.apple.com/za/)
 
