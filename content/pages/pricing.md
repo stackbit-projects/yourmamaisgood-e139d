@@ -325,8 +325,8 @@ sections:
       - title_align: left
         content: |
          + [Perú](https://www.a.com/la/) 
-         + [St. Kitts & Nevis](https://www.apple.com/lae/)
-         + [St. Lucia](https://www.apple.com/lae/)\n\n*   
+         + [St. Kitts & Nevis](https://www.a.com/lae/)
+         + [St. Lucia](https://www.a.com/lae/)\n\n*   
          + [St. Vincent & The\_Grenadines](https://www.apple.com/lae/)
          + [Suriname](https://www.apple.com/lae/)
          + [The Bahamas](https://www.apple.com/lae/)
