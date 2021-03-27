@@ -379,7 +379,7 @@ sections:
     grid_items:
       - title_align: left
         content: |
-          [Canada (English)](https://www.apple.com/ca/)
+          + [Canada (English)](https://www.apple.com/ca/)
 
           *   [Canada (Français)](https://www.apple.com/ca/fr/)
         content_align: left
