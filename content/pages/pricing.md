@@ -43,7 +43,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title_align: left
-        content: |
+        content: |+
 
           ***
 
