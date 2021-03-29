@@ -146,7 +146,7 @@ sections:
           - Kiribati
           - Korea (South)
           - Kosovo
-Kuwait
+          - Kuwait
 Kyrgyzstan
 Laos
 Latvia
