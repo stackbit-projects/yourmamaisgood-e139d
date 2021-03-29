@@ -86,7 +86,7 @@ sections:
           - Burundi
           - Cambodia
           - Cameroon
-Canada
+          - Canada
 Cape Verde
 Central African Republic
 Chad
