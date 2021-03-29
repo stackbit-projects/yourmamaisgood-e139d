@@ -92,7 +92,7 @@ sections:
           - Chad
           - Chile
           - China
-Colombia
+          - Colombia
 Comoros
 Congo, Republic of the
 Congo, Democratic Republic of the
