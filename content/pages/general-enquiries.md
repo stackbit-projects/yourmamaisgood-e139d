@@ -104,7 +104,7 @@ sections:
           - Denmark
           - Djibouti
           - Dominica
-Dominican Republic
+          - Dominican Republic
 East Timor (Timor-Leste)
 Ecuador
 Egypt
