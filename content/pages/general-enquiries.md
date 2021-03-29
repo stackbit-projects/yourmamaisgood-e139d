@@ -216,9 +216,9 @@ sections:
           - Solomon Islands
           - Somalia
           - South Africa
-South Sudan
-Spain
-Sri Lanka
+          - South Sudan
+          - Spain
+          - Sri Lanka
 Sudan
 Suriname
 Swaziland
