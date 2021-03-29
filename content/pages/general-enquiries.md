@@ -200,7 +200,7 @@ sections:
           - Russia
           - Rwanda
           - Saint Kitts and Nevis
-Saint Lucia
+          - Saint Lucia
 Saint Vincent and the Grenadines
 Samoa
 San Marino
