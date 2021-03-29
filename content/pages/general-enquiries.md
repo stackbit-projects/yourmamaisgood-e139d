@@ -47,7 +47,7 @@ sections:
       - input_type: text
         name: company
         label: COMPANY NAME
-        default_value: lorem-ipsum
+        default_value: Your company
         options: []
         is_required: false
         type: form_field
