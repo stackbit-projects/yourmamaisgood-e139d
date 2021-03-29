@@ -56,6 +56,7 @@ sections:
         label: COUNTRY
         options:
           - lorem-ipsum1
+          - lorem-ipsum
         is_required: false
         type: form_field
         default_value: Please select...
