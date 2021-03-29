@@ -66,6 +66,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: full-width
+        
     grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
