@@ -13,6 +13,7 @@ sections:
       ![](/images/brandon-guidelines.png)
       
       ***
+      
       #### Corporate headquarters
 
       + Aurel Group;
