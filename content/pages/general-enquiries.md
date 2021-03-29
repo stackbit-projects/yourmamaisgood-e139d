@@ -43,6 +43,7 @@ sections:
         options: []
         is_required: false
         type: form_field
+        default_value: Your phone number
       - input_type: text
         name: company
         label: COMPANY NAME
