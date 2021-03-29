@@ -270,7 +270,7 @@ sections:
           - Transportation & Logistics
           - Commodity quote requests
           - 'Supplier opportunity '
-          - 'General '
+          - General feedback
       - input_type: textarea
         name: message
         default_value: Your message
