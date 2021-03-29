@@ -268,8 +268,9 @@ sections:
           - Products information
           - Services information
           - Transportation & Logistics
-          - 'Supplier opportunity '
           - Commodity quote requests
+          - 'Supplier opportunity '
+          - null
       - input_type: textarea
         name: message
         default_value: Your message
