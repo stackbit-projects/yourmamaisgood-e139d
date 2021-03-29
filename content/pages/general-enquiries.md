@@ -170,7 +170,7 @@ sections:
           - Mexico
           - Micronesia
           - Moldova
-Monaco
+          - Monaco
 Mongolia
 Montenegro
 Morocco
