@@ -233,7 +233,7 @@ sections:
           - Tonga
           - Trinidad and Tobago
           - Tunisia
-Turkey
+          - Turkey
 Turkmenistan
 Tuvalu
 Uganda
