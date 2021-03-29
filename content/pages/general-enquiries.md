@@ -119,7 +119,7 @@ sections:
           - Gabon
           - Gambia
           - Georgia
-Germany
+          - Germany
 Ghana
 Greece
 Grenada
