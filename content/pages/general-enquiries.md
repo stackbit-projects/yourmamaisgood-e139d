@@ -38,7 +38,7 @@ sections:
         label: HOW CAN WE HELP YOU?*
         default_value: Please select...
         options:
-          - Products information
+          - NeedProducts information
           - Services information
           - Transportation & Logistics
           - Commodity quote requests
