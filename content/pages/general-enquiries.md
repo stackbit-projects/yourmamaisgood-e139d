@@ -269,6 +269,7 @@ sections:
           - Services information
           - Transportation & Logistics
           - 'Supplier opportunity '
+          - lorem-ipsum
       - input_type: textarea
         name: message
         default_value: Your message
