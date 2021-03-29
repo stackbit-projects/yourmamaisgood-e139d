@@ -157,7 +157,7 @@ sections:
           - Liechtenstein
           - Lithuania
           - Luxembourg
-Macedonia
+          - Macedonia
 Madagascar
 Malawi
 Malaysia
