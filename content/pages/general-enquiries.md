@@ -14,7 +14,7 @@ sections:
       ![](/images/brandon-guidelines.png)
 
 
-      #### Corporate headquarters|
+      #### Corporate headquarters |
 
       + Aurel Group
       + BP 000000
