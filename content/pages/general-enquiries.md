@@ -81,7 +81,7 @@ sections:
           - Botswana
           - Brazil
           - Brunei
-Bulgaria
+          - Bulgaria
 Burkina Faso
 Burundi
 Cambodia
