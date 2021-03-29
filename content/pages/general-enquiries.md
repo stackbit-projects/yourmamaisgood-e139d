@@ -195,8 +195,8 @@ sections:
           - Philippines
           - Poland
           - Portugal
-Qatar
-Romania
+          - Qatar
+          - Romania
 Russia
 Rwanda
 Saint Kitts and Nevis
