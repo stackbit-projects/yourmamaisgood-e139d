@@ -193,7 +193,7 @@ sections:
           - Paraguay
           - Peru
           - Philippines
-Poland
+          - Poland
 Portugal
 Qatar
 Romania
