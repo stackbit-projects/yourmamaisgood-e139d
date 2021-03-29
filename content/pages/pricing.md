@@ -13,7 +13,7 @@ sections:
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     media_position: right
     title: 'We are there for everyone, everywhere.'
-    subtitle: Ta
+    subtitle: CONTACT YOUR DEDICATED REPRESENTATIVE
   - type: grid_section
     grid_items:
       - title_align: left
