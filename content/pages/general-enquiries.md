@@ -59,7 +59,7 @@ sections:
           - Afghanistan
           - Albania
           - Algeria
-Andorra
+          - Andorra
 Angola
 Antigua and Barbuda
 Argentina
