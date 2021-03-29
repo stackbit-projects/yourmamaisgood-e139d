@@ -262,7 +262,7 @@ sections:
         default_value: Please select...
       - input_type: select
         name: subject
-        label: SUBJECT
+        label: SUBJECT*
         default_value: Please select...
         options:
           - Products information
