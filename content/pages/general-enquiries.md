@@ -90,7 +90,7 @@ sections:
           - Cape Verde
           - Central African Republic
           - Chad
-Chile
+          - Chile
 China
 Colombia
 Comoros
