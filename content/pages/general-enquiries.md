@@ -40,7 +40,6 @@ sections:
       - input_type: tel
         name: phone
         label: PHONE NUMBER
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
