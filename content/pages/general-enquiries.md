@@ -71,7 +71,7 @@ sections:
           - Bahrain
           - Bangladesh
           - Barbados
-Belarus
+          - Belarus
 Belgium
 Belize
 Benin
