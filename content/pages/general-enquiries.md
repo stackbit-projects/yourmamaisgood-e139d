@@ -266,7 +266,7 @@ sections:
           - Zimbabwe
         is_required: false
         type: form_field
-        default_value: Please select...
+        default_value: Please select one...
     align_vert: top
     padding_top: none
     padding_bottom: large
