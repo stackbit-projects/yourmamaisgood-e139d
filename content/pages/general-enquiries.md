@@ -47,7 +47,7 @@ sections:
           - General feedback
       - input_type: textarea
         name: message
-        label: 'CAN YOU GIVE US MORE DETAILS ,*'
+        label: 'CAN YOU GIVE US MORE DETAILS ,?*'
         is_required: true
         default_value: Your message
       - input_type: email
