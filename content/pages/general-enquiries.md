@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     align: center
     padding_top: none
-    padding_bottom: medium
+    padding_bottom: none
     background_color: none
   - type: form_section
     content: >
