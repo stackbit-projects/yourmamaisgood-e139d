@@ -209,7 +209,7 @@ sections:
           - Senegal
           - Serbia
           - Seychelles
-Sierra Leone
+          - Sierra Leone
 Singapore
 Slovakia
 Slovenia
