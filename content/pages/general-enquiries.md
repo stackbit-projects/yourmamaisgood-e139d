@@ -78,6 +78,7 @@ sections:
       - input_type: textarea
         name: message
         default_value: Your message
+        label: 'HOW CAN WE HELP YOU '
     align_vert: top
     padding_top: none
     padding_bottom: large
