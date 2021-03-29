@@ -61,7 +61,7 @@ sections:
           - Algeria
           - Andorra
           - Angola
-Antigua and Barbuda
+          - Antigua and Barbuda
 Argentina
 Armenia
 Australia
