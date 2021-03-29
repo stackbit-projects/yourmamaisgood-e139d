@@ -144,7 +144,7 @@ sections:
           - Kazakhstan
           - Kenya
           - Kiribati
-Korea, North
+          - Korea, North
 Korea, South
 Kosovo
 Kuwait
