@@ -204,10 +204,10 @@ sections:
           - Saint Vincent and the Grenadines
           - Samoa
           - San Marino
-Sao Tome and Principe
-Saudi Arabia
-Senegal
-Serbia
+          - Sao Tome and Principe
+          - Saudi Arabia
+          - Senegal
+          - Serbia
 Seychelles
 Sierra Leone
 Singapore
