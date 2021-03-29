@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     align: left
-    padding_top: medium
+    padding_top: none
     padding_bottom: none
     background_color: none
     video_embed_html: >-
