@@ -106,7 +106,7 @@ sections:
           - Dominica
           - Dominican Republic
           - East Timor (Timor-Leste)
-Ecuador
+          - Ecuador
 Egypt
 El Salvador
 Equatorial Guinea
