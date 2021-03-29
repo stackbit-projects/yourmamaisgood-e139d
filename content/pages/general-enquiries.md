@@ -79,7 +79,6 @@ sections:
         name: message
         label: YOUR MESSAGE
         default_value: Your message
-    submit_label: Send Message
     align_vert: top
     padding_top: none
     padding_bottom: large
