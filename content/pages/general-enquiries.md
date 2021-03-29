@@ -150,7 +150,7 @@ sections:
           - Kyrgyzstan
           - Laos
           - Latvia
-Lebanon
+          - Lebanon
 Lesotho
 Liberia
 Libya
