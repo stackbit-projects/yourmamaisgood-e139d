@@ -85,7 +85,7 @@ sections:
           - Burkina Faso
           - Burundi
           - Cambodia
-Cameroon
+          - Cameroon
 Canada
 Cape Verde
 Central African Republic
