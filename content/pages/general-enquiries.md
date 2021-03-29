@@ -30,7 +30,7 @@ sections:
       - input_type: text
         name: name
         label: FULL NAME
-        default_value: Your name
+        default_value: Your full name
         is_required: true
       - input_type: email
         name: email
