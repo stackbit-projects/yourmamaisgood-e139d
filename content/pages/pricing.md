@@ -392,6 +392,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    background_image: images/2.svg
   - title: 'The United States, Canada, and Puerto Rico'
     actions: []
     grid_items:
