@@ -163,7 +163,7 @@ sections:
           - Malaysia
           - Maldives
           - Mali
-Malta
+          - Malta
 Marshall Islands
 Mauritania
 Mauritius
