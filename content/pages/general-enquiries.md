@@ -7,9 +7,43 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >
-      ## Feel free to contact us, our teams will work hard to bring you the best
-      solution.
+    content: >+
+      ### Corporate headquarters
+
+
+      Aurel Group
+
+      \-
+
+
+      \-
+
+
+      \-
+
+
+      \-
+
+
+      ###
+
+
+      ### Commercial sales
+
+
+      Aurel will never ask customers to deposit payments in a non-Aurel bank
+      account.
+
+
+      ### Employment offers
+
+
+      Aurel will not ask for money, processing fees, or bank information as a
+      pre-condition of employment. To be considered for employment, please
+      submit your information through our Careers section.
+
+
+
     content_align: left
     form_position: right
     form_width: fifty
