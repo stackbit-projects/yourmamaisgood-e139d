@@ -153,7 +153,7 @@ sections:
           - Lebanon
           - Lesotho
           - Liberia
-Libya
+          - Libya
 Liechtenstein
 Lithuania
 Luxembourg
