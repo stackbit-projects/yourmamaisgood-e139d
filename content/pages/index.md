@@ -44,6 +44,7 @@ sections:
           Aure is working to nourish the world. We're bringing together people,
           ideas, and resources to deliver products, technology and ways of
           operating that build successful businesses and communities.
+        title: Thé mixité in in our dna
     feature_padding_vert: small
     background_color: primary
   - type: features_section
