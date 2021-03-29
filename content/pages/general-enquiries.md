@@ -52,7 +52,7 @@ sections:
         default_value: Your message
       - input_type: email
         name: email
-        label: EMAIL*
+        label: YEMAIL*
         default_value: Your email
         is_required: true
       - input_type: text
