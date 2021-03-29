@@ -113,7 +113,7 @@ sections:
           - Eritrea
           - Estonia
           - Ethiopia
-Fiji
+          - Fiji
 Finland
 France
 Gabon
