@@ -161,7 +161,7 @@ sections:
           - Madagascar
           - Malawi
           - Malaysia
-Maldives
+          - Maldives
 Mali
 Malta
 Marshall Islands
