@@ -110,7 +110,7 @@ sections:
           - Egypt
           - El Salvador
           - Equatorial Guinea
-Eritrea
+          - Eritrea
 Estonia
 Ethiopia
 Fiji
