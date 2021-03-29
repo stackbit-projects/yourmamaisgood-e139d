@@ -60,7 +60,6 @@ sections:
         type: form_field
       - input_type: select
         name: client
-        label: CLIENT
         default_value: lorem-ipsum
         options: []
         is_required: false
