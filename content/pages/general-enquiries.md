@@ -53,20 +53,6 @@ sections:
         label: FULL NAME*
         default_value: Your full name
         is_required: true
-      - input_type: tel
-        name: phone
-        label: PHONE NUMBER
-        options: []
-        is_required: false
-        type: form_field
-        default_value: Your phone number
-      - input_type: text
-        name: company
-        label: COMPANY NAME*
-        default_value: Your company name
-        options: []
-        is_required: false
-        type: form_field
       - input_type: select
         name: country
         label: COUNTRY*
@@ -267,6 +253,20 @@ sections:
         is_required: false
         type: form_field
         default_value: Please select one...
+      - input_type: tel
+        name: phone
+        label: PHONE NUMBER
+        options: []
+        is_required: false
+        type: form_field
+        default_value: Your phone number
+      - input_type: text
+        name: company
+        label: COMPANY NAME*
+        default_value: Your company name
+        options: []
+        is_required: false
+        type: form_field
     align_vert: top
     padding_top: none
     padding_bottom: large
