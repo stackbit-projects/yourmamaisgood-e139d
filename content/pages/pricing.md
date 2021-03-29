@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     align: left
     padding_top: none
-    padding_bottom: none
+    padding_bottom: large
     background_color: none
     video_embed_html: >-
       <iframe width="560" height="315"
