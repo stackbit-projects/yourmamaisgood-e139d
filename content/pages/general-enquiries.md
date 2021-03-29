@@ -108,7 +108,7 @@ sections:
           - East Timor (Timor-Leste)
           - Ecuador
           - Egypt
-El Salvador
+          - El Salvador
 Equatorial Guinea
 Eritrea
 Estonia
