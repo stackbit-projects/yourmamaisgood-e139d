@@ -220,7 +220,7 @@ sections:
           - Spain
           - Sri Lanka
           - Sudan
-Suriname
+          - Suriname
 Swaziland
 Sweden
 Switzerland
