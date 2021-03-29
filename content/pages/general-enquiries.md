@@ -185,7 +185,7 @@ sections:
           - Niger
           - Nigeria
           - Norway
-Oman
+          - Oman
 Pakistan
 Palau
 Panama
