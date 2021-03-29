@@ -73,7 +73,7 @@ sections:
           - Barbados
           - Belarus
           - Belgium
-Belize
+          - Belize
 Benin
 Bhutan
 Bolivia
