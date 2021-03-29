@@ -162,7 +162,7 @@ sections:
           - Malawi
           - Malaysia
           - Maldives
-Mali
+          - Mali
 Malta
 Marshall Islands
 Mauritania
