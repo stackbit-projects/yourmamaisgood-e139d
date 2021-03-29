@@ -95,7 +95,7 @@ sections:
           - Colombia
           - Comoros
           - Congo
-Costa Rica
+          - Costa Rica
 Cote d'Ivoire
 Croatia
 Cuba
