@@ -74,7 +74,7 @@ sections:
           - Belarus
           - Belgium
           - Belize
-Benin
+          - Benin
 Bhutan
 Bolivia
 Bosnia and Herzegovina
