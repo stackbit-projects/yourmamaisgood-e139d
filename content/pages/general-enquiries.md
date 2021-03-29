@@ -208,7 +208,7 @@ sections:
           - Saudi Arabia
           - Senegal
           - Serbia
-Seychelles
+          - Seychelles
 Sierra Leone
 Singapore
 Slovakia
