@@ -149,7 +149,7 @@ sections:
           - Kuwait
           - Kyrgyzstan
           - Laos
-Latvia
+          - Latvia
 Lebanon
 Lesotho
 Liberia
