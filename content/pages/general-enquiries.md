@@ -91,7 +91,7 @@ sections:
           - Central African Republic
           - Chad
           - Chile
-China
+          - China
 Colombia
 Comoros
 Congo, Republic of the
