@@ -194,7 +194,7 @@ sections:
           - Peru
           - Philippines
           - Poland
-Portugal
+          - Portugal
 Qatar
 Romania
 Russia
