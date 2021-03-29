@@ -145,7 +145,7 @@ sections:
           - Kenya
           - Kiribati
           - Korea (South)
-Kosovo
+          - Kosovo
 Kuwait
 Kyrgyzstan
 Laos
