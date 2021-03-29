@@ -102,8 +102,8 @@ sections:
           - Cyprus
           - Czech Republic
           - Denmark
-Djibouti
-Dominica
+          - Djibouti
+          Dominica
 Dominican Republic
 East Timor (Timor-Leste)
 Ecuador
