@@ -148,7 +148,7 @@ sections:
           - Kosovo
           - Kuwait
           - Kyrgyzstan
-Laos
+          - Laos
 Latvia
 Lebanon
 Lesotho
