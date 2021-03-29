@@ -47,7 +47,7 @@ sections:
           - General feedback
       - input_type: textarea
         name: message
-        label: HOW CAN WE HELP YOU ?*
+        label: HOW CAN *
         is_required: true
         default_value: Your message
       - input_type: email
