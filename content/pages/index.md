@@ -40,7 +40,6 @@ sections:
           player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
-        title: Prod
         subtitle: >-
           Aure is working to nourish the world. We're bringing together people,
           ideas, and resources to deliver products, technology and ways of
