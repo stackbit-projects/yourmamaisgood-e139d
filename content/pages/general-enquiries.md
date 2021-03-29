@@ -89,7 +89,7 @@ sections:
           - Canada
           - Cape Verde
           - Central African Republic
-Chad
+          - Chad
 Chile
 China
 Colombia
