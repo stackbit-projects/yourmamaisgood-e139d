@@ -29,7 +29,7 @@ sections:
     form_fields:
       - input_type: text
         name: name
-        label: FULL NAME
+        label: FULL NAME*
         default_value: Your full name
         is_required: true
       - input_type: email
