@@ -177,7 +177,7 @@ sections:
           - Mozambique
           - Myanmar (Burma)
           - Namibia
-Nauru
+          - Nauru
 Nepal
 Netherlands
 New Zealand
