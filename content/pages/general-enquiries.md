@@ -27,6 +27,18 @@ sections:
     form_id: contact-form
     form_action: /thank-you
     form_fields:
+      - input_type: select
+        name: subject
+        label: SUBJECT*
+        default_value: Please select...
+        options:
+          - Products information
+          - Services information
+          - Transportation & Logistics
+          - Commodity quote requests
+          - Supplier opportunities
+          - Accounts payable
+          - General feedback
       - input_type: text
         name: name
         label: FULL NAME*
@@ -260,18 +272,6 @@ sections:
         type: form_field
         label: ALREADY AN AUREL CLIENT ?*
         default_value: Please select...
-      - input_type: select
-        name: subject
-        label: SUBJECT*
-        default_value: Please select...
-        options:
-          - Products information
-          - Services information
-          - Transportation & Logistics
-          - Commodity quote requests
-          - Supplier opportunities
-          - Accounts payable
-          - General feedback
       - input_type: textarea
         name: message
         default_value: Your message
