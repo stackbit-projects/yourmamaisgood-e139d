@@ -12,7 +12,7 @@ sections:
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     media_position: right
-    title: We
+    title: We are hier for all
   - type: grid_section
     grid_items:
       - title_align: left
