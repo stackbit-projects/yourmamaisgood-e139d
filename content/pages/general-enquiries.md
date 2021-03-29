@@ -180,8 +180,8 @@ sections:
           - Nauru
           - Nepal
           - Netherlands
-New Zealand
-Nicaragua
+          - New Zealand
+          - Nicaragua
 Niger
 Nigeria
 Norway
