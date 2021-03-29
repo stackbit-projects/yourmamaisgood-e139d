@@ -5,7 +5,7 @@ sections:
     align: center
     padding_top: medium
     padding_bottom: medium
-    background_color: none
+    background_color: rgb(0,0,0)
     title: DEMO WORLDWIDE
     subtitle: 'Located globally, impacting locally'
     content: "Demo provides food, agriculture, financial and industrial products and services to the world. Together with farmers, customers, governments and communities, we help people thrive by applying our insights and 150 years of experience. We have 155,000 employees in 70 countries / regions\_who are committed to feeding the world in a responsible way, reducing environmental impact and improving the communities where we live and work.\n"
