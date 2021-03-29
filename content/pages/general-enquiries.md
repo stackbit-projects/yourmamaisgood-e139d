@@ -138,7 +138,7 @@ sections:
           - Ireland
           - Israel
           - Italy
-Jamaica
+          - Jamaica
 Japan
 Jordan
 Kazakhstan
