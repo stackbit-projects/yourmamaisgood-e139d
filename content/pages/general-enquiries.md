@@ -60,7 +60,7 @@ sections:
           - Albania
           - Algeria
           - Andorra
-Angola
+          - Angola
 Antigua and Barbuda
 Argentina
 Armenia
