@@ -109,7 +109,7 @@ sections:
           - Ecuador
           - Egypt
           - El Salvador
-Equatorial Guinea
+          - Equatorial Guinea
 Eritrea
 Estonia
 Ethiopia
