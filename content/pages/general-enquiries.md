@@ -15,7 +15,7 @@ sections:
 
 
       #### Corporate headquarters|
-      + Aurel Group
+      * Aurel Group
       + BP 000000
       + Geneva, GE
       + Avenue du Grand Aurel
