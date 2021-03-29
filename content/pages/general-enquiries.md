@@ -140,7 +140,7 @@ sections:
           - Italy
           - Jamaica
           - Japan
-Jordan
+          - Jordan
 Kazakhstan
 Kenya
 Kiribati
