@@ -44,7 +44,7 @@ sections:
       pre-condition of employment. To be considered for employment, please
       submit your information through our Careers section.
     content_align: left
-    form_position: right
+    form_position: left
     form_width: fifty
     form_layout: inline
     enable_card: true
