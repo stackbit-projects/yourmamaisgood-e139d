@@ -54,7 +54,7 @@ sections:
       - input_type: text
         name: country
         label: COUNTRY
-        default_value: lorem-ipsum
+        default_value: lor
         options: []
         is_required: false
         type: form_field
