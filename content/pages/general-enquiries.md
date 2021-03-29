@@ -197,8 +197,8 @@ sections:
           - Portugal
           - Qatar
           - Romania
-Russia
-Rwanda
+          - Russia
+          - Rwanda
 Saint Kitts and Nevis
 Saint Lucia
 Saint Vincent and the Grenadines
