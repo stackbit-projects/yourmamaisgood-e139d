@@ -12,6 +12,7 @@ sections:
 
       ![](/images/brandon-guidelines.png)
 
+
       #### Corporate headquarters
 
       ***
@@ -34,7 +35,7 @@ sections:
 
       #### Employment offers
       ***
-      
+
       Aurel will not ask for money, processing fees, or bank information as a
       pre-condition of employment. To be considered for employment, please
       submit your information through our Careers section.
