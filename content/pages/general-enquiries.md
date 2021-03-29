@@ -62,7 +62,7 @@ sections:
         name: client
         options:
           - 'Yes'
-          - null
+          - 'No'
         is_required: false
         type: form_field
         label: ALREADY AN AUREL CLIENT ?
