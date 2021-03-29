@@ -142,7 +142,7 @@ sections:
           - Japan
           - Jordan
           - Kazakhstan
-Kenya
+          - Kenya
 Kiribati
 Korea, North
 Korea, South
