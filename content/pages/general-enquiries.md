@@ -229,7 +229,7 @@ sections:
           - Tajikistan
           - Tanzania
           - Thailand
-Togo
+          - Togo
 Tonga
 Trinidad and Tobago
 Tunisia
