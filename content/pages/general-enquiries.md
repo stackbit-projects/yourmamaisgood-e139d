@@ -45,7 +45,7 @@ sections:
         label: HOW CAN WE HELP YOU ?*
       - input_type: email
         name: email
-        label: WORK EMAIL*
+        label: EMAIL*
         default_value: Your work email
         is_required: true
       - input_type: text
