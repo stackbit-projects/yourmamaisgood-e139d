@@ -35,7 +35,7 @@ sections:
       - input_type: email
         name: email
         label: WORK EMAIL
-        default_value: Your email address
+        default_value: 'Your '
         is_required: true
       - input_type: tel
         name: phone
