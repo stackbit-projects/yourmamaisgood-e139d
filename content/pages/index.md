@@ -21,7 +21,6 @@ sections:
       Aure is working to nourish the world. We're bringing together people,
       ideas, and resources to deliver products, technology and ways of operating
       that build successful businesses and communities.
-    background_image: images/31FE2EC7-4D28-49BB-BDF7-88F55246887E.png
     background_image_opacity: 20
     title: HUMAIN FIRST
   - type: features_section
