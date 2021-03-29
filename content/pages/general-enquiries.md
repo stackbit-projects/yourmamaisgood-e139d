@@ -27,22 +27,7 @@ sections:
       ***
 
 
-      #### Commercial sales
-
-
-      Aurel will never ask customers to deposit payments in a non-Aurel bank
-      account.
-
-
-      ***
-
-
-      #### Employment offers
-
-
-      Aurel will not ask for money, processing fees, or bank information as a
-      pre-condition of employment. To be considered for employment, please
-      submit your information through our Careers section.
+      ####
     content_align: left
     form_position: right
     form_width: fifty
