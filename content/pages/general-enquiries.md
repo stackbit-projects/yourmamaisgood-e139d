@@ -175,7 +175,7 @@ sections:
           - Montenegro
           - Morocco
           - Mozambique
-Myanmar (Burma)
+          - Myanmar (Burma)
 Namibia
 Nauru
 Nepal
