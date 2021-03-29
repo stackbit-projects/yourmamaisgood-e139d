@@ -203,7 +203,7 @@ sections:
           - Saint Lucia
           - Saint Vincent and the Grenadines
           - Samoa
-San Marino
+          - San Marino
 Sao Tome and Principe
 Saudi Arabia
 Senegal
