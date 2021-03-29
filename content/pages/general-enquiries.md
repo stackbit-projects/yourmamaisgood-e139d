@@ -20,7 +20,7 @@ sections:
       + Geneva, GE;
       + Avenue du Grand Aurel;
       + Swiss;
-      + 01 00 00 00 00 (English)
+      + 01 00 00 00 00 (English);
 
 
       #### Commercial sales
