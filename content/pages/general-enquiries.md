@@ -160,7 +160,7 @@ sections:
           - Macedonia
           - Madagascar
           - Malawi
-Malaysia
+          - Malaysia
 Maldives
 Mali
 Malta
