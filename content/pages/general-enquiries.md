@@ -64,7 +64,7 @@ sections:
           - Antigua and Barbuda
           - Argentina
           - Armenia
-Australia
+          - Australia
 Austria
 Azerbaijan
 The Bahamas
