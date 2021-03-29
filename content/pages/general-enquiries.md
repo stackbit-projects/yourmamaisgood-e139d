@@ -65,7 +65,7 @@ sections:
           - Argentina
           - Armenia
           - Australia
-Austria
+          - Austria
 Azerbaijan
 The Bahamas
 Bahrain
