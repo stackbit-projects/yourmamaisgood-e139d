@@ -79,8 +79,8 @@ sections:
           - Bolivia
           - Bosnia and Herzegovina
           - Botswana
-Brazil
-Brunei
+          - Brazil
+          - Brunei
 Bulgaria
 Burkina Faso
 Burundi
