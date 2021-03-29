@@ -18,7 +18,7 @@ sections:
     padding_bottom: large
     background_color: none
     background_image_opacity: 20
-    title: The legacy of good trading.
+    title: 'The legacy of good trading. '
   - type: features_section
     features:
       - image_alt: Brandon Guidelines
