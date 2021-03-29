@@ -62,7 +62,7 @@ sections:
         name: client
         options:
           - 'Yes'
-          - lorem-ipsum
+          - null
         is_required: false
         type: form_field
         label: ALREADY AN AUREL CLIENT ?
