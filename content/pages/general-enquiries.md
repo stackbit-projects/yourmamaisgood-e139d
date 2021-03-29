@@ -223,8 +223,8 @@ sections:
           - Suriname
           - Swaziland
           - Sweden
-Switzerland
-Syria
+          - Switzerland
+          - Syria
 Taiwan
 Tajikistan
 Tanzania
