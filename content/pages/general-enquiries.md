@@ -125,7 +125,7 @@ sections:
           - Grenada
           - Guatemala
           - Guinea
-Guinea-Bissau
+          - Guinea-Bissau
 Guyana
 Haiti
 Honduras
