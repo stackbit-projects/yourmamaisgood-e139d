@@ -55,7 +55,6 @@ sections:
         name: country
         label: COUNTRY
         options:
-          - lorem-ipsum1
           - Afghanistan
           - Albania
           - Algeria
