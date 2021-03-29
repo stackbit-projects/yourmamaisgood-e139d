@@ -147,7 +147,7 @@ sections:
           - Korea (South)
           - Kosovo
           - Kuwait
-Kyrgyzstan
+          - Kyrgyzstan
 Laos
 Latvia
 Lebanon
