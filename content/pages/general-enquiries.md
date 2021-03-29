@@ -174,7 +174,7 @@ sections:
           - Mongolia
           - Montenegro
           - Morocco
-Mozambique
+          - Mozambique
 Myanmar (Burma)
 Namibia
 Nauru
