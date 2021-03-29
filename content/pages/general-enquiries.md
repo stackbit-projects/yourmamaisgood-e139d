@@ -116,7 +116,7 @@ sections:
           - Fiji
           - Finland
           - France
-Gabon
+          - Gabon
 The Gambia
 Georgia
 Germany
