@@ -169,7 +169,7 @@ sections:
           - Mauritius
           - Mexico
           - Micronesia
-Moldova
+          - Moldova
 Monaco
 Mongolia
 Montenegro
