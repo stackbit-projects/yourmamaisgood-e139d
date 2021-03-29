@@ -279,6 +279,7 @@ sections:
     padding_bottom: large
     background_color: none
     submit_label: SUBMIT
+    title: 'More then never, our team is here for you.'
   - subtitle: >-
       Legal information : The information collected through this form will be
       stored in a digital file for which Aurel is responsible in order to
