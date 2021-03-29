@@ -72,7 +72,7 @@ sections:
         label: SUBJECT
         default_value: Please select...
         options:
-          - null
+          - Products
           - Sponsorship
           - Other
       - input_type: textarea
