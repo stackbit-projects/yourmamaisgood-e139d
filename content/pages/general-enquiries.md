@@ -99,7 +99,7 @@ sections:
           - Cote d'Ivoire
           - Croatia
           - Cuba
-Cyprus
+          - Cyprus
 Czech Republic
 Denmark
 Djibouti
