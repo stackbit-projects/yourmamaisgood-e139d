@@ -199,7 +199,7 @@ sections:
           - Romania
           - Russia
           - Rwanda
-Saint Kitts and Nevis
+          - Saint Kitts and Nevis
 Saint Lucia
 Saint Vincent and the Grenadines
 Samoa
