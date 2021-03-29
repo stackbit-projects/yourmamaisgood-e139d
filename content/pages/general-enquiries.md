@@ -301,8 +301,7 @@ sections:
     padding_bottom: large
     background_color: none
     submit_label: SUBMIT
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
