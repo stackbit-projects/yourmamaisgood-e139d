@@ -72,7 +72,7 @@ sections:
         label: SUBJECT
         default_value: Please select...
         options:
-          - Error on the site
+          - null
           - Sponsorship
           - Other
       - input_type: textarea
