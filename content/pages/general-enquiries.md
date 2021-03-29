@@ -152,7 +152,7 @@ sections:
           - Latvia
           - Lebanon
           - Lesotho
-Liberia
+          - Liberia
 Libya
 Liechtenstein
 Lithuania
