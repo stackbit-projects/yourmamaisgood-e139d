@@ -210,7 +210,7 @@ sections:
           - Serbia
           - Seychelles
           - Sierra Leone
-Singapore
+          - Singapore
 Slovakia
 Slovenia
 Solomon Islands
