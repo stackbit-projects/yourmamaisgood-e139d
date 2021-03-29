@@ -101,7 +101,7 @@ sections:
           - Cuba
           - Cyprus
           - Czech Republic
-Denmark
+          - Denmark
 Djibouti
 Dominica
 Dominican Republic
