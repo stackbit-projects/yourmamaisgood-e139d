@@ -120,7 +120,7 @@ sections:
           - Gambia
           - Georgia
           - Germany
-Ghana
+          - Ghana
 Greece
 Grenada
 Guatemala
