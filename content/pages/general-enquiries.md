@@ -39,6 +39,10 @@ sections:
           - Supplier opportunities
           - Accounts payable
           - General feedback
+      - input_type: textarea
+        name: message
+        default_value: Your message
+        label: HOW CAN WE HELP YOU ?*
       - input_type: text
         name: name
         label: FULL NAME*
@@ -272,10 +276,6 @@ sections:
         type: form_field
         label: ALREADY AN AUREL CLIENT ?*
         default_value: Please select...
-      - input_type: textarea
-        name: message
-        default_value: Your message
-        label: HOW CAN WE HELP YOU ?*
     align_vert: top
     padding_top: none
     padding_bottom: large
