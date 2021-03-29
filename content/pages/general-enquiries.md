@@ -267,15 +267,6 @@ sections:
         is_required: false
         type: form_field
         default_value: Please select...
-      - input_type: select
-        name: client
-        options:
-          - 'Yes'
-          - 'No'
-        is_required: false
-        type: form_field
-        label: ALREADY AN AUREL CLIENT ?*
-        default_value: Please select...
     align_vert: top
     padding_top: none
     padding_bottom: large
