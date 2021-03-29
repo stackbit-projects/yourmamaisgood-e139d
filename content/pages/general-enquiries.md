@@ -241,7 +241,7 @@ sections:
           - United Arab Emirates
           - United Kingdom
           - United States of America
-Uruguay
+          - Uruguay
 Uzbekistan
 Vanuatu
 Vatican City (Holy See)
