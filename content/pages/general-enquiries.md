@@ -236,10 +236,10 @@ sections:
           - Turkey
           - Turkmenistan
           - Tuvalu
-Uganda
-Ukraine
-United Arab Emirates
-United Kingdom
+          - Uganda
+          - Ukraine
+          - United Arab Emirates
+          - United Kingdom
 United States of America
 Uruguay
 Uzbekistan
