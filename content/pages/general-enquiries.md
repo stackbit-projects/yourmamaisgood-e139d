@@ -132,7 +132,7 @@ sections:
           - Hungary
           - Iceland
           - India
-Indonesia
+          - Indonesia
 Iran
 Iraq
 Ireland
