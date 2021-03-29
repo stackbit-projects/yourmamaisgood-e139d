@@ -255,7 +255,7 @@ sections:
         default_value: Please select one...
       - input_type: text
         name: company
-        label: COMPANY NAME*
+        label: COMPANY NAME
         default_value: Your company name
         options: []
         is_required: false
