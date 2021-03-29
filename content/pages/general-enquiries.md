@@ -15,8 +15,6 @@ sections:
       ***
       #### Corporate headquarters
 
-      ***
-
       + Aurel Group;
       + BP 000000;
       + Geneva, GE;
