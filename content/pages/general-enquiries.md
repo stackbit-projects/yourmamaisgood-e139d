@@ -83,7 +83,6 @@ sections:
     padding_top: none
     padding_bottom: large
     background_color: none
-    submit_label: GET IN TOUCH
 seo:
   title: General Enquiries
   description: This is the general enquiries page
