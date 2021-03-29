@@ -11,7 +11,9 @@ sections:
       # Fell free to contact us.
 
 
-      ![](/images/about-2.jpg)
+      ![](/images/brandon-guidelines.png)
+
+
 
 
       #### Corporate headquarters
