@@ -126,7 +126,7 @@ sections:
           - Guatemala
           - Guinea
           - Guinea-Bissau
-Guyana
+          - Guyana
 Haiti
 Honduras
 Hungary
