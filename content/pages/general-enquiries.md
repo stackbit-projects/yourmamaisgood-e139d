@@ -302,14 +302,14 @@ sections:
     background_color: none
     submit_label: SUBMIT
   - subtitle: >-
-      The information collected through this form will be stored in a digital
-      file for which Aurel is responsible in order to facilitate the treatment
-      of customers’ enquiries. This data will be kept for one year and then
-      deleted. In accordance with the General Data Protection Regulation Act
-      (EU) 2016/679 of the European Parliament and of the Council of April 2016,
-      27th [in force since May 2018], you can exercise your right of access to
-      your personal data and have them rectified by contacting the Aurel Group
-      through this form.
+      Legal information :The information collected through this form will be
+      stored in a digital file for which Aurel is responsible in order to
+      facilitate the treatment of customers’ enquiries. This data will be kept
+      for one year and then deleted. In accordance with the General Data
+      Protection Regulation Act (EU) 2016/679 of the European Parliament and of
+      the Council of April 2016, 27th [in force since May 2018], you can
+      exercise your right of access to your personal data and have them
+      rectified by contacting the Aurel Group through this form.
     features: []
     feature_padding_vert: medium
     align: center
