@@ -211,9 +211,9 @@ sections:
           - Seychelles
           - Sierra Leone
           - Singapore
-Slovakia
-Slovenia
-Solomon Islands
+          - Slovakia
+          - Slovenia
+          - Solomon Islands
 Somalia
 South Africa
 South Sudan
