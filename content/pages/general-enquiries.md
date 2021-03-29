@@ -130,7 +130,7 @@ sections:
           - Haiti
           - Honduras
           - Hungary
-Iceland
+          - Iceland
 India
 Indonesia
 Iran
