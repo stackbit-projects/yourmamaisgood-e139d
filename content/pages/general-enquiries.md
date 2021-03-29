@@ -269,7 +269,7 @@ sections:
           - Services information
           - Transportation & Logistics
           - Commodity quote requests
-          - Supplier opportunit
+          - Supplier opportunities
           - Accounts payable
           - General feedback
       - input_type: textarea
