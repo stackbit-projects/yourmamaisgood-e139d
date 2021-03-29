@@ -76,7 +76,7 @@ sections:
           - Belize
           - Benin
           - Bhutan
-Bolivia
+          - Bolivia
 Bosnia and Herzegovina
 Botswana
 Brazil
