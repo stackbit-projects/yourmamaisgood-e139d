@@ -121,9 +121,9 @@ sections:
           - Georgia
           - Germany
           - Ghana
-Greece
-Grenada
-Guatemala
+          - Greece
+          - Grenada
+          - Guatemala
 Guinea
 Guinea-Bissau
 Guyana
