@@ -214,8 +214,8 @@ sections:
           - Slovakia
           - Slovenia
           - Solomon Islands
-Somalia
-South Africa
+          - Somalia
+          - South Africa
 South Sudan
 Spain
 Sri Lanka
