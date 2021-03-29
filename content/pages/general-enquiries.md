@@ -35,7 +35,7 @@ sections:
     form_fields:
       - input_type: select
         name: subject
-        label: '*'
+        label: HOW CAN WE HELP YOU*
         default_value: Please select...
         options:
           - Products information
