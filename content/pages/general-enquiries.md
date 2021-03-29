@@ -243,7 +243,7 @@ sections:
           - United States of America
           - Uruguay
           - Uzbekistan
-Vanuatu
+          - Vanuatu
 Vatican City (Holy See)
 Venezuela
 Vietnam
