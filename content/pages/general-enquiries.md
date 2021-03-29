@@ -234,8 +234,8 @@ sections:
           - Trinidad and Tobago
           - Tunisia
           - Turkey
-Turkmenistan
-Tuvalu
+          - Turkmenistan
+          - Tuvalu
 Uganda
 Ukraine
 United Arab Emirates
