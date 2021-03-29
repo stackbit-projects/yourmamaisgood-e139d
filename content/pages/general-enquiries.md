@@ -96,7 +96,7 @@ sections:
           - Comoros
           - Congo
           - Costa Rica
-Cote d'Ivoire
+          - Cote d'Ivoire
 Croatia
 Cuba
 Cyprus
