@@ -97,7 +97,7 @@ sections:
           - Congo
           - Costa Rica
           - Cote d'Ivoire
-Croatia
+          - Croatia
 Cuba
 Cyprus
 Czech Republic
