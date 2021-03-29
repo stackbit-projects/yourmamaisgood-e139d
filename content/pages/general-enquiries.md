@@ -250,7 +250,7 @@ sections:
           - Yemen
           - Zambia
           - Zimbabwe
-        is_required: false
+        is_required: true
         type: form_field
         default_value: Please select one...
       - input_type: text
