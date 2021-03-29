@@ -63,7 +63,7 @@ sections:
           - Angola
           - Antigua and Barbuda
           - Argentina
-Armenia
+          - Armenia
 Australia
 Austria
 Azerbaijan
