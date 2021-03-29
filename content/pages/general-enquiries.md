@@ -51,7 +51,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-      - input_type: select
+      - input_type: text
         name: country
         label: COUNTRY
         default_value: lorem-ipsum
