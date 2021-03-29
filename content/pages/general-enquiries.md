@@ -70,7 +70,7 @@ sections:
       - input_type: select
         name: subject
         label: SUBJECT
-        default_value: Please select
+        default_value: Please select...
         options:
           - Error on the site
           - Sponsorship
