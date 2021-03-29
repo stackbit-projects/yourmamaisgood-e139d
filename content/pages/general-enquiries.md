@@ -8,8 +8,8 @@ sections:
     background_color: none
   - type: form_section
     content: >
-      ## Do not hesitate to contact us, our teams will work hard to bring you
-      the best solution and give you satisfaction in your purchases.
+      ## Feel free to contact us, our teams will work hard to bring you the best
+      solution.
     content_align: left
     form_position: right
     form_width: fifty
