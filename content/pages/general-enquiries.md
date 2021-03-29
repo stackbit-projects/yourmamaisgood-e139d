@@ -188,7 +188,7 @@ sections:
           - Oman
           - Pakistan
           - Palau
-Panama
+          - Panama
 Papua New Guinea
 Paraguay
 Peru
