@@ -43,15 +43,15 @@ sections:
         name: message
         default_value: Your message
         label: HOW CAN WE HELP YOU ?*
-      - input_type: text
-        name: name
-        label: FULL NAME*
-        default_value: Your full name
-        is_required: true
       - input_type: email
         name: email
         label: WORK EMAIL*
         default_value: Your work email
+        is_required: true
+      - input_type: text
+        name: name
+        label: FULL NAME*
+        default_value: Your full name
         is_required: true
       - input_type: tel
         name: phone
