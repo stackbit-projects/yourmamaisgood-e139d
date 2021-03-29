@@ -244,7 +244,6 @@ sections:
           - Uruguay
           - Uzbekistan
           - Vanuatu
-Vatican City (Holy See)
 Venezuela
 Vietnam
 Yemen
