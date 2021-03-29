@@ -60,7 +60,7 @@ sections:
         type: form_field
       - input_type: select
         name: client
-        default_value: lorem-ipsu
+        default_value: 'No'
         options: []
         is_required: false
         type: form_field
