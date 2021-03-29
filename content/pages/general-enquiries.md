@@ -270,7 +270,6 @@ sections:
           - Transportation & Logistics
           - 'Supplier opportunity '
           - Commodity quote requests
-          - lorem-ipsum
       - input_type: textarea
         name: message
         default_value: Your message
