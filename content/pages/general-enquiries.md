@@ -240,7 +240,7 @@ sections:
           - Ukraine
           - United Arab Emirates
           - United Kingdom
-United States of America
+          - United States of America
 Uruguay
 Uzbekistan
 Vanuatu
