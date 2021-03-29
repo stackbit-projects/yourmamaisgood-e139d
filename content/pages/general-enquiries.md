@@ -221,7 +221,7 @@ sections:
           - Sri Lanka
           - Sudan
           - Suriname
-          Swaziland
+          - Swaziland
 Sweden
 Switzerland
 Syria
