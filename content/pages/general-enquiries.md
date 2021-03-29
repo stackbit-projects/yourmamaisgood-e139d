@@ -8,7 +8,7 @@ sections:
     background_color: none
   - type: form_section
     content: >
-      # Fell free to contact us.
+      # Our team whait for your order.
 
 
       ![](/images/Capture%20d%E2%80%99%C3%A9cran%202021-03-29%20%C3%A0%2015.24.30.png)
