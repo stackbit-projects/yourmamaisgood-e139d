@@ -10,7 +10,6 @@ sections:
     content: >
       # Fell free to contact us.
 
-
       ![](/images/brandon-guidelines.png)
 
       #### Corporate headquarters
