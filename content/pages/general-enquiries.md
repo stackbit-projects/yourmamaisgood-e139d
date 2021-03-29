@@ -228,7 +228,7 @@ sections:
           - Taiwan
           - Tajikistan
           - Tanzania
-Thailand
+          - Thailand
 Togo
 Tonga
 Trinidad and Tobago
