@@ -11,9 +11,12 @@ sections:
       # Fell free to contact us.
 
 
+      ![](/images/about-2.jpg)
 
 
-      Corporate headquarters
+
+
+      ### Corporate headquarters
 
 
       Aurel Group
