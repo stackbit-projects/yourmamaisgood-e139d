@@ -36,7 +36,7 @@ sections:
       - input_type: select
         name: subject
         label: SUBJECT*
-        default_value: Please select o...
+        default_value: Please select ...
         options:
           - Products information
           - Services information
