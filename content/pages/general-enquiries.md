@@ -259,7 +259,7 @@ sections:
           - Zimbabwe
         is_required: true
         type: form_field
-        default_value: Please select ...
+        default_value: Please select...
       - input_type: text
         name: company
         label: COMPANY NAME
