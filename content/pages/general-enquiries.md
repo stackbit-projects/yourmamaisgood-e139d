@@ -31,6 +31,7 @@ sections:
       account.
       
       ***
+      
       #### Employment offers
 
       Aurel will not ask for money, processing fees, or bank information as a
