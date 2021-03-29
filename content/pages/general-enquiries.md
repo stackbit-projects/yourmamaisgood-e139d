@@ -117,7 +117,7 @@ sections:
           - Finland
           - France
           - Gabon
-The Gambia
+          - Gambia
 Georgia
 Germany
 Ghana
