@@ -182,9 +182,9 @@ sections:
           - Netherlands
           - New Zealand
           - Nicaragua
-Niger
-Nigeria
-Norway
+          - Niger
+          - Nigeria
+          - Norway
 Oman
 Pakistan
 Palau
