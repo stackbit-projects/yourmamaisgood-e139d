@@ -73,7 +73,7 @@ sections:
         default_value: Please select...
         options:
           - Products information
-          - 'Services '
+          - Services inform
           - Other
       - input_type: textarea
         name: message
