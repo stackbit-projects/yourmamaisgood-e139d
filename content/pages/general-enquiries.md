@@ -186,8 +186,8 @@ sections:
           - Nigeria
           - Norway
           - Oman
-Pakistan
-Palau
+          - Pakistan
+          - Palau
 Panama
 Papua New Guinea
 Paraguay
