@@ -271,7 +271,7 @@ sections:
           - Commodity quote requests
           - 'Supplier opportunity '
           - Accounts payable
-          - lorem-ipsum
+          - General feedback
       - input_type: textarea
         name: message
         default_value: Your message
