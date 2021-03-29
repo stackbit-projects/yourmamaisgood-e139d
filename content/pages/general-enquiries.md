@@ -189,8 +189,8 @@ sections:
           - Pakistan
           - Palau
           - Panama
-Papua New Guinea
-Paraguay
+          - Papua New Guinea
+          - Paraguay
 Peru
 Philippines
 Poland
