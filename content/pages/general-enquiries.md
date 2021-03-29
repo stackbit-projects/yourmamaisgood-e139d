@@ -265,7 +265,7 @@ sections:
         label: SUBJECT
         default_value: Please select...
         options:
-          - Raw materials
+          - Products information
           - Services information
           - Other
       - input_type: textarea
