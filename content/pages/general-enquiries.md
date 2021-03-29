@@ -176,7 +176,7 @@ sections:
           - Morocco
           - Mozambique
           - Myanmar (Burma)
-Namibia
+          - Namibia
 Nauru
 Nepal
 Netherlands
