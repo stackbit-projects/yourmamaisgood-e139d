@@ -159,7 +159,7 @@ sections:
           - Luxembourg
           - Macedonia
           - Madagascar
-Malawi
+          - Malawi
 Malaysia
 Maldives
 Mali
