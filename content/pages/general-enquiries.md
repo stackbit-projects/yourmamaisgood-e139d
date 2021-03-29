@@ -202,7 +202,7 @@ sections:
           - Saint Kitts and Nevis
           - Saint Lucia
           - Saint Vincent and the Grenadines
-Samoa
+          - Samoa
 San Marino
 Sao Tome and Principe
 Saudi Arabia
