@@ -155,7 +155,7 @@ sections:
           - Liberia
           - Libya
           - Liechtenstein
-Lithuania
+          - Lithuania
 Luxembourg
 Macedonia
 Madagascar
