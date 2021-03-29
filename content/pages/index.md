@@ -22,7 +22,6 @@ sections:
       ideas, and resources to deliver products, technology and ways of operating
       that build successful businesses and communities.
     background_image_opacity: 20
-    title: HUMAIN FIRST
   - type: features_section
     features:
       - image_alt: Brandon Guidelines
