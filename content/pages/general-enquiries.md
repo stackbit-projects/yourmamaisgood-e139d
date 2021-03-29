@@ -245,8 +245,8 @@ sections:
           - Uzbekistan
           - Vanuatu
           - Venezuela
-Vietnam
-Yemen
+          - Vietnam
+          - Yemen
 Zambia
 Zimbabwe
           - lorem-ipsum2
