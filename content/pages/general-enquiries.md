@@ -230,8 +230,8 @@ sections:
           - Tanzania
           - Thailand
           - Togo
-Tonga
-Trinidad and Tobago
+          - Tonga
+          - Trinidad and Tobago
 Tunisia
 Turkey
 Turkmenistan
