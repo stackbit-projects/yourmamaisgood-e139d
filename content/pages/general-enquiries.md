@@ -118,7 +118,7 @@ sections:
           - France
           - Gabon
           - Gambia
-Georgia
+          - Georgia
 Germany
 Ghana
 Greece
