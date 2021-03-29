@@ -17,10 +17,6 @@ sections:
     padding_top: medium
     padding_bottom: large
     background_color: none
-    subtitle: >-
-      Aure is working to nourish the world. We're bringing together people,
-      ideas, and resources to deliver products, technology and ways of operating
-      that build successful businesses and communities.
     background_image_opacity: 20
     title: The legacy of good trading.
   - type: features_section
