@@ -253,13 +253,6 @@ sections:
         is_required: false
         type: form_field
         default_value: Please select one...
-      - input_type: tel
-        name: phone
-        label: PHONE NUMBER
-        options: []
-        is_required: false
-        type: form_field
-        default_value: Your phone number
       - input_type: text
         name: company
         label: COMPANY NAME*
@@ -267,6 +260,13 @@ sections:
         options: []
         is_required: false
         type: form_field
+      - input_type: tel
+        name: phone
+        label: PHONE NUMBER
+        options: []
+        is_required: false
+        type: form_field
+        default_value: Your phone number
     align_vert: top
     padding_top: none
     padding_bottom: large
