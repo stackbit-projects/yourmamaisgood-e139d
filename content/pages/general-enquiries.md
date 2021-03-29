@@ -115,7 +115,7 @@ sections:
           - Ethiopia
           - Fiji
           - Finland
-France
+          - France
 Gabon
 The Gambia
 Georgia
