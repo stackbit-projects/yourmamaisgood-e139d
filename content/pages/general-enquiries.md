@@ -178,7 +178,7 @@ sections:
           - Myanmar (Burma)
           - Namibia
           - Nauru
-Nepal
+          - Nepal
 Netherlands
 New Zealand
 Nicaragua
