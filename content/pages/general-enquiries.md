@@ -166,7 +166,7 @@ sections:
           - Malta
           - Marshall Islands
           - Mauritania
-Mauritius
+          - Mauritius
 Mexico
 Micronesia, Federated States of
 Moldova
