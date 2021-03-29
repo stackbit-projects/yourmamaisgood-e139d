@@ -10,7 +10,12 @@ sections:
     content: >
       # Fell free to contact us.
 
+
+      ![](/images/Capture%20d%E2%80%99%C3%A9cran%202021-03-29%20%C3%A0%2015.24.30.png)
+
+
       ***
+
 
       #### Corporate headquarters
 
