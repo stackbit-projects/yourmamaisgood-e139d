@@ -61,7 +61,8 @@ sections:
       - input_type: select
         name: client
         default_value: 'No'
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
         type: form_field
         label: ALREADY AN AUREL CLIENT ?
