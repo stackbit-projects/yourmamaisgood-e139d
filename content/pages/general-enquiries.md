@@ -225,7 +225,7 @@ sections:
           - Sweden
           - Switzerland
           - Syria
-Taiwan
+          - Taiwan
 Tajikistan
 Tanzania
 Thailand
