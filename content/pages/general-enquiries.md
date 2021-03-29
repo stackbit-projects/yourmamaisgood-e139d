@@ -139,7 +139,7 @@ sections:
           - Israel
           - Italy
           - Jamaica
-Japan
+          - Japan
 Jordan
 Kazakhstan
 Kenya
