@@ -172,8 +172,8 @@ sections:
           - Moldova
           - Monaco
           - Mongolia
-Montenegro
-Morocco
+          - Montenegro
+          - Morocco
 Mozambique
 Myanmar (Burma)
 Namibia
