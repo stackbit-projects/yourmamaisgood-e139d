@@ -141,7 +141,7 @@ sections:
           - Jamaica
           - Japan
           - Jordan
-Kazakhstan
+          - Kazakhstan
 Kenya
 Kiribati
 Korea, North
