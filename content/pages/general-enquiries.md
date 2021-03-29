@@ -60,7 +60,6 @@ sections:
         type: form_field
       - input_type: select
         name: client
-        default_value: 'No'
         options:
           - 'Yes'
         is_required: false
