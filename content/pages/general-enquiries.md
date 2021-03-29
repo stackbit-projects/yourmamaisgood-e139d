@@ -70,7 +70,7 @@ sections:
           - Bahamas
           - Bahrain
           - Bangladesh
-Barbados
+          - Barbados
 Belarus
 Belgium
 Belize
