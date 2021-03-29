@@ -84,7 +84,7 @@ sections:
           - Bulgaria
           - Burkina Faso
           - Burundi
-Cambodia
+          - Cambodia
 Cameroon
 Canada
 Cape Verde
