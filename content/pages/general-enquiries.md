@@ -131,7 +131,7 @@ sections:
           - Honduras
           - Hungary
           - Iceland
-India
+          - India
 Indonesia
 Iran
 Iraq
