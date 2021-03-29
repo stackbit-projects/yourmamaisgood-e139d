@@ -100,7 +100,7 @@ sections:
           - Croatia
           - Cuba
           - Cyprus
-Czech Republic
+          - Czech Republic
 Denmark
 Djibouti
 Dominica
