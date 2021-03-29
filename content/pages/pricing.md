@@ -6,7 +6,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-    title: You a representative
+    title: You wa representative
     video_embed_html: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/I8h0eZZQt6I" title="YouTube video
