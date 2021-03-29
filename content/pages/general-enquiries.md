@@ -136,7 +136,7 @@ sections:
           - Iran
           - Iraq
           - Ireland
-Israel
+          - Israel
 Italy
 Jamaica
 Japan
