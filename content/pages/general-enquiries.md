@@ -267,7 +267,7 @@ sections:
         options:
           - Products information
           - Services information
-          - 'Transportation '
+          - Transportation & Logistics
       - input_type: textarea
         name: message
         default_value: Your message
