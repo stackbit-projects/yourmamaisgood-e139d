@@ -93,7 +93,7 @@ sections:
           - Chile
           - China
           - Colombia
-Comoros
+          - Comoros
 Congo, Republic of the
 Congo, Democratic Republic of the
 Costa Rica
