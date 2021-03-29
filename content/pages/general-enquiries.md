@@ -103,7 +103,7 @@ sections:
           - Czech Republic
           - Denmark
           - Djibouti
-          Dominica
+          - Dominica
 Dominican Republic
 East Timor (Timor-Leste)
 Ecuador
