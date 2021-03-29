@@ -226,7 +226,7 @@ sections:
           - Switzerland
           - Syria
           - Taiwan
-Tajikistan
+          - Tajikistan
 Tanzania
 Thailand
 Togo
