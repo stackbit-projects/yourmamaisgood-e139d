@@ -12,7 +12,7 @@ sections:
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     media_position: right
-    title: 'We are hire for all, evrywhere'
+    title: 'We are hire for all, everywhere '
   - type: grid_section
     grid_items:
       - title_align: left
