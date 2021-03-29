@@ -74,7 +74,6 @@ sections:
     padding_bottom: small
     has_border: false
     background_color: primary
-    background_image: images/2.svg
     title: 'Africa, Middle East, and India'
   - actions: []
     image_alt: lorem-ipsum
