@@ -94,8 +94,7 @@ sections:
           - China
           - Colombia
           - Comoros
-          - Congo, Republic of the
-Congo, Democratic Republic of the
+          - Congo
 Costa Rica
 Cote d'Ivoire
 Croatia
