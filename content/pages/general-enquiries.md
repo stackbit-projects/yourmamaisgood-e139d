@@ -249,7 +249,6 @@ sections:
           - Yemen
           - Zambia
           - Zimbabwe
-          - lorem-ipsum2
 
         is_required: false
         type: form_field
