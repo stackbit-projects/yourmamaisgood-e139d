@@ -57,7 +57,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-        default_value: Your country
+        default_value: Please select...
       - input_type: select
         name: client
         options:
