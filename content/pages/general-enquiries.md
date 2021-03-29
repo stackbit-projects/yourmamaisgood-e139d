@@ -124,7 +124,7 @@ sections:
           - Greece
           - Grenada
           - Guatemala
-Guinea
+          - Guinea
 Guinea-Bissau
 Guyana
 Haiti
