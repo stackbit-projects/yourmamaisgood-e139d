@@ -168,7 +168,7 @@ sections:
           - Mauritania
           - Mauritius
           - Mexico
-Micronesia, Federated States of
+          -Micronesia, Federated States of
 Moldova
 Monaco
 Mongolia
