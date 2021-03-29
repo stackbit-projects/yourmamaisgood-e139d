@@ -43,6 +43,7 @@ sections:
         name: message
         default_value: Your message
         label: HOW CAN WE HELP YOU ?*
+        is_required: true
       - input_type: email
         name: email
         label: EMAIL*
