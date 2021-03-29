@@ -7,7 +7,7 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >+
+    content: >
       ### Corporate headquarters
 
 
@@ -25,9 +25,6 @@ sections:
       \-
 
 
-      ###
-
-
       ### Commercial sales
 
 
@@ -41,9 +38,6 @@ sections:
       Aurel will not ask for money, processing fees, or bank information as a
       pre-condition of employment. To be considered for employment, please
       submit your information through our Careers section.
-
-
-
     content_align: left
     form_position: right
     form_width: fifty
