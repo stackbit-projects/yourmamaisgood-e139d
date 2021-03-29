@@ -164,7 +164,7 @@ sections:
           - Maldives
           - Mali
           - Malta
-Marshall Islands
+          - Marshall Islands
 Mauritania
 Mauritius
 Mexico
