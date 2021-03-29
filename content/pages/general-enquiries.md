@@ -10,29 +10,41 @@ sections:
     content: >
       # Fell free to contact us.
 
-      ![](/images/brandon-guidelines.png)
-      
+
       ***
+
 
       #### Corporate headquarters
 
-      + Aurel Group;
-      + BP 000000;
-      + Geneva, GE;
-      + Avenue du Grand Aurel;
-      + Swiss;
-      + 01 00 00 00 00 (English);
-      
+
+      *   Aurel Group
+
+      *   BP 000000
+
+      *   Geneva, GE
+
+      *   Avenue du Grand Aurel
+
+      *   Swiss
+
+      *   01 00 00 00 00 (English);
+
+
       ***
+
 
       #### Commercial sales
 
+
       Aurel will never ask customers to deposit payments in a non-Aurel bank
       account.
-      
+
+
       ***
 
+
       #### Employment offers
+
 
       Aurel will not ask for money, processing fees, or bank information as a
       pre-condition of employment. To be considered for employment, please
