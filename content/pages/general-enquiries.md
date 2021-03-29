@@ -87,7 +87,7 @@ sections:
           - Cambodia
           - Cameroon
           - Canada
-Cape Verde
+          - Cape Verde
 Central African Republic
 Chad
 Chile
