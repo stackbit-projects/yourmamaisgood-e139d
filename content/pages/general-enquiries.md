@@ -82,8 +82,8 @@ sections:
           - Brazil
           - Brunei
           - Bulgaria
-Burkina Faso
-Burundi
+          - Burkina Faso
+          - Burundi
 Cambodia
 Cameroon
 Canada
