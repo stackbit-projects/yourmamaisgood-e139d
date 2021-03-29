@@ -303,7 +303,7 @@ sections:
     submit_label: SUBMIT
   - subtitle: >-
       The information collected through this form will be stored in a digital
-      file for which Altrad is responsible in order to facilitate the treatment
+      file for which Aurel is responsible in order to facilitate the treatment
       of customers’ enquiries. This data will be kept for one year and then
       deleted. In accordance with the General Data Protection Regulation Act
       (EU) 2016/679 of the European Parliament and of the Council of April 2016,
