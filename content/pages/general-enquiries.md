@@ -68,7 +68,7 @@ sections:
           - Austria
           - Azerbaijan
           - Bahamas
-Bahrain
+          - Bahrain
 Bangladesh
 Barbados
 Belarus
