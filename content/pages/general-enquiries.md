@@ -15,13 +15,8 @@ sections:
 
 
       #### Corporate headquarters
-
-
-      Aurel Group
-
-
-
-      BP 000000
+      + Aurel Group
+      + BP 000000
 
 
 
