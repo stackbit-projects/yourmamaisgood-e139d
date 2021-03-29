@@ -222,7 +222,7 @@ sections:
           - Sudan
           - Suriname
           - Swaziland
-Sweden
+          - Sweden
 Switzerland
 Syria
 Taiwan
