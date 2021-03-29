@@ -57,7 +57,7 @@ sections:
         is_required: true
       - input_type: text
         name: name
-        label: FULL NAME*
+        label: NAME*
         default_value: Your full name
         is_required: true
       - input_type: select
