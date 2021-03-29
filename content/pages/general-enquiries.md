@@ -191,7 +191,7 @@ sections:
           - Panama
           - Papua New Guinea
           - Paraguay
-Peru
+          - Peru
 Philippines
 Poland
 Portugal
