@@ -127,7 +127,7 @@ sections:
           - Guinea
           - Guinea-Bissau
           - Guyana
-Haiti
+          - Haiti
 Honduras
 Hungary
 Iceland
