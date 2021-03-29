@@ -53,7 +53,7 @@ sections:
         type: form_field
       - input_type: select
         name: country
-        label: COUNTRY
+        label: COUNTRY*
         options:
           - Afghanistan
           - Albania
