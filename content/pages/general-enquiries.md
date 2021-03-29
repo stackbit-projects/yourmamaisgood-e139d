@@ -30,7 +30,7 @@ sections:
       Aurel will never ask customers to deposit payments in a non-Aurel bank
       account.
 
-
+***
       #### Employment offers
 
       Aurel will not ask for money, processing fees, or bank information as a
