@@ -201,7 +201,7 @@ sections:
           - Rwanda
           - Saint Kitts and Nevis
           - Saint Lucia
-Saint Vincent and the Grenadines
+          - Saint Vincent and the Grenadines
 Samoa
 San Marino
 Sao Tome and Principe
