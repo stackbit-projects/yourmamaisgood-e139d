@@ -192,7 +192,7 @@ sections:
           - Papua New Guinea
           - Paraguay
           - Peru
-Philippines
+          - Philippines
 Poland
 Portugal
 Qatar
