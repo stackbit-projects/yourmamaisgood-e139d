@@ -58,7 +58,7 @@ sections:
           - lorem-ipsum1
           - Afghanistan
           - Albania
-          Algeria
+          - Algeria
 Andorra
 Angola
 Antigua and Barbuda
