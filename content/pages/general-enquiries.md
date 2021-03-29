@@ -64,6 +64,7 @@ sections:
         options: []
         is_required: false
         type: form_field
+        label: ALREADY AN AUREL CLIENT ?
       - input_type: select
         name: subject
         label: SUBJECT
