@@ -151,7 +151,7 @@ sections:
           - Laos
           - Latvia
           - Lebanon
-Lesotho
+          - Lesotho
 Liberia
 Libya
 Liechtenstein
