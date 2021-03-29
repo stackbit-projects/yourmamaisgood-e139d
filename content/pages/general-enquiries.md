@@ -111,8 +111,8 @@ sections:
           - El Salvador
           - Equatorial Guinea
           - Eritrea
-Estonia
-Ethiopia
+          - Estonia
+          - Ethiopia
 Fiji
 Finland
 France
