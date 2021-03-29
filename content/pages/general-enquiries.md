@@ -171,7 +171,7 @@ sections:
           - Micronesia
           - Moldova
           - Monaco
-Mongolia
+          - Mongolia
 Montenegro
 Morocco
 Mozambique
