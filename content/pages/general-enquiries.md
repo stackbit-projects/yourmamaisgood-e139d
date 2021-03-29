@@ -54,7 +54,6 @@ sections:
       - input_type: text
         name: country
         label: COUNTRY
-        default_value: l
         options: []
         is_required: false
         type: form_field
