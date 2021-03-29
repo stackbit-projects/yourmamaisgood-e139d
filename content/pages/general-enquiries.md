@@ -158,7 +158,7 @@ sections:
           - Lithuania
           - Luxembourg
           - Macedonia
-Madagascar
+          - Madagascar
 Malawi
 Malaysia
 Maldives
