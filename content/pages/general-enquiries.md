@@ -54,7 +54,8 @@ sections:
       - input_type: select
         name: country
         label: COUNTRY
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
         type: form_field
         default_value: Please select...
