@@ -227,7 +227,7 @@ sections:
           - Syria
           - Taiwan
           - Tajikistan
-Tanzania
+          - Tanzania
 Thailand
 Togo
 Tonga
