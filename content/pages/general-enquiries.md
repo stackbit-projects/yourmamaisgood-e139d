@@ -302,7 +302,7 @@ sections:
     background_color: none
     submit_label: SUBMIT
   - subtitle: >-
-      Legal information :The information collected through this form will be
+      Legal information : The information collected through this form will be
       stored in a digital file for which Aurel is responsible in order to
       facilitate the treatment of customers’ enquiries. This data will be kept
       for one year and then deleted. In accordance with the General Data
