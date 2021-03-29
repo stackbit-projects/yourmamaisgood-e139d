@@ -248,7 +248,6 @@ sections:
           - Yemen
           - Zambia
           - Zimbabwe
-
         is_required: false
         type: form_field
         default_value: Please select...
@@ -266,7 +265,7 @@ sections:
         label: SUBJECT
         default_value: Please select...
         options:
-          - Products information
+          - Raw materials
           - Services information
           - Other
       - input_type: textarea
