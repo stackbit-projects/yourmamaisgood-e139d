@@ -219,7 +219,7 @@ sections:
           - South Sudan
           - Spain
           - Sri Lanka
-Sudan
+          - Sudan
 Suriname
 Swaziland
 Sweden
