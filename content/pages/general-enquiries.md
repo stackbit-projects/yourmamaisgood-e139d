@@ -308,7 +308,7 @@ sections:
       deleted. In accordance with the General Data Protection Regulation Act
       (EU) 2016/679 of the European Parliament and of the Council of April 2016,
       27th [in force since May 2018], you can exercise your right of access to
-      your personal data and have them rectified by contacting the Altrad group
+      your personal data and have them rectified by contacting the Aurel Group
       through this form.
     features: []
     feature_padding_vert: medium
