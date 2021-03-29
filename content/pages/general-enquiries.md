@@ -77,7 +77,7 @@ sections:
           - Other
       - input_type: textarea
         name: message
-        label: MESSAGE
+        label: YMESSAGE
         default_value: Your message
     submit_label: Send Message
     align_vert: top
