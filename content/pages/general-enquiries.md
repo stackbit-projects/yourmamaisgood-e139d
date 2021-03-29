@@ -129,7 +129,7 @@ sections:
           - Guyana
           - Haiti
           - Honduras
-Hungary
+          - Hungary
 Iceland
 India
 Indonesia
