@@ -98,7 +98,7 @@ sections:
           - Costa Rica
           - Cote d'Ivoire
           - Croatia
-Cuba
+          - Cuba
 Cyprus
 Czech Republic
 Denmark
