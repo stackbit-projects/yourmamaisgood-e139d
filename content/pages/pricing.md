@@ -8,7 +8,7 @@ sections:
     background_color: none
     media_position: right
     content: >
-      # Our global local representatives wait to serve your needs.
+      # Worldwide, our team wait to serve your needs.
 
 
       ***
