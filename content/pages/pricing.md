@@ -9,7 +9,7 @@ sections:
     media_position: right
     content: >
       ## All over the world, our teams are waiting to meet your needs. Feel free
-      to get in touch with them.
+      to get in touch with.
 
 
       ***
