@@ -8,8 +8,8 @@ sections:
     background_color: none
     media_position: right
     content: >
-      ## All over the world, our teams are waiting to meet your needs. Chose
-      your location and meet them.
+      ## All over the world, our teams are waiting to meet your needs. Feel free
+      to meet them.
 
 
       ***
