@@ -18,7 +18,7 @@ sections:
     padding_bottom: large
     background_color: none
     background_image_opacity: 20
-    title: 'We are commited '
+    title: 'We are commited to bring you '
     background_image: images/graceful-chili.png
     background_image_position: left bottom
   - type: features_section
