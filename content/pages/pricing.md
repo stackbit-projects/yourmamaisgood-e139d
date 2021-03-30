@@ -7,7 +7,6 @@ sections:
     padding_bottom: large
     background_color: none
     media_position: right
-    image: images/incredible-giraffe.jpg
     content: |
       # Aurel for everyone. Everywhere.
 
