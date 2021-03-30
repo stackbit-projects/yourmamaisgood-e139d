@@ -6,11 +6,11 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    media_position: left
+    media_position: right
     image: images/incredible-giraffe.jpg
     content: |
       # Aurel for everyone. Everywhere.
-      
+
       ***
 
       ### Choose your country and contact your local representative.
