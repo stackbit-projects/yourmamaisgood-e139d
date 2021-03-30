@@ -10,6 +10,10 @@ sections:
     image: images/incredible-giraffe.jpg
     content: |
       # Aurel for everyone. Everywhere.
+
+
+
+      #### Choose your country and contact your local representative.
   - type: grid_section
     grid_items:
       - title_align: left
