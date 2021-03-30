@@ -8,7 +8,7 @@ sections:
     background_color: none
     media_position: right
     content: >
-      ## Worldwide, our teams are waiting to meet your needs. Meet them.
+      ## Around the world, our teams are waiting to meet your needs. Meet them.
 
 
       ***
