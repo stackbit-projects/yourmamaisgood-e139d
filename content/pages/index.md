@@ -21,7 +21,7 @@ sections:
     image: images/1.svg
     content: |
       # Committed trader of raw materials & ingredients for the food industry.
-    subtitle: 'ISO '
+    subtitle: ISO 2345 543
   - type: features_section
     features:
       - image_alt: Brandon Guidelines
