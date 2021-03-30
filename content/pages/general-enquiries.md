@@ -11,7 +11,9 @@ sections:
       # More then never, our team is here for you.
 
 
-      ![](/images/Capture%20d%E2%80%99%C3%A9cran%202021-03-29%20%C3%A0%2015.24.30.png)
+      ![](/images/side-view-of-aurel-woman-team-member-call-center-with-headsets-using-computers-in-the-office.jpg)
+
+
 
 
       ***
