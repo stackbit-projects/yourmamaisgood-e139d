@@ -11,7 +11,7 @@ sections:
       ## More then never, our team is here for you.
 
 
-      ![](/images/royal-goat.jpg)
+      ![](/images/business-partners-put-fists-in-circle-fist-bump-team-building-support-and-lsynergy.jpg)
 
 
       ***
