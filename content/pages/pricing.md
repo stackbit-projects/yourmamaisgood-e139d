@@ -9,7 +9,7 @@ sections:
     media_position: right
     content: >
       ## Worldwide, our team wait to serve your needs. So fell free to meet a
-      representative.
+      local representative.
 
 
       ***
