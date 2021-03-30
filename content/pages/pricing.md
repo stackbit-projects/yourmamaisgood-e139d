@@ -7,7 +7,6 @@ sections:
     padding_bottom: large
     background_color: none
     media_position: left
-    subtitle: Choose your country and contact your local representative.
     image: images/incredible-giraffe.jpg
     content: |
       # Aurel for everyone. Everywhere.
