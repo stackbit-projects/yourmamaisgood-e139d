@@ -8,7 +8,7 @@ sections:
     background_color: none
   - type: form_section
     content: >
-      ### More then never, our team is here for you.
+      ## More then never, our team is here for you.
 
 
       ![](/images/royal-goat.jpg)
