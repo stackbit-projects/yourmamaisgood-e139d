@@ -20,7 +20,7 @@ sections:
     background_image_opacity: 20
     title: The legacy of good trading.
     background_image: images/tecuci-1900.png
-    background_image_position: right bottom
+    background_image_position: left bottom
   - type: features_section
     features:
       - image_alt: Brandon Guidelines
