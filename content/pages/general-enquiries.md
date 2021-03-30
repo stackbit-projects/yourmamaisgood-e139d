@@ -8,11 +8,10 @@ sections:
     background_color: none
   - type: form_section
     content: >
-      #
-      ![](/images/smiling-african-businessman-wearing-suit-headshot-vertical-portrait-with-teamf.jpg)
-
-
       ### More then never, our team is here for you.
+
+
+      ![](/images/royal-goat.jpg)
 
 
       ***
