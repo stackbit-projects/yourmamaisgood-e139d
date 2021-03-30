@@ -36,12 +36,6 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/fGxFeF_2hYk" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
         subtitle: >-
           Aure is working to nourish the world. We're bringing together people,
           ideas, and resources to deliver products, technology and ways of
