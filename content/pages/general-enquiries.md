@@ -8,7 +8,7 @@ sections:
     background_color: none
   - type: form_section
     content: >
-      ## More then never, our team is here for you.
+      ## Toghether has no limit, contact us.
 
 
       ![](/images/business-partners-put-fists-in-circle-fist-bump-team-building-support-and-lsynergy.jpg)
