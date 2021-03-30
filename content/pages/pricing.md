@@ -6,7 +6,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    media_position: right
+    media_position: left
     title: 'We are there for everyone, everywhere.'
     subtitle: Choose your country and contact your local representative.
     image: images/incredible-giraffe.jpg
