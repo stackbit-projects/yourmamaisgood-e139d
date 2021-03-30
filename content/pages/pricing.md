@@ -15,8 +15,7 @@ sections:
       ***
 
 
-      The Aurel Group makes a point of honor when it comes to the mix of these
-      teams. We strongly believe that the greatest differences are the greatest
+      We strongly believe that the greatest differences are the greatest
       strength. This is why in our company it will be difficult for you to find
       the same nationality twice. But, you will always have a compatriot
       listening to you.
