@@ -8,10 +8,11 @@ sections:
     background_color: none
   - type: form_section
     content: >
-      # More then never, our team is here for you.
+      #
+      ![](/images/smiling-african-businessman-wearing-suit-headshot-vertical-portrait-with-team2.jpg)
 
 
-      ![](/images/side-view-of-woman-call-center-with-headsets-using-computers-in-the-office2.jpg)
+      ### More then never, our team is here for you.
 
 
 
