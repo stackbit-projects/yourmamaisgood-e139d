@@ -18,7 +18,7 @@ sections:
     background_color: none
     background_image_opacity: 0
     background_image_position: left bottom
-    image: images/1.svg
+    image: images/young-indian-farmer-standing-at-wheat-field.jpg
     content: |
       # Committed trader of raw materials & ingredients for the food industry.
     subtitle: ISO 2345 543
