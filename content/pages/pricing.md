@@ -15,7 +15,7 @@ sections:
       ***
 
 
-      We strongly believe that the greatest differences are the greatest
+      > We strongly believe that the greatest differences are the greatest
       strength. This is why in our company it will be difficult to find twice
       the same nationality. But, you will always have a compatriot listening to
       you.
