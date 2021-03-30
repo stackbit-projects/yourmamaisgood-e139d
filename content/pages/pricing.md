@@ -13,7 +13,6 @@ sections:
       ***
 
       ### Choose your country and contact your local representative.
-    background_image: images/aurel-group-business-team-talking-about-future-plans-dubai.jpg
     background_image_position: right top
     background_image_size: contain
   - type: grid_section
