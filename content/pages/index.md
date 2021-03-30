@@ -17,7 +17,6 @@ sections:
     padding_bottom: large
     background_color: none
     background_image_opacity: 0
-    title: 'We are commited to bring you '
     background_image_position: left bottom
     image: images/1.svg
   - type: features_section
