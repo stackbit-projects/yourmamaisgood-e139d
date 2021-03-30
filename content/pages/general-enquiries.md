@@ -8,7 +8,8 @@ sections:
     background_color: none
   - type: form_section
     content: >
-      # Together has no limit. Contact Us.
+      # Together has no limit. Contact us.
+
 
       ![](/images/aurel-group-business-partners-put-fists-in-circle-fist-bump-team-building-support-and-synergy.jpg)
 
