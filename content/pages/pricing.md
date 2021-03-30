@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     align: left
     padding_top: large
-    padding_bottom: none
+    padding_bottom: small
     background_color: none
     media_position: right
     title: 'We are there for everyone, everywhere.'
