@@ -19,7 +19,7 @@ sections:
     background_color: none
     background_image_opacity: 20
     title: The legacy of good trading.
-    background_image: images/tecuci-1900.png
+    background_image: images/graceful-chili.png
     background_image_position: left bottom
   - type: features_section
     features:
