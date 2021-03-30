@@ -6,11 +6,6 @@ sections:
     padding_top: large
     padding_bottom: none
     background_color: none
-    video_embed_html: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/I8h0eZZQt6I" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     media_position: right
     title: 'We are there for everyone, everywhere.'
     subtitle: Choose your country and contact your local representative.
