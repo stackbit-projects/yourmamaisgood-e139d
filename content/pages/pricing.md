@@ -15,9 +15,11 @@ sections:
       ***
 
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.
-      Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies
-      sed, dolor. Cras elementum ultrices diam.
+      The Aurel Group makes a point of honor when it comes to the mix of these
+      teams. We strongly believe that the greatest differences are the greatest
+      strength. This is why in our company it will be difficult for you to find
+      the same nationality twice. But, you will always have a compatriot
+      listening to you.
     background_image_position: right top
     background_image_size: contain
     image: images/magnificent-coriander.jpg
