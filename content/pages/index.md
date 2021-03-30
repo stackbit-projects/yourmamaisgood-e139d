@@ -19,6 +19,7 @@ sections:
     background_image_opacity: 20
     title: 'We are commited to bring you '
     background_image_position: left bottom
+    background_image: images/31FE2EC7-4D28-49BB-BDF7-88F55246887E.png
   - type: features_section
     features:
       - image_alt: Brandon Guidelines
