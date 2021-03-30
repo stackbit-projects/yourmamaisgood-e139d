@@ -22,7 +22,7 @@ sections:
       # Committed trader of raw materials & ingredients for the food industry.
     subtitle: ISO 2345 543
     background_image: images/young-indian-farmer-standing-at-wheat-field.jpg
-    background_image_size: cover
+    background_image_size: contain
   - type: features_section
     features:
       - image_alt: Brandon Guidelines
