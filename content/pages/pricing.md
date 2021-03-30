@@ -12,7 +12,7 @@ sections:
 
       ***
 
-      ### Choose your country and contact your local representative.
+      ## Choose your country and contact your local representative.
     background_image_position: right top
     background_image_size: contain
     image: images/magnificent-coriander.jpg
