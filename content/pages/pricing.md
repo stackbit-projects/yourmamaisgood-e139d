@@ -8,7 +8,8 @@ sections:
     background_color: none
     media_position: right
     content: >
-      # Worldwide, our team wait to serve your needs. Meet a representative.
+      ## Worldwide, our team wait to serve your needs. So fell free to meet a
+      representative.
 
 
       ***
