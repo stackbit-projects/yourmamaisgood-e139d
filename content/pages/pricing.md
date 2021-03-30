@@ -8,7 +8,8 @@ sections:
     background_color: none
     media_position: right
     content: >
-      ## Worldwide, our teams wait to serve your needs. Why don't meet them ?
+      # Around the world, our teams are waiting to meet your needs. Why not meet
+      them?
 
 
       ***
