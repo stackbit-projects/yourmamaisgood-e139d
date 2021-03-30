@@ -8,7 +8,7 @@ sections:
     background_color: none
     media_position: right
     content: >
-      ## Worldwide, our team wait to serve your needs. Fell free to meet them.
+      ## Worldwide, our teams wait to serve your needs. Fell free to meet them.
 
 
       ***
