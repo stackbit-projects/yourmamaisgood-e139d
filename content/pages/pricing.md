@@ -9,6 +9,10 @@ sections:
     media_position: left
     subtitle: Choose your country and contact your local representative.
     image: images/incredible-giraffe.jpg
+    content: |
+      # We are there for everyone.
+
+      # Everywhere.
   - type: grid_section
     grid_items:
       - title_align: left
