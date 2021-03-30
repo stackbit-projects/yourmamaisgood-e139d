@@ -8,7 +8,7 @@ sections:
     background_color: none
     media_position: right
     content: |
-      # Aurel for everyone. Everywhere.
+      # We serve everyone. Everywhere.
 
       ***
 
