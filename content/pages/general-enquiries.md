@@ -11,7 +11,7 @@ sections:
       # Toghether has no limit. Contact Us.
 
 
-      ![](/images/business-partners-put-fists-in-circle-fist-bump-team-building-support-and-lsynergy.jpg)
+      ![](/images/aurel-group-business-partners-put-fists-in-circle-fist-bump-team-building-support-and-synergy.jpg)
 
 
       ***
