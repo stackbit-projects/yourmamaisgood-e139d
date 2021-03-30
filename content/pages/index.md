@@ -16,7 +16,7 @@ sections:
     padding_top: medium
     padding_bottom: large
     background_color: none
-    background_image_opacity: 20
+    background_image_opacity: 0
     title: 'We are commited to bring you '
     background_image_position: left bottom
     background_image: images/31FE2EC7-4D28-49BB-BDF7-88F55246887E.png
