@@ -53,8 +53,7 @@
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
-        "anncmnt_id": "new-features",
-        "logo": "images/Sans titre - 10.svg"
+        "anncmnt_id": "new-features"
     },
     "footer": {
         "logo": "images/about-2.jpg",
