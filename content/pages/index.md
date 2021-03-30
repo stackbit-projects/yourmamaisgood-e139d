@@ -9,7 +9,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/Fichier 3.svg
+    image: images/Fichier 4.svg
     image_alt: Hero section placeholder image
     media_position: right
     media_width: fourty
