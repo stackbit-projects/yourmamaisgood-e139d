@@ -9,7 +9,6 @@ sections:
     media_position: right
     title: 'We are there for everyone, everywhere.'
     subtitle: Choose your country and contact your local representative.
-    image: images/aurel-group-business-team-talking-about-future-plans-dubai.jpg
   - type: grid_section
     grid_items:
       - title_align: left
