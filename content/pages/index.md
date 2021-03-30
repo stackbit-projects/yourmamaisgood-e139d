@@ -20,6 +20,7 @@ sections:
     title: 'We are commited to bring you '
     background_image: images/graceful-chili.png
     background_image_position: left bottom
+    image: images/Fichier 1.svg
   - type: features_section
     features:
       - image_alt: Brandon Guidelines
