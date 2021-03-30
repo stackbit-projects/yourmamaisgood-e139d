@@ -21,7 +21,6 @@ sections:
     image: images/1.svg
     content: |
       # Committed trader of raw materials & ingredients for the food industry.
-    subtitle: AUREL GROUP
   - type: features_section
     features:
       - image_alt: Brandon Guidelines
