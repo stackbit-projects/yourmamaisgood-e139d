@@ -15,6 +15,7 @@ sections:
       ### Choose your country and contact your local representative.
     background_image_position: right top
     background_image_size: contain
+    image: images/incredible-giraffe.jpg
   - type: grid_section
     grid_items:
       - title_align: left
