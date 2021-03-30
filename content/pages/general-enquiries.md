@@ -9,12 +9,10 @@ sections:
   - type: form_section
     content: >
       #
-      ![](/images/smiling-african-businessman-wearing-suit-headshot-vertical-portrait-with-team2.jpg)
+      ![](/images/smiling-african-businessman-wearing-suit-headshot-vertical-portrait-with-teamf.jpg)
 
 
       ### More then never, our team is here for you.
-
-
 
 
       ***
