@@ -16,9 +16,9 @@ sections:
 
 
       > We strongly believe that the greatest differences are the greatest
-      strength. This is why in our company it will be difficult to find twice
-      the same nationality. But, you will always have a compatriot listening to
-      you.
+      strength. This is why in our company it will be difficult to find more
+      then twice the same origin. But, you will always have a compatriot
+      listening to your needs.
     background_image_position: right top
     background_image_size: contain
     image: images/magnificent-coriander.jpg
