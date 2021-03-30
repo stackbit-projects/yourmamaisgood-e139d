@@ -11,7 +11,7 @@ sections:
       # More then never, our team is here for you.
 
 
-      ![](/images/side-view-of-aurel-woman-team-member-call-center-with-headsets-using-computers-in-the-office.jpg)
+      ![](/images/side-view-of-woman-call-center-with-headsets-using-computers-in-the-office2.jpg)
 
 
 
