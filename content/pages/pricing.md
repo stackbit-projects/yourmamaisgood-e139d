@@ -8,7 +8,7 @@ sections:
     background_color: none
     media_position: right
     content: >
-      # Find the Aurel’s agent for your country.
+      # Find your representative for your country.
 
 
       ***
