@@ -20,7 +20,6 @@ sections:
     background_image_position: left bottom
     background_image_size: auto
     image: images/classic/feature-2.png
-    title: Committed traders of agricultural commodities.
   - type: features_section
     features:
       - image_alt: Brandon Guidelines
