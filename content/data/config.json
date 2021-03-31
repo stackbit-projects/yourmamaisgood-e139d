@@ -39,7 +39,8 @@
                 "url": "/general-enquiries",
                 "style": "link",
                 "icon": "globe",
-                "has_icon": true
+                "has_icon": true,
+                "icon_position": "right"
             },
             {
                 "url": "/pricing",
