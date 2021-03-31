@@ -20,7 +20,6 @@ sections:
     background_image_position: left bottom
     content: |
       # Committed traders of agricultural commodities.
-    subtitle: ISO 2345 543
     background_image_size: auto
     image: images/classic/feature-2.png
   - type: features_section
