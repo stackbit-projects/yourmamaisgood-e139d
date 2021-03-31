@@ -38,7 +38,7 @@
                 "url": "/general-enquiries",
                 "style": "secondary",
                 "icon": "globe",
-                "has_icon": true,
+                "has_icon": false,
                 "icon_position": "left",
                 "label": "WORLDWIDE"
             },
