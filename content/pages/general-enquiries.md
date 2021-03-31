@@ -11,7 +11,7 @@ sections:
       # Together has no limits. Contact us.
 
 
-      ![](/images/obusiness-partners-put-fists-in-circle-fist-bump-team-building-support-and-synergy.jpg)
+      ![](/images/ubusiness-partners-put-fists-in-circle-fist-bump-team-building-support-and-synergy.jpg)
 
 
 
