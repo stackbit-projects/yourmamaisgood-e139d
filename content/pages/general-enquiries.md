@@ -279,28 +279,6 @@ sections:
     padding_bottom: large
     background_color: none
     submit_label: SUBMIT
-  - subtitle: >-
-      Legal information : The information collected through this form will be
-      stored in a digital file for which Aurel is responsible in order to
-      facilitate the treatment of customers’ enquiries. This data will be kept
-      for one year and then deleted. In accordance with the General Data
-      Protection Regulation Act (EU) 2016/679 of the European Parliament and of
-      the Council of April 2016, 27th [in force since May 2018], you can
-      exercise your right of access to your personal data and have them
-      rectified by contacting the Aurel Group through this form.
-    features: []
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: small
-    has_border: false
-    background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
-    background_image: images/2.svg
 seo:
   title: General Enquiries
   description: This is the general enquiries page
