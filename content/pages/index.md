@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     actions:
-      - label: Download our brochure
+      - label: Download our booklet
         url: /pricing
         style: primary
         has_icon: true
