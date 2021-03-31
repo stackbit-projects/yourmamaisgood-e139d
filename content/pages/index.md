@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     actions:
-      - label: 'Download '
+      - label: Download our brochure
         url: /pricing
         style: primary
     image_alt: Hero section placeholder image
