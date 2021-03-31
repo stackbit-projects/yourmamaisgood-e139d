@@ -22,7 +22,7 @@ sections:
     background_image_size: contain
     image: >-
       images/aurel-group-business-partners-put-fists-in-circle-fist-bump-team-building-support-and-synergy.jpg
-    media_width: fourty
+    media_width: sixty
   - type: grid_section
     grid_items:
       - title_align: left
