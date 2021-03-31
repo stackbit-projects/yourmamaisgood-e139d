@@ -36,7 +36,7 @@
         "secondary_nav_links": [
             {
                 "url": "/general-enquiries",
-                "style": "secondary",
+                "style": "link",
                 "icon": "globe",
                 "has_icon": false,
                 "icon_position": "left",
