@@ -23,7 +23,7 @@ sections:
     subtitle: ISO 2345 543
     background_image: >-
       images/sset-of-storage-tanks-cultivated-agricultural-crops-processing-pl.jpg
-    background_image_size: cover
+    background_image_size: auto
     image: images/classic/icon-1.svg
   - type: features_section
     features:
