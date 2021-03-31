@@ -39,7 +39,7 @@ sections:
             type: action
         image: images/Capture d’écran 2021-03-30 à 10.50.18.png
         content: |
-          ###### We are commited to meet your needs evrywhere in the world.
+          # We are commited to meet your needs evrywhere in the world.
     feature_padding_vert: small
     background_color: primary
     background_image: >-
