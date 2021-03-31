@@ -6,6 +6,7 @@ sections:
       - label: Download our brochure
         url: /pricing
         style: primary
+        has_icon: true
     image_alt: Hero section placeholder image
     media_position: right
     media_width: sixty
