@@ -18,8 +18,6 @@ sections:
     background_color: none
     background_image_opacity: 0
     background_image_position: left bottom
-    content: |
-      #
     background_image_size: auto
     image: images/classic/feature-2.png
     title: Committed traders of agricultural commodities.
