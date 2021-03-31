@@ -19,7 +19,7 @@ sections:
     background_image_opacity: 0
     background_image_position: left bottom
     content: |
-      # Committed trader of raw materials & ingredients for the food industry.
+      # Committed traders of raw materials & ingredients for the food industry.
     subtitle: ISO 2345 543
     background_image_size: auto
     image: images/classic/feature-2.png
