@@ -21,8 +21,7 @@ sections:
     content: |
       # Committed trader of raw materials & ingredients for the food industry.
     subtitle: ISO 2345 543
-    background_image: >-
-      images/container-ship-carrying-gcontainer-for-business-freight-import-and-export-aerial-view-container-ship-arriving-in-commercial-port.jpg
+    background_image: images/ff-01.svg
     background_image_size: contain
     image: images/classic/icon-1.svg
   - type: features_section
