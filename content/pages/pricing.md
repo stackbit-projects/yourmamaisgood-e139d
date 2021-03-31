@@ -20,7 +20,8 @@ sections:
       listening to you.
     background_image_position: right top
     background_image_size: contain
-    image: images/classic/feature-2.png
+    image: >-
+      images/aurel-group-business-partners-put-fists-in-circle-fist-bump-team-building-support-and-synergy.jpg
     media_width: fourty
   - type: grid_section
     grid_items:
