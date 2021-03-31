@@ -8,7 +8,7 @@ sections:
     background_color: none
   - type: form_section
     content: >
-      ###### Together has no limits. Contact us.
+      ###### Contact Sales
 
 
       ![](/images/aaaurel-group-business-team-talking-about-future-plans-dubai.jpg)
