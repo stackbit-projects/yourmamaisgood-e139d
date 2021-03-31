@@ -2,7 +2,7 @@
 title: Blog
 sections:
   - type: hero_section
-    title: Engaged for the price. Engaged for thé quality
+    title: Engaged for the price. Engaged for thé qualité.
     subtitle: The optional subtitle
     align: center
     padding_top: medium
