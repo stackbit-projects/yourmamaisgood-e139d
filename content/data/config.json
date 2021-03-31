@@ -43,7 +43,7 @@
                 "label": "GLOBAL NETWORK"
             },
             {
-                "style": "link",
+                "style": "primary",
                 "has_icon": false,
                 "icon": "globe",
                 "icon_position": "left",
