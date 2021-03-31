@@ -36,7 +36,7 @@
         "secondary_nav_links": [
             {
                 "url": "/pricing",
-                "style": "link",
+                "style": "secondary",
                 "icon": "globe",
                 "has_icon": true,
                 "icon_position": "left",
