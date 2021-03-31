@@ -46,6 +46,8 @@ sections:
         image: images/Capture d’écran 2021-03-30 à 10.50.18.png
     feature_padding_vert: small
     background_color: primary
+    background_image: >-
+      images/tset-of-storage-tanks-cultivated-agricultural-crops-processing-pl.jpg
   - type: features_section
     features:
       - title: Services
