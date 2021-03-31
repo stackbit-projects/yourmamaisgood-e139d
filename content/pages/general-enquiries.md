@@ -8,7 +8,7 @@ sections:
     background_color: none
   - type: form_section
     content: >
-      ###### Contact Sales
+      ###### Contact Us
 
 
       ![](/images/aaaurel-group-business-team-talking-about-future-plans-dubai.jpg)
