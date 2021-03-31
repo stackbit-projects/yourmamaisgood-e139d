@@ -21,7 +21,7 @@ sections:
     background_image_position: right top
     background_image_size: contain
     image: images/classic/feature-2.png
-    media_width: fifty
+    media_width: fourty
   - type: grid_section
     grid_items:
       - title_align: left
