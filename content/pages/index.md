@@ -37,10 +37,6 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        subtitle: >-
-          Aure is working to nourish the world. We're bringing together people,
-          ideas, and resources to deliver products, technology and ways of
-          operating that build successful businesses and communities.
         image: images/Capture d’écran 2021-03-30 à 10.50.18.png
     feature_padding_vert: small
     background_color: primary
