@@ -21,7 +21,7 @@ sections:
     background_image_size: auto
     image: images/tests.jpg
     content: |
-      ###### Committed traders of agricultural commodities.
+      ###### Committed trader of agricultural commodities.
   - type: features_section
     features:
       - image_alt: Brandon Guidelines
