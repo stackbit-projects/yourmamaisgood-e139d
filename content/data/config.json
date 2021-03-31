@@ -47,7 +47,8 @@
                 "has_icon": false,
                 "icon": "globe",
                 "icon_position": "left",
-                "url": "/pricing"
+                "url": "/pricing",
+                "label": "WORLD"
             }
         ],
         "has_anncmnt": false,
