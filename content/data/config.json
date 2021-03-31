@@ -40,7 +40,7 @@
                 "style": "link",
                 "icon": "globe",
                 "has_icon": true,
-                "icon_position": "right"
+                "icon_position": "left"
             },
             {
                 "url": "/pricing",
