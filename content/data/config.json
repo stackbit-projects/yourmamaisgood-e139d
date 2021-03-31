@@ -43,7 +43,6 @@
                 "label": "GLOBAL NETWORK"
             },
             {
-                "url": "/pricing",
                 "style": "link",
                 "has_icon": true,
                 "icon": "globe",
