@@ -37,7 +37,7 @@
             {
                 "label": "CONTACT US",
                 "url": "/general-enquiries",
-                "style": "primary"
+                "style": "link"
             },
             {
                 "url": "/pricing",
