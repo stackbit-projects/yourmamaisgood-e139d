@@ -43,7 +43,7 @@
                 "label": "WORLDWIDE"
             },
             {
-                "style": "primary",
+                "style": "secondary",
                 "has_icon": false,
                 "icon": "globe",
                 "icon_position": "left",
