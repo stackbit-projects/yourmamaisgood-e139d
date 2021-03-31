@@ -57,7 +57,6 @@
         "logo": "images/10.png"
     },
     "footer": {
-        "logo": "images/about-2.jpg",
         "logo_alt": "DIY logo",
         "has_primary_nav": true,
         "primary_nav_links": [],
