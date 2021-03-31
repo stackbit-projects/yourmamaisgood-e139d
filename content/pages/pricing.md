@@ -5,7 +5,7 @@ sections:
     align: left
     padding_top: medium
     padding_bottom: large
-    background_color: primary
+    background_color: secondary
     media_position: right
     content: |
       ###### Find the representative for your country.
