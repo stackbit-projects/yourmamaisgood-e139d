@@ -17,7 +17,7 @@ sections:
     padding_bottom: large
     background_color: none
     background_image_opacity: 0
-    background_image_position: right top
+    background_image_position: right bottom
     content: |
       # Committed trader of raw materials & ingredients for the food industry.
     subtitle: ISO 2345 543
