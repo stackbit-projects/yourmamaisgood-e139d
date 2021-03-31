@@ -48,6 +48,7 @@ sections:
     background_color: primary
     background_image: >-
       images/tset-of-storage-tanks-cultivated-agricultural-crops-processing-pl.jpg
+    background_image_position: left bottom
   - type: features_section
     features:
       - title: Services
