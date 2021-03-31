@@ -7,17 +7,8 @@ sections:
     padding_bottom: large
     background_color: none
     media_position: right
-    content: >
+    content: |
       ###### Find the representative for your country.
-
-
-      ***
-
-
-      > We strongly believe that the greatest differences are the greatest
-      strength. This is why in our company it will be difficult to find more
-      then twice the same origin. But, you will always have a compatriot
-      listening to you.
     background_image_position: right top
     background_image_size: contain
     image: >-
