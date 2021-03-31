@@ -276,7 +276,7 @@ sections:
         default_value: Your phone number
     align_vert: top
     padding_top: none
-    padding_bottom: small
+    padding_bottom: none
     background_color: none
     submit_label: SUBMIT
   - subtitle: >-
