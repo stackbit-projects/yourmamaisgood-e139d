@@ -8,7 +8,7 @@ sections:
     background_color: none
     media_position: right
     content: |
-      ###### Find the representative for your country.
+      ###### Find a Aurel office in your region.
     background_image_position: right top
     background_image_size: contain
     image: images/tests.jpg
