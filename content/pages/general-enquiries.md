@@ -11,7 +11,7 @@ sections:
       # Together has no limits. Contact us.
 
 
-      ![](/images/ubusiness-partners-put-fists-in-circle-fist-bump-team-building-support-and-synergy.jpg)
+      ![](/images/aaaurel-group-business-team-talking-about-future-plans-dubai.jpg)
 
 
 
