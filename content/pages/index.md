@@ -19,7 +19,7 @@ sections:
     background_image_opacity: 0
     background_image_position: left bottom
     background_image_size: auto
-    image: images/test.jpg
+    image: images/testd.jpg
     content: |
       ###### Committed traders of agricultural commodities.
   - type: features_section
