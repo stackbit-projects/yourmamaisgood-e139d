@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     actions:
-      - label: Try Free
+      - label: Do
         url: /pricing
         style: primary
     image_alt: Hero section placeholder image
