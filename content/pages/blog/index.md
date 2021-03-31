@@ -7,8 +7,9 @@ sections:
     padding_top: medium
     padding_bottom: none
     background_color: none
-    content: |
-      Engaged for the price. Engaged for the quality. Engaged for the people.
+    content: >
+      ###### Engaged for the price. Engaged for the quality. Engaged for the
+      people.
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
