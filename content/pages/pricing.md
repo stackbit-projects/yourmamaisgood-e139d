@@ -21,7 +21,7 @@ sections:
       listening to you.
     background_image_position: right top
     background_image_size: contain
-    image: images/magnificent-coriander.jpg
+    image: images/aaurel-group-business-team-talking-about-future-plans-dubai.jpg
     media_width: sixty
   - type: grid_section
     grid_items:
