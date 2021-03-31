@@ -22,7 +22,7 @@ sections:
       # Committed trader of raw materials & ingredients for the food industry.
     subtitle: ISO 2345 543
     background_image: images/ff-01.svg
-    background_image_size: contain
+    background_image_size: cover
     image: images/classic/icon-1.svg
   - type: features_section
     features:
