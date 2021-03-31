@@ -2,7 +2,7 @@
 title: Blog
 sections:
   - type: hero_section
-    title: Engaged for thé
+    title: Engaged for te
     subtitle: The optional subtitle
     align: center
     padding_top: medium
