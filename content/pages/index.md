@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     actions:
-      - label: Do
+      - label: 'Download '
         url: /pricing
         style: primary
     image_alt: Hero section placeholder image
