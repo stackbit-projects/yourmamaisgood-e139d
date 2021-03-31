@@ -42,7 +42,6 @@ sections:
           # We are commited to meet your needs evrywhere in the world.
     feature_padding_vert: small
     background_color: primary
-    background_image: images/fff-transportation-container-cargo-ship-cargo-plane.jpg
     background_image_position: left bottom
   - type: features_section
     features:
