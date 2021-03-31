@@ -39,8 +39,7 @@
                 "style": "link",
                 "icon": "globe",
                 "has_icon": true,
-                "icon_position": "left",
-                "label": "AUREL WORLDWIDE"
+                "icon_position": "left"
             },
             {
                 "style": "primary",
