@@ -37,7 +37,7 @@
             {
                 "url": "/general-enquiries",
                 "style": "link",
-                "icon": "globe",
+                "icon": "arrow-right",
                 "has_icon": true,
                 "icon_position": "left",
                 "label": "CONTACT"
