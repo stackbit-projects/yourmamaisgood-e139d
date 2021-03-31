@@ -38,7 +38,7 @@
                 "url": "/pricing",
                 "style": "link",
                 "icon": "globe",
-                "has_icon": false,
+                "has_icon": true,
                 "icon_position": "left",
                 "label": "GLOBAL NETWORK"
             },
