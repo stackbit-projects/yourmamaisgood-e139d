@@ -41,7 +41,7 @@
             },
             {
                 "url": "/pricing",
-                "style": "primary",
+                "style": "link",
                 "has_icon": true,
                 "icon": "globe",
                 "icon_position": "left",
