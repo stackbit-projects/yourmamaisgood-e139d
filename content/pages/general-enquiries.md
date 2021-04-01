@@ -289,7 +289,10 @@ sections:
         is_required: true
       - input_type: checkbox
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: >-
+          I agree to receive email reports, articles, event invitations and
+          other information related to Aurel products and services. I understand
+          I may unsubscribe at any time by clicking the link included in emails.
         default_value: lorem-ipsum
         options: []
         is_required: false
