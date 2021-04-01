@@ -258,7 +258,7 @@ sections:
           - Zimbabwe
         is_required: true
         type: form_field
-        default_value: Please select...
+        default_value: Sélect tour location
         label: 'LOCATION '
       - input_type: text
         name: company
