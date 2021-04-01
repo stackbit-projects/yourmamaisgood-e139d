@@ -47,7 +47,7 @@ sections:
         default_value: 'Select topic '
       - input_type: textarea
         name: message
-        label: YOUR MESSAGE*
+        label: '*YOUR MESSAGE'
         is_required: true
       - input_type: email
         name: email
