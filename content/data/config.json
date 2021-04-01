@@ -47,7 +47,8 @@
                 "style": "link",
                 "icon": "linkedin",
                 "has_icon": true,
-                "icon_position": "right"
+                "icon_position": "right",
+                "label": "CONTACT"
             }
         ],
         "has_anncmnt": false,
