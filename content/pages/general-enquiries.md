@@ -35,7 +35,7 @@ sections:
     form_fields:
       - input_type: select
         name: topic
-        label: TOPIC*
+        label: '*TOPIC'
         options:
           - "Need «\_Products information\_»"
           - Services information
