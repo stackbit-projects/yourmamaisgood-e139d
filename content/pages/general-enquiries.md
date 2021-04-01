@@ -49,10 +49,6 @@ sections:
         name: name
         label: '*FIRST NAME'
         is_required: true
-      - input_type: textarea
-        name: message
-        label: '*YOUR MESSAGE'
-        is_required: true
       - input_type: email
         name: email
         label: '*EMAIL'
@@ -269,6 +265,10 @@ sections:
         options: []
         is_required: false
         type: form_field
+      - input_type: textarea
+        name: message
+        label: '*YOUR MESSAGE'
+        is_required: true
     align_vert: top
     padding_top: none
     padding_bottom: large
