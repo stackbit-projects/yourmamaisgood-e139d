@@ -282,7 +282,7 @@ sections:
         label: '*YOUR MESSAGE'
         is_required: true
       - input_type: text
-        name: lorem-ipsum
+        name: title
         label: '*JOB TITLE'
         options: []
         is_required: false
