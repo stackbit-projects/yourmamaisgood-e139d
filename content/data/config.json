@@ -47,7 +47,8 @@
                 "style": "link",
                 "icon": "linkedin",
                 "has_icon": true,
-                "icon_position": "left"
+                "icon_position": "left",
+                "label": "/ "
             }
         ],
         "has_anncmnt": false,
