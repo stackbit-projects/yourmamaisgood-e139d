@@ -21,7 +21,7 @@ sections:
     background_image_size: auto
     image: images/tests.jpg
     content: |
-      ###### Raw materials & ingrediens for food industry.
+      ###### Raw materials & ingredients for food industry.
   - type: features_section
     features:
       - image_alt: Brandon Guidelines
