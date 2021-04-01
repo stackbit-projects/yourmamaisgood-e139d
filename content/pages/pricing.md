@@ -1,8 +1,7 @@
 ---
 title: Pricing
 sections:
-  - subtitle: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
