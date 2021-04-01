@@ -6,7 +6,7 @@ sections:
     padding_top: none
     padding_bottom: none
     background_color: primary
-    media_position: right
+    media_position: left
     background_image_position: right top
     background_image_size: cover
     media_width: sixty
