@@ -270,7 +270,7 @@ sections:
         label: '*YOUR MESSAGE'
         is_required: true
       - input_type: text
-        name: lorem-ipsum
+        name: 'last '
         label: '*LAST NAME'
         options: []
         is_required: false
