@@ -65,10 +65,6 @@ sections:
         options: []
         is_required: false
         type: form_field
-      - input_type: textarea
-        name: message
-        label: '*YOUR MESSAGE'
-        is_required: true
       - input_type: select
         name: location
         options:
@@ -269,6 +265,10 @@ sections:
         type: form_field
         default_value: Select your location
         label: '*LOCATION '
+      - input_type: textarea
+        name: message
+        label: '*YOUR MESSAGE'
+        is_required: true
     align_vert: top
     padding_top: none
     padding_bottom: large
