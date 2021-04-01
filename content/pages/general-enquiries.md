@@ -65,6 +65,12 @@ sections:
         options: []
         is_required: false
         type: form_field
+      - input_type: text
+        name: zip
+        label: '*ZIP/POSTAL CODE'
+        options: []
+        is_required: false
+        type: form_field
       - input_type: select
         name: location
         options:
@@ -272,12 +278,6 @@ sections:
       - input_type: text
         name: last_name
         label: '*LAST NAME'
-        options: []
-        is_required: false
-        type: form_field
-      - input_type: text
-        name: zip
-        label: '*ZIP/POSTAL CODE'
         options: []
         is_required: false
         type: form_field
