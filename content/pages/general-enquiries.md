@@ -292,7 +292,7 @@ sections:
         label: "I have read and accept the Terms of Use.\_ Please read our\_privacy statement\_to understand how we plan to use your personal information."
         default_value: lorem-ipsum
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     align_vert: top
     padding_top: none
