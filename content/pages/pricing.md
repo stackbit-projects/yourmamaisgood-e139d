@@ -24,17 +24,6 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Capture d’écran 2021-04-01 à 16.17.16.png
-  - type: hero_section
-    align: right
-    padding_top: none
-    padding_bottom: none
-    background_color: secondary
-    media_position: left
-    background_image_position: right top
-    background_image_size: cover
-    media_width: sixty
-    actions: []
-    has_border: false
   - type: grid_section
     grid_items:
       - title_align: left
