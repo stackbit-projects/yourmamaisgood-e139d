@@ -339,6 +339,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+    background_image: images/Capture d’écran 2021-04-01 à 16.17.16.png
   - title: 'The United States, Canada, and Puerto Rico'
     actions: []
     grid_items:
