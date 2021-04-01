@@ -7,8 +7,6 @@ sections:
     padding_bottom: large
     background_color: none
     media_position: right
-    content: |
-      ######
     background_image_position: right top
     background_image_size: cover
     media_width: sixty
