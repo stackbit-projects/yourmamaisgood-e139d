@@ -287,7 +287,7 @@ sections:
         name: message
         label: '*YOUR MESSAGE'
         is_required: true
-      - input_type: text
+      - input_type: checkbox
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
