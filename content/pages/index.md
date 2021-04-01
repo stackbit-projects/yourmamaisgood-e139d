@@ -6,7 +6,7 @@ sections:
       - label: Learn more
         url: /pricing
         style: primary
-        has_icon: true
+        has_icon: false
         icon: arrow-right
         icon_position: right
     image_alt: Hero section placeholder image
