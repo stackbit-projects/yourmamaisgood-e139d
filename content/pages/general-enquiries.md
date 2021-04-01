@@ -270,7 +270,7 @@ sections:
         label: '*YOUR MESSAGE'
         is_required: true
       - input_type: text
-        name: 'last '
+        name: last_name
         label: '*LAST NAME'
         options: []
         is_required: false
