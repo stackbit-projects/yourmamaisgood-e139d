@@ -13,7 +13,7 @@ sections:
     media_position: right
     media_width: sixty
     align: left
-    padding_top: medium
+    padding_top: large
     padding_bottom: large
     background_color: none
     background_image_opacity: 0
