@@ -19,6 +19,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
+        label: X
   - type: grid_section
     grid_items:
       - title_align: left
