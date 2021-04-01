@@ -17,6 +17,17 @@
                 "style": "link"
             },
             {
+                "label": "ABOUT AUREL",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "url": "/pricing",
                 "style": "link",
                 "label": "SERVICES"
@@ -30,17 +41,6 @@
                 "url": "/style-guide",
                 "style": "link",
                 "label": "CAREERS"
-            },
-            {
-                "label": "ABOUT AUREL",
-                "url": "#",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "has_secondary_nav": true,
