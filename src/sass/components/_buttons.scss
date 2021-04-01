@@ -24,7 +24,7 @@
 	&:focus,
 	&:active {
 		opacity: .85;
-		outline: 10;
+		outline: 0;
 	}
 
 	.icon + :not(.sr-only) {
