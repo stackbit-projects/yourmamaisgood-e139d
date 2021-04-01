@@ -81,7 +81,7 @@ sections:
         name: zip
         label: '*ZIP/POSTAL CODE'
         options: []
-        is_required: false
+        is_required: true
         type: form_field
       - input_type: select
         name: location
