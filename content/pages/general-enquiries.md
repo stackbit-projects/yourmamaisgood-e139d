@@ -34,7 +34,7 @@ sections:
     form_action: /thank-you
     form_fields:
       - input_type: select
-        name: subject
+        name: Topic
         label: TOPIC*
         options:
           - "Need «\_Products information\_»"
