@@ -2,8 +2,7 @@
 title: Pricing
 sections:
   - actions:
-      - label: lorem-ipsum
-        url: '#'
+      - url: '#'
         style: link
         has_icon: false
         icon: arrow-left
