@@ -19,7 +19,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        label: X
     has_border: false
   - type: grid_section
     grid_items:
