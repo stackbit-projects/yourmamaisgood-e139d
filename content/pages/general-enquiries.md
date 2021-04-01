@@ -56,7 +56,6 @@ sections:
       - input_type: text
         name: name
         label: YOUR NAME*
-        default_value: Your full name
         is_required: true
       - input_type: select
         name: location
