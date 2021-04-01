@@ -45,6 +45,7 @@ sections:
           - Accounts payable
           - General feedback
         default_value: 'Select topic '
+        is_required: true
       - input_type: text
         name: firstname
         label: '*FIRST NAME'
