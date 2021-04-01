@@ -43,7 +43,7 @@
                 "label": "CONTACT"
             },
             {
-                "style": "secondary",
+                "style": "link",
                 "has_icon": true,
                 "icon": "globe",
                 "icon_position": "left",
