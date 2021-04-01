@@ -47,8 +47,7 @@
                 "style": "link",
                 "icon": "arrow-right",
                 "has_icon": true,
-                "icon_position": "left",
-                "label": "CONTACT"
+                "icon_position": "left"
             }
         ],
         "has_anncmnt": false,
