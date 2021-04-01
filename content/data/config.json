@@ -23,6 +23,11 @@
                 "type": "action"
             },
             {
+                "url": "/blog",
+                "style": "link",
+                "label": "COMMITMENTS"
+            },
+            {
                 "label": "PRODUCTS",
                 "url": "/about",
                 "style": "link"
@@ -31,11 +36,6 @@
                 "url": "/pricing",
                 "style": "link",
                 "label": "SERVICES"
-            },
-            {
-                "url": "/blog",
-                "style": "link",
-                "label": "COMMITMENTS"
             },
             {
                 "url": "/style-guide",
