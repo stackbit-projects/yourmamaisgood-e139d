@@ -55,7 +55,7 @@ sections:
         is_required: true
       - input_type: text
         name: name
-        label: YOUR NAME*
+        label: FIRST NAME
         is_required: true
       - input_type: select
         name: location
