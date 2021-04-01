@@ -47,7 +47,7 @@ sections:
         default_value: 'Select topic '
       - input_type: textarea
         name: message
-        label: CAN YOU GIVE US MORE DETAILS ?*
+        label: YOUR MESSAGE*
         is_required: true
         default_value: Your message
       - input_type: email
