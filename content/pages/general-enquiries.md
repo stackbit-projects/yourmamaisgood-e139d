@@ -65,6 +65,12 @@ sections:
         options: []
         is_required: false
         type: form_field
+      - input_type: text
+        name: title
+        label: '*JOB TITLE'
+        options: []
+        is_required: false
+        type: form_field
       - input_type: tel
         name: phone
         label: PHONE
@@ -281,12 +287,6 @@ sections:
         name: message
         label: '*YOUR MESSAGE'
         is_required: true
-      - input_type: text
-        name: title
-        label: '*JOB TITLE'
-        options: []
-        is_required: false
-        type: form_field
     align_vert: top
     padding_top: none
     padding_bottom: large
