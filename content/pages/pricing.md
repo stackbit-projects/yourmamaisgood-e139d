@@ -5,7 +5,7 @@ sections:
     align: right
     padding_top: none
     padding_bottom: none
-    background_color: primary
+    background_color: none
     media_position: left
     background_image_position: right top
     background_image_size: cover
