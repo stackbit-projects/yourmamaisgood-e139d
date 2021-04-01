@@ -46,7 +46,7 @@
                 "url": "/general-enquiries",
                 "style": "link",
                 "icon": "linkedin",
-                "has_icon": false,
+                "has_icon": true,
                 "icon_position": "right",
                 "label": "CONTACT"
             }
