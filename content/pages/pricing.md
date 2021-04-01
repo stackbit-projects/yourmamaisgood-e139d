@@ -79,6 +79,7 @@ sections:
     has_border: false
     background_color: primary
     title: 'Africa, Middle East, and India'
+    background_image: images/Capture d’écran 2021-04-01 à 16.17.16.png
   - title: Asia Pacific
     actions: []
     grid_items:
