@@ -69,7 +69,7 @@ sections:
         name: title
         label: '*JOB TITLE'
         options: []
-        is_required: false
+        is_required: true
         type: form_field
       - input_type: tel
         name: phone
