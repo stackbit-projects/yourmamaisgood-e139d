@@ -11,7 +11,6 @@ sections:
       ###### Find a Aurel office in your region.
     background_image_position: right top
     background_image_size: contain
-    image: images/tests.jpg
     media_width: sixty
   - type: grid_section
     grid_items:
