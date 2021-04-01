@@ -260,7 +260,7 @@ sections:
         label: '*LOCATION '
       - input_type: text
         name: company
-        label: COMPANY
+        label: '*COMPANY'
         options: []
         is_required: false
         type: form_field
