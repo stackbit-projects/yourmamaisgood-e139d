@@ -284,7 +284,6 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: '*JOB TITLE'
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
