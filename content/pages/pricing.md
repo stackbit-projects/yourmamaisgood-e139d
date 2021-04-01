@@ -11,8 +11,7 @@ sections:
     background_image_size: cover
     media_width: sixty
     actions:
-      - label: lorem-ipsum
-        url: '#'
+      - url: '#'
         style: link
         has_icon: true
         icon: arrow-left
