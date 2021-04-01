@@ -269,7 +269,6 @@ sections:
         options: []
         is_required: false
         type: form_field
-        default_value: Your phone number
     align_vert: top
     padding_top: none
     padding_bottom: large
