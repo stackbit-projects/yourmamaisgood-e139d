@@ -12,7 +12,7 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "PRODUCTS & SERVICES",
+                "label": "Products & Services",
                 "url": "/about",
                 "style": "link"
             },
