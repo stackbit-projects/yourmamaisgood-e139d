@@ -271,7 +271,7 @@ sections:
         is_required: true
       - input_type: text
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: '*LAST NAME'
         default_value: lorem-ipsum
         options: []
         is_required: false
