@@ -71,7 +71,7 @@ sections:
     grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: false
-    padding_top: small
+    padding_top: medium
     padding_bottom: small
     has_border: false
     background_color: primary
