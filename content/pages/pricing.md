@@ -12,6 +12,7 @@ sections:
     background_image_position: right top
     background_image_size: contain
     media_width: sixty
+    background_image: images/2.svg
   - type: grid_section
     grid_items:
       - title_align: left
