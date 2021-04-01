@@ -44,6 +44,7 @@ sections:
           - Supplier opportunities
           - Accounts payable
           - General feedback
+        default_value: 'Select topic '
       - input_type: textarea
         name: message
         label: CAN YOU GIVE US MORE DETAILS ?*
