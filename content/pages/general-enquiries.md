@@ -59,7 +59,7 @@ sections:
         default_value: Your full name
         is_required: true
       - input_type: select
-        name: country
+        name: location
         options:
           - Afghanistan
           - Albania
