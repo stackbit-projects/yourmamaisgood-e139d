@@ -265,7 +265,7 @@ sections:
         type: form_field
       - input_type: tel
         name: phone
-        label: PHONE NUMBER
+        label: PHONE
         options: []
         is_required: false
         type: form_field
