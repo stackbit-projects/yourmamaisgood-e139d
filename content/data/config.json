@@ -12,11 +12,6 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "PRODUCTS",
-                "url": "/about",
-                "style": "link"
-            },
-            {
                 "label": "ABOUT AUREL",
                 "url": "#",
                 "style": "link",
@@ -26,6 +21,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "PRODUCTS",
+                "url": "/about",
+                "style": "link"
             },
             {
                 "url": "/pricing",
