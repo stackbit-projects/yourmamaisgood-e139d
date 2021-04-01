@@ -49,7 +49,6 @@ sections:
         name: message
         label: YOUR MESSAGE*
         is_required: true
-        default_value: Your message
       - input_type: email
         name: email
         label: YOUR EMAIL*
