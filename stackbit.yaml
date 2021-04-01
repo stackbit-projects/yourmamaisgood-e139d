@@ -1620,6 +1620,7 @@ models:
           - vimeo
           - youtube
           - globe
+          - phone
       - type: enum
         name: icon_position
         label: Icon position
