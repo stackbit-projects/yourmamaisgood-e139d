@@ -46,7 +46,7 @@
                 "url": "/general-enquiries",
                 "style": "link",
                 "icon": "arrow-right",
-                "has_icon": false,
+                "has_icon": true,
                 "icon_position": "left"
             }
         ],
