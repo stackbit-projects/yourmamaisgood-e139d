@@ -24,15 +24,7 @@ sections:
     background_image_position: right top
     background_image_size: cover
     media_width: sixty
-    actions:
-      - url: '#'
-        style: link
-        has_icon: true
-        icon: arrow-left
-        icon_position: center
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     has_border: false
   - type: grid_section
     grid_items:
