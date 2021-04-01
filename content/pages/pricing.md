@@ -20,6 +20,7 @@ sections:
         no_follow: false
         type: action
         label: X
+    has_border: true
   - type: grid_section
     grid_items:
       - title_align: left
