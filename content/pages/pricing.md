@@ -8,7 +8,7 @@ sections:
     background_color: none
     media_position: right
     content: |
-      ###### Choose your location.
+      ######
     background_image_position: right top
     background_image_size: cover
     media_width: sixty
