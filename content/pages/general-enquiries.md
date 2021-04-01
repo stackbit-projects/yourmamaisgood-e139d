@@ -259,6 +259,7 @@ sections:
         is_required: true
         type: form_field
         default_value: Please select...
+        label: 'LOCATION '
       - input_type: text
         name: company
         label: COMPANY NAME
