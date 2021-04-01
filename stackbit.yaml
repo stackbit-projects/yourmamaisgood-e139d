@@ -1621,7 +1621,6 @@ models:
           - youtube
           - globe
           - phone
-          - X
           - close
       - type: enum
         name: icon_position
