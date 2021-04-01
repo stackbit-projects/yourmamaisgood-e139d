@@ -1,25 +1,6 @@
 ---
 title: Pricing
 sections:
-  - type: hero_section
-    align: right
-    padding_top: none
-    padding_bottom: none
-    background_color: primary
-    media_position: left
-    background_image_position: right top
-    background_image_size: cover
-    media_width: sixty
-    actions:
-      - url: '#'
-        style: link
-        has_icon: true
-        icon: arrow-left
-        icon_position: center
-        new_window: false
-        no_follow: false
-        type: action
-    has_border: false
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
@@ -50,6 +31,25 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+  - type: hero_section
+    align: right
+    padding_top: none
+    padding_bottom: none
+    background_color: primary
+    media_position: left
+    background_image_position: right top
+    background_image_size: cover
+    media_width: sixty
+    actions:
+      - url: '#'
+        style: link
+        has_icon: true
+        icon: arrow-left
+        icon_position: center
+        new_window: false
+        no_follow: false
+        type: action
+    has_border: false
   - type: grid_section
     grid_items:
       - title_align: left
