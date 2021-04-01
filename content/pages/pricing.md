@@ -28,7 +28,7 @@ sections:
     align: right
     padding_top: none
     padding_bottom: none
-    background_color: none
+    background_color: secondary
     media_position: left
     background_image_position: right top
     background_image_size: cover
