@@ -277,7 +277,7 @@ sections:
         type: form_field
       - input_type: text
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: '*ZIP/POSTAL CODE'
         default_value: lorem-ipsum
         options: []
         is_required: false
