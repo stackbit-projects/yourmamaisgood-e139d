@@ -46,7 +46,7 @@ sections:
           - General feedback
         default_value: 'Select topic '
       - input_type: text
-        name: name
+        name: firstname
         label: '*FIRST NAME'
         is_required: true
       - input_type: text
