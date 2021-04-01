@@ -12,7 +12,6 @@ sections:
     background_image_position: right top
     background_image_size: cover
     media_width: sixty
-    background_image: images/Capture d’écran 2021-04-01 à 16.17.16.png
   - type: grid_section
     grid_items:
       - title_align: left
