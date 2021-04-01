@@ -10,7 +10,7 @@ sections:
     content: |
       ###### Choose your location.
     background_image_position: right top
-    background_image_size: contain
+    background_image_size: cover
     media_width: sixty
     background_image: images/2.svg
   - type: grid_section
