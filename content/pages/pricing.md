@@ -26,6 +26,8 @@ sections:
     media_width: sixty
     actions: []
     has_border: false
+    content: |
+      # x
   - type: grid_section
     grid_items:
       - title_align: left
