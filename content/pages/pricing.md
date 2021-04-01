@@ -12,7 +12,7 @@ sections:
     media_width: sixty
     actions:
       - url: '#'
-        style: secondary
+        style: link
         has_icon: true
         icon: arrow-left
         icon_position: center
