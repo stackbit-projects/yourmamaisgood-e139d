@@ -21,7 +21,7 @@ sections:
     background_image_size: auto
     image: images/tests.jpg
     content: |
-      ###### Raw materials & ingredients for food industry.
+      ###### People it's all that matters.
   - type: features_section
     features:
       - image_alt: Brandon Guidelines
