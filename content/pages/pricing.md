@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - actions:
-      - url: /about
+      - url: /
         style: link
         has_icon: true
         icon: arrow-left
