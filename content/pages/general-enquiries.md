@@ -50,7 +50,7 @@ sections:
         label: '*FIRST NAME'
         is_required: true
       - input_type: text
-        name: last_name
+        name: lastname
         label: '*LAST NAME'
         options: []
         is_required: false
