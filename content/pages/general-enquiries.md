@@ -36,7 +36,6 @@ sections:
       - input_type: select
         name: subject
         label: TOPIC*
-        default_value: Please select...
         options:
           - "Need «\_Products information\_»"
           - Services information
