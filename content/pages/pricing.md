@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: hero_section
-    align: center
+    align: right
     padding_top: none
     padding_bottom: none
     background_color: primary
