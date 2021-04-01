@@ -35,7 +35,7 @@ sections:
     form_fields:
       - input_type: select
         name: subject
-        label: '*'
+        label: TOPIC*
         default_value: Please select...
         options:
           - "Need «\_Products information\_»"
