@@ -5,7 +5,7 @@ sections:
       - url: /
         style: link
         has_icon: true
-        icon: X
+        icon: close
         icon_position: right
         new_window: false
         no_follow: false
