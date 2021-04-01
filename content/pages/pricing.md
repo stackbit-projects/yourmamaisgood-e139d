@@ -8,7 +8,7 @@ sections:
     background_color: none
     media_position: right
     content: |
-      ###### Find a Aurel office in your region.
+      ###### Choose your location.
     background_image_position: right top
     background_image_size: contain
     media_width: sixty
