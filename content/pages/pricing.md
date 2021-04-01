@@ -5,7 +5,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: none
+    background_color: primary
     media_position: right
     content: |
       ###### Choose your location.
