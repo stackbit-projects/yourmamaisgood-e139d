@@ -7,7 +7,7 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: "### For inquiries or requests that require a more personal response, we will make every attempt to respond in a timely manner. Alternatively, please use our\_Global Office Locator to find contact information for a Deloitte office near you.\n\nFields marked with an asterisk (\\*) are required.\n\n![](/images/aaaurel-group-business-team-talking-about-future-plans-dubai.jpg)\n\n***\n\n#### Corporate headquarters\n\nAurel Group , BP 000000, Geneva, GE, Avenue du Grand Aurel, Swiss, 01 00 00 00 00 (English);\n\n***\n"
+    content: "## For inquiries or requests that require a more personal response, we will make every attempt to respond in a timely manner. Alternatively, please use our\_Global Office Locator to find contact information for a Deloitte office near you.\n\nFields marked with an asterisk (\\*) are required.\n\n![](/images/aaaurel-group-business-team-talking-about-future-plans-dubai.jpg)\n\n***\n\n#### Corporate headquarters\n\nAurel Group , BP 000000, Geneva, GE, Avenue du Grand Aurel, Swiss, 01 00 00 00 00 (English);\n\n***\n"
     content_align: left
     form_position: right
     form_width: fifty
