@@ -62,7 +62,6 @@ sections:
         is_required: true
       - input_type: select
         name: country
-        label: COUNTRY*
         options:
           - Afghanistan
           - Albania
