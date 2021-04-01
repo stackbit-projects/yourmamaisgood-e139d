@@ -24,6 +24,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/Capture d’écran 2021-04-01 à 20.23.56.png
+    background_image: images/Capture d’écran 2021-04-01 à 16.17.16.png
   - type: grid_section
     grid_items:
       - title_align: left
