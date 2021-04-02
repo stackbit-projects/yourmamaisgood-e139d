@@ -16,8 +16,6 @@ sections:
     ***
 
 
-
-
     content_align: left
     form_position: left
     form_width: fifty
