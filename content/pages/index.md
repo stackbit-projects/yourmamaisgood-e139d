@@ -21,7 +21,7 @@ sections:
     background_image_size: auto
     image: images/tests.jpg
     content: |
-      ###### The legacy of well made trade.
+      ###### EThe legacy of well made trade.
   - type: features_section
     features:
       - image_alt: Brandon Guidelines
