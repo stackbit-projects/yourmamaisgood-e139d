@@ -12,6 +12,9 @@ sections:
     ***
     
     ##### Corporate headquarters\n\n### Aurel Group , BP 000000, Geneva, GE, Avenue du Grand Aurel, Swiss, 01 00 00 00 00 (English);
+    
+    ***
+    
     \n\n##### Commercial sales\n\n Aurel will never ask customers to deposit payments in a non-Aurel bank account.
     
     ***
