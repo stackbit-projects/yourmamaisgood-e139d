@@ -8,9 +8,7 @@ sections:
     background_color: none
   - type: form_section
     content: "#### For inquiries or requests that require a more personal response, we will make every attempt to respond in a timely manner. Alternatively, please use our\_Global Office Locator to find contact information for a Aurel office near you.
-    
-    ***
-    
+     
     Fields marked with an asterisk (*) are required.
     
     ***
