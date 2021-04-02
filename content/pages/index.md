@@ -21,7 +21,7 @@ sections:
     background_image_size: auto
     image: images/tests.jpg
     content: |
-      ###### Raw materials trading
+      ###### Legacy of doing well
   - type: features_section
     features:
       - image_alt: Brandon Guidelines
