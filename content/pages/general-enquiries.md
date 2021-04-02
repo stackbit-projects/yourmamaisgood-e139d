@@ -281,7 +281,7 @@ sections:
     align_vert: top
     padding_top: none
     padding_bottom: large
-    background_color: none
+    background_color: secondary
     submit_label: SUBMIT
 seo:
   title: General Enquiries
