@@ -11,7 +11,7 @@ sections:
     
     ***
     
-    Fields marked with an asterisk (\\*) are required.
+    Fields marked with an asterisk (*) are required.
     
     ***
     
