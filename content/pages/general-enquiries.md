@@ -283,6 +283,7 @@ sections:
     padding_bottom: large
     background_color: none
     submit_label: SUBMIT FORM
+    submit-
 seo:
   title: General Enquiries
   description: This is the general enquiries page
