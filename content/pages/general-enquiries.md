@@ -11,7 +11,11 @@ sections:
     
     ***
     
-    Fields marked with an asterisk (\\*) are required.\n\n#####\n\nCorporate headquarters\n\nAurel Group , BP 000000, Geneva, GE, Avenue du Grand Aurel, Swiss, 01 00 00 00 00 (English);\n\n***\n\n##### Commercial sales\n\nAurel will never ask customers to deposit payments in a non-Aurel bank account.\_\n\n##### Employment offers\n\nAurel will not ask for money, processing fees, or bank information as a pre-condition of employment.\_\n\nTo be considered for employment, please submit your information through our Careers section.\n\n***\n"
+    Fields marked with an asterisk (\\*) are required.
+    
+    ***
+    
+    Corporate headquarters\n\nAurel Group , BP 000000, Geneva, GE, Avenue du Grand Aurel, Swiss, 01 00 00 00 00 (English);\n\n***\n\n##### Commercial sales\n\nAurel will never ask customers to deposit payments in a non-Aurel bank account.\_\n\n##### Employment offers\n\nAurel will not ask for money, processing fees, or bank information as a pre-condition of employment.\_\n\nTo be considered for employment, please submit your information through our Careers section.\n\n***\n"
     content_align: left
     form_position: right
     form_width: fifty
