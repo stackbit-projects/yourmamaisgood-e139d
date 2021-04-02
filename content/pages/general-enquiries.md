@@ -8,7 +8,7 @@ sections:
     background_color: none
   - type: form_section
     content: "#### For inquiries or requests that require a more personal response, we will make every attempt to respond in a timely manner. Alternatively, please use our\_Global Office Locator to find contact information for a Aurel office near you.\n\nFields marked with an asterisk (\\*) are required.\n\n***\n\n##### ![](/images/6409.jpg)\n\nCorporate headquarters\n\nAurel Group , BP 000000, Geneva, GE, Avenue du Grand Aurel, Swiss, 01 00 00 00 00 (English);\n\n***\n\n##### Commercial sales\n\nAurel will never ask customers to deposit payments in a non-Aurel bank account.\n\n***\n\n##### Employment offers\n\nAurel will not ask for money, processing fees, or bank information as a pre-condition of employment.\_\n\nTo be considered for employment, please submit your information through our Careers section.\n\n***\n"
-    content_align: right
+    content_align: left
     form_position: left
     form_width: fifty
     form_layout: inline
