@@ -15,9 +15,8 @@ sections:
 
     ***
 
-    Fields marked with an asterisk (*) are required.
 
-    
+
 
     content_align: left
     form_position: left
