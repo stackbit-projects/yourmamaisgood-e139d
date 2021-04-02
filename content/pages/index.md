@@ -21,7 +21,7 @@ sections:
     background_image_size: auto
     image: images/tests.jpg
     content: |
-      ###### Toghether has no limits.
+      ###### Raw materials trading
   - type: features_section
     features:
       - image_alt: Brandon Guidelines
