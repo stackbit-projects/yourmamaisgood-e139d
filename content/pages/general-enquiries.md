@@ -273,7 +273,7 @@ sections:
         is_required: true
       - input_type: checkbox
         name: terms
-        label: "I have read and accept the Terms of Use.\_ Please read our\_privacy statement\_to understand how we plan to use your personal information."
+        label: "I have read and accept the Terms of Use. Please read our\_privacy statement\_to understand how we plan to use your personal information."
         default_value: lorem-ipsum
         options: []
         is_required: true
