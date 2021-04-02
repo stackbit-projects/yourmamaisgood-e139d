@@ -14,8 +14,10 @@ sections:
     ##### Corporate headquarters\n\n### Aurel Group , BP 000000, Geneva, GE, Avenue du Grand Aurel, Swiss, 01 00 00 00 00 (English);\n\n***\n\n##### Commercial sales\n\n### Aurel will never ask customers to deposit payments in a non-Aurel bank account.\n\n***\n\n##### Employment offers\n\n### Aurel will not ask for money, processing fees, or bank information as a pre-condition of employment. To be considered for employment, please submit your information through our Careers section.\n\n***\n"
 
     ***
-    
+
     Fields marked with an asterisk (*) are required.
+
+    
 
     content_align: left
     form_position: left
